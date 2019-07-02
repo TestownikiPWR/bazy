@@ -1,0 +1,6 @@
+X0001
+Który z wymienionych rozk³adów nie ma wariancji:
+normalny
+wyk³adniczy
+Gauss'a
+Cauchy'ego

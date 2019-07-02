@@ -1,0 +1,6 @@
+X0100
+Czêstotliwoœæ pomiaru na poligonie pomiarowym:
+jest tym mniejsza, im mniejsze s¹ oczka w siatce
+jest wiêksza w miarê zmniejszania oczek w siatce
+cos ze stref¹ Fresnela
+jest ró¿na

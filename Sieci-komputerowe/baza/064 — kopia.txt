@@ -1,0 +1,7 @@
+X01010
+Jakie dwie akcje wykonuje prze³¹cznik Cisco? (Wybierz dwa.) 
+budowanie tabeli routingu opartej na pierwszym adresie IP w nag³ówku ramki 
+u¿ywanie Ÿród³owych adresów MAC ramek do budowania i utrzymywania tabeli adresów MAC 
+przekazywanie ramek o nieznanym docelowym adresie IP do domyœlnej bramy 
+wykorzystanie tablicy adresów MAC do przekazywania ramek za poœrednictwem docelowego adresu MAC
+badanie docelowego adresu MAC w celu dodania nowych wpisów do tabeli adresów MAC 

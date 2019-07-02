@@ -1,0 +1,6 @@
+X0110
+[img]035.png[/img]
+licznik synchroniczny
+licznik asynchroniczny
+licznik modulo 8
+licznik modulo 5

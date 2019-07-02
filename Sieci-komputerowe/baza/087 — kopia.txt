@@ -1,0 +1,6 @@
+X0001
+Jaka jest wa¿na funkcja fizycznej warstwy modelu OSI?
+Akceptuje ramki z fizycznego noœnika.
+Obejmuje dane górnej warstwy w ramki.
+Okreœla metodê dostêpu do noœnika realizowan¹ przez interfejs sprzêtowy.
+Koduje ramki w sygna³y elektryczne, optyczne lub fal radiowych. 

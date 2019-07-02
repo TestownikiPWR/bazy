@@ -1,0 +1,6 @@
+X0001
+Który protokó³ bezpieczeñstwa WLAN generuje nowy klucz dynamiczny za ka¿dym razem, gdy klient nawi¹¿e po³¹czenie z punktem dostêpowym?
+EAP
+PSK
+WEP
+WPA 

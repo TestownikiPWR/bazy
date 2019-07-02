@@ -1,0 +1,6 @@
+X0100
+[img]8.jpg[/img] Jak mo¿na nazwaæ filtr przedstawiony na obrazku
+Filtr zak³óceñ ró¿nicowych
+Filtr zak³óceñ asymetrycznych
+Filtr zak³óceñ symetrycznych
+Filtr napr¹dowy

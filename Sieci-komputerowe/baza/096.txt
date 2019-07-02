@@ -1,0 +1,6 @@
+X1000
+Podczas normalnej pracy, z której lokalizacji wiêkszoœæ prze³¹czników i routerów Cisco uruchamia system IOS?
+BARAN
+Lampa b³yskowa
+NVRAM
+Napêd

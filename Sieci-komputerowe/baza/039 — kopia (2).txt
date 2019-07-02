@@ -1,0 +1,6 @@
+X0001
+U¿ytkownik nie mo¿e uzyskaæ dostêpu do strony internetowej podczas wpisywania adresu http://www.cisco.com w przegl¹darce internetowej, ale mo¿e dotrzeæ do tej samej witryny, wpisuj¹c http://72.163.4.161. Jaki jest problem? 
+Brama domyœlna 
+DHCP 
+Stos protoko³ów TCP / IP 
+DNS 

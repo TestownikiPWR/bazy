@@ -1,0 +1,5 @@
+﻿X0100
+Która z metod nawigacji AGV jest najmniej dokładna?
+metoda żyroskopowa
+metoda sonarowa
+metoda laserowa

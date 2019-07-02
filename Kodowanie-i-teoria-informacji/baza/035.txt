@@ -1,0 +1,6 @@
+X0100
+Macierz generuj¹ca kod dualny do kodu projektowanego jest
+Macierz¹ generuj¹c¹ kod
+Macierz¹ kontroln¹ kodu
+Macierz¹ syndromu
+Macierz¹ zawieraj¹c¹ wszystkie s³owa kodowe

@@ -1,0 +1,6 @@
+X1000
+Obszar ³adunku przestrzennego w z³¹czu PN: 
+a) blokuje ruch noœników wiêkszoœciowych 
+b) przyœpiesza noœniki wiêkszoœciowe 
+c) spowalnia noœniki mniejszoœciowe 
+d) to obszar, w którym wystêpuje du¿a koncentracja wolnych noœników 

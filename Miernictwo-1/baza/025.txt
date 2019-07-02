@@ -1,0 +1,6 @@
+X1000
+25. Elementem przetwarzania sygna³u przemiennego w dziedzinie czêstotliwoœci jest:
+a) Przeliczenie próbek czasowych wykorzystuj¹ce transformacjê Fouriera
+b) Podzielenie sygna³u przemiennego na czasy czêstotliwoœciowe
+c) Przeliczenie próbek czêstotliwoœciowych wykorzystuj¹ce transformacjê falkow¹
+d) Dyskretyzacja sygna³u w dziedzinie przesuniêcia fazowego

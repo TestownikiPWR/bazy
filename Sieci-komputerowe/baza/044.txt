@@ -1,0 +1,7 @@
+X0100
+Jak¹ funkcjê zapewnia TCP?
+
+enkapsulacja danych
+wykrywanie brakuj¹cych pakietów 
+kontrola sesji komunikacyjnych
+okreœlanie œcie¿ki dla pakietów danych

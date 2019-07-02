@@ -1,0 +1,6 @@
+﻿X1000
+Transformata Laplace’a przekształca funkcję rzeczywistą zmiennej rzeczywistej w:
+funkcję zespoloną zmiennej zespolonej
+funkcję zespoloną zmiennej rzeczywistej
+funkcję rzeczywistą zmiennej rzeczywistej
+funkcję rzeczywistą zmiennej zespolonej

@@ -1,0 +1,6 @@
+X0100
+Sondy napiêciowe mierz¹ zaburzenia przewodzone na kablach zasilaj¹cych urz¹dzenia gdy:
+sygna³ zaburzeñ przewodzonych jest bardzo ma³y,
+w kablach zasilaj¹cych urz¹dzenie p³yn¹ bardzo du¿e pr¹dy,
+mo¿na do³¹czyæ sondê do wejœcia sieci sztucznej,
+brak p³yty sztucznej ziemi,

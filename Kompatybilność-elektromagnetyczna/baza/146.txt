@@ -1,0 +1,7 @@
+X00011
+Symulatory promieniuj¹ce stosuje siê do badania:
+Wra¿liwoœci urz¹dzeñ na wy³adowania elektrostatyczne
+Emisyjnoœci urz¹dzeñ
+Wra¿liwoœci urz¹dzeñ na zaburzenia w obwodach zasilania
+Wra¿liwoœci urz¹dzeñ na impulsowe pola elektromagnetyczne
+Wra¿liwoœci urz¹dzeñ na ci¹g³e pola elektromagnetyczne

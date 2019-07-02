@@ -1,0 +1,6 @@
+X0001
+51. W miernikach elektronicznych wielkoœci nieelektrycznych konieczne s¹:
+a) Przetworniki wartoœci skutecznej
+b) Przetworniki z podwójnym ca³kowaniem
+c) Przetworniki cyfrowo-analogowe
+d) Przetworniki wielkoœci nieelektrycznych na elektryczne

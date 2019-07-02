@@ -1,0 +1,5 @@
+X100
+Jakie protoko³y wystêpuj¹ w NGN?
+H.248, SIP, SIP-T, H.323
+HTTP, SIP, SIP-T
+ARP, RARP, DNS

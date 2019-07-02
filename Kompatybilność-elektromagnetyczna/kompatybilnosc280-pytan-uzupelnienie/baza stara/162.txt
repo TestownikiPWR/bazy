@@ -1,0 +1,6 @@
+X1100
+Generator udarowy 1,2/50 nanosekund mo¿e byæ sprzêgany z przewodami do³¹czonymi do badanego (???):
+Transformator pr¹dowy
+Kondensator sprzêgaj¹cy o pojemnoœci 16 mikrofaradów
+Bezpoœrednie pod³¹czenie do zacisków wejœciowych badanego urz¹dzenia
+Klamrê pojemnoœciow¹

@@ -1,0 +1,6 @@
+X0010
+Jak siê wyt³umia zak³ócenia pochodz¹ce z przewodów na poligonie (???):
+filtr górno-pasmowy
+filtr pasmowo-przepustowy 
+nie t³umimy
+filtr dolnoprzepustowy

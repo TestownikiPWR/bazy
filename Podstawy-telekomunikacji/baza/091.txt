@@ -1,0 +1,6 @@
+X1100
+Jak powstaje sygna³ PM / FM:
+uk³ad ca³kuj¹cy – modulator PM – sygna³ FM 
+uk³ad ró¿niczkuj¹cy – modulator FM – sygna³ PM
+uk³ad ca³kuj¹cy – modulator FM – sygna³ FM
+uk³ad ró¿niczkuj¹cy – modulator PM – sygna³ PM

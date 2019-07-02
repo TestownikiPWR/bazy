@@ -1,0 +1,6 @@
+X1000
+Do kodowania dŸwiêku w systemie DECT u¿ywa siê kodeka
+ ADPCM 32kbs
+ ADM 32kbs
+ LPC 20kbs
+ ACELP 10kbs

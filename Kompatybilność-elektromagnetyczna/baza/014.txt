@@ -1,0 +1,6 @@
+X0010
+Stosunek (osi¹gniêty stopieñ ³¹cznoœci)/(zabroniona przestrzeñ widmowa) jest miar¹:
+jakoœci ³¹cza
+stopy b³êdów
+efektywnoœci wykorzystania przestrzeni widmowej
+zajêtoœci widma

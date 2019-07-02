@@ -1,0 +1,6 @@
+X1000
+Wielodostêp do kana³u D zosta³ zapewniony dziêki machenizmowi:
+stwierdzenia zajêtoœci kana³u i wykrywania kolizji
+ramki i syperramki
+adresacji ramke i wykrywania b³edów
+kompensacji echa

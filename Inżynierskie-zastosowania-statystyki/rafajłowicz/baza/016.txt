@@ -1,0 +1,6 @@
+X0001
+Dystrybuanta zmiennej losowej nie mo¿e byæ funkcj¹:
+niemalej¹c¹
+rosn¹c¹
+nieci¹g³¹
+malej¹c¹

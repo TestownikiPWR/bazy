@@ -1,0 +1,6 @@
+X0100
+20. Poziom g³oœnoœci jest liczbowo równy poziomowi natê¿enia dla dŸwiêku o czêstotliwoœci:
+ 500 Hz
+ 1000 Hz
+ 2000 Hz
+ 4000 Hz.

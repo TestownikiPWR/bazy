@@ -1,0 +1,6 @@
+X1000
+Integraln¹ czêœci¹ urz¹dzenia sprzêgaj¹c - separuj¹cego jest:
+filtr wsteczny
+filtr niewsteczny
+filtr podwsteczny
+filtr nawsteczny

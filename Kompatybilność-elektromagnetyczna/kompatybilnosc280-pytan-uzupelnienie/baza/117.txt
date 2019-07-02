@@ -1,0 +1,6 @@
+X0111
+Przewód testowy umo¿liwia sprzê¿enie generatora udarowego z:
+torem wspó³osiowym
+przewodami interfejsowymi
+badanym urz¹dzeniem
+przewodami zasilaj¹cymi

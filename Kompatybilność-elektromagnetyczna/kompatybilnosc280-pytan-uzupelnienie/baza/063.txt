@@ -1,0 +1,6 @@
+X0001
+Widmo zak³óceñ przewodzonych obejmuje czêstotliwoœci:
+10kHz - 10MHz
+30MHz - 1GHz
+0 - 1GHz
+10kHz - 30MHz

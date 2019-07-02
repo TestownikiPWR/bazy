@@ -1,0 +1,5 @@
+X100
+Metoda k-najbiższych sąsiadów:
+może być wykorzystywana do klasyfikacji
+rezultaty zawsze nie zależą od liczby k
+może być tylko stosowana do danych znormalizowanych 

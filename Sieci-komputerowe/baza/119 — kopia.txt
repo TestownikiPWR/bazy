@@ -1,0 +1,6 @@
+X0100
+Jaki jest wp³yw konfigurowania polecenia routingu jednokierunkowego ipv6 na routerze?
+aby przypisaæ router do grupy multiemisji dla wszystkich wêz³ów
+w³¹czyæ router jako router IPv6 
+aby zezwalaæ tylko na pakiety unicast na routerze
+aby uniemo¿liwiæ routerowi do³¹czenie do grupy multiemisji z wszystkimi routerami

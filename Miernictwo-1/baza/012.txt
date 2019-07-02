@@ -1,0 +1,7 @@
+X00010
+12. Przedzia³ ufnoœci okreœlony jest przez:
+a) Wartoœæ b³êdu granicznego
+b) Prawdopodobienstawo popelnienia bledu grubego
+c) Zaufanie do wskazanej wartoœci mierzonej
+d) Prawdopodobieñstwo znalezienia w nim wartoœci prawdziwej
+e) Wartosc bledu grubego

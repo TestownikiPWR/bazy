@@ -1,0 +1,6 @@
+X1000
+Superramka na styku U w dostêpie podstawowym zawiera:
+8 ramek podstawowych BF
+10 ramek podstawowych BF
+4 ramki podstawowe KF
+nie zawiera ramek podstawowych

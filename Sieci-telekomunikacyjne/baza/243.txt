@@ -1,0 +1,6 @@
+X0100
+Diplex jest technik¹ trasmisji dwukierunkowej w œwiat³owodowej sieci dostepowej:
+jednym œwiat³owodem ze zwielokrotnieniem kodowym
+jednym œwiat³owodem na dwóch falach o ró¿nych d³ugoœciach
+dwoma œwiat³owodwami z kompensacj¹ opóŸnienia
+dwoma œwiat³owodowami na dwóch falach o jednakowych d³ugoœciach

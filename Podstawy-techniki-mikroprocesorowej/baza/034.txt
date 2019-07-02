@@ -1,0 +1,5 @@
+X100
+ Pierwszy 8 bitowy procesor
+Intel 8008 - 1972r.
+Intel 4004 - 1971r.
+Intel 2002 - 1971r

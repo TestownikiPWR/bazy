@@ -1,0 +1,6 @@
+X0100
+Zak³ócenia przewodzone - zakres
+150kHz - 27MHz
+150kHz - 30MHz
+150kHz - 45MHz
+150kHz - 55MHz

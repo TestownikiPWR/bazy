@@ -1,0 +1,6 @@
+X1000
+Dla sygna³u f(t), funkcjona³ modulacji impulsowej PAM ma postaæ.
+m(t)=f(t)
+m(t)=f^t±j*f’(t)
+m(t)=1±f(t)
+m(t)=e^jk*f(t)

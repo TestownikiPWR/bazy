@@ -1,0 +1,6 @@
+X1010
+Dwie g³ówne normy EMC w Polsce to:
+PN-EN 61000-6-1,
+PN - 4045,
+PN-EN 61000-6-2,
+PL-CF23 ,

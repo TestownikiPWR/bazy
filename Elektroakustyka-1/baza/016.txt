@@ -1,0 +1,6 @@
+X0001
+16. Akustyczna rezystancja w³aœciwa powietrza w temperaturze 20C wynosi:
+ 295 rejli
+ 320 rejli
+ 344 rejli
+ 415 rejli

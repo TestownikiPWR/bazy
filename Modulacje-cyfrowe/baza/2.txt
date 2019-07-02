@@ -1,0 +1,5 @@
+X100
+2. Transmisja danych w kanale z addytywnym szumem gaussowskim o pojemnoœci C jest mo¿liwa z dowolnie ma³ym prawdopodobieñstwem b³êdu P(e) (nawet P(e)=0!) tylko wtedy, gdy szybkoœæ transmisji Rs spe³nia nastêpuj¹cy warunek:
+Rs<=C
+Rs=C
+Rs>=C

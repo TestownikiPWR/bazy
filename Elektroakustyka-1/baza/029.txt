@@ -1,0 +1,6 @@
+X0010
+29. Reaktancja (czêœæ urojona impedancji) promieniowania kuli pulsuj¹cej w zakresie ma³ych czêstotliwoœci (ka<<1):
+ Roœnie proporcjonalnie do czwartej potêgi czêstotliwoœci
+ Roœnie proporcjonalnie do kwadratu czêstotliwoœci
+ Roœnie proporcjonalnie do czêstotliwoœci 
+ Jest w przybli¿eniu sta³a

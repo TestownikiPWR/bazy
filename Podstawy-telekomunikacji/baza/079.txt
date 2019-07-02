@@ -1,0 +1,6 @@
+X1000
+Przep³ywnoœci PCM-24 i PCM-30 okreœlane s¹ kolejno jako:
+1544 kbit/s i 2048 kbit/s
+1544 kbit/s i 1024 kbit/s
+2048 kbit/s i 1024 kbit/s
+2048 kbit/s i 2048 kbit/s

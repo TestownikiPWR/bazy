@@ -1,0 +1,5 @@
+﻿X0010
+Robot cylindryczny jest robotem o konfiguracji:
+POO
+OOP
+OPP

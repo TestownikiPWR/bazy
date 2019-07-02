@@ -1,0 +1,6 @@
+X0010
+W tranzystorze MOSFET z kana³em zindukowanym dla UGS=0: 
+a) p³ynie du¿y pr¹d drenu 
+b) zostaje zindukowany kana³ 
+c) pr¹d drenu nie p³ynie 
+d) tranzystor pracuje w zakresie aktywnym 

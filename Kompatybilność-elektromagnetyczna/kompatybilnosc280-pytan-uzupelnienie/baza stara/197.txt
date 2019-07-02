@@ -1,0 +1,6 @@
+X0010
+Sieæ sztuczna typu V s³u¿y do:
+pomiarów napiêcia symetrycznego 
+pomiaru pr¹dów symetrycznych
+pomiarów napiêcia niesymetrycznego
+pomiaru pr¹dów niesymetrycznych

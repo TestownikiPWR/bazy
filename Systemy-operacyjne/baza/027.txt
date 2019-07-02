@@ -1,0 +1,6 @@
+X1001
+DMA to: 
+jeden ze sposobów obs³ugi przerwao
+obs³uga urz¹dzeo nie wymagaj¹ca przerwania
+dynamiczna alokacja pamiêci wykorzystywana w stronicowaniu na ¿¹danie
+mechanizm obs³ug wejœcia-wyjœcia umo¿liwiaj¹cy przesy³anie danych bezpoœrednio z urz¹dzenia do wydzielonego miejsca w pamiêci operacyjnej

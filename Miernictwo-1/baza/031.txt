@@ -1,0 +1,6 @@
+X0010
+31. K¹t utworzony przez wektor impedancji i oœ rzeczywist¹ jest równy:
+a) Stosunkowi wartoœci skutecznych napiêcia i pr¹du
+b) K¹towi stratnoœci elementu
+c) Przesuniêciu fazowemu miedzy napiciem i pr¹dem
+d) Dobroci elementu

@@ -1,0 +1,6 @@
+X0001
+Odleg³oœæ koordynacja definiowana jest jako:
+odleg³oœæ bezpoœredniej widocznoœci nadajnik-odbiornik
+odleg³oœæ wyznaczana wzd³u¿ ortodromy
+odleg³oœæ miêdzy nadajnikami pracuj¹cymi na tej samej czêstotliwoœci
+minimalna odleg³oœæ nadajnik-odbiornik zapewniaj¹c¹ pracê bez zak³óceñ

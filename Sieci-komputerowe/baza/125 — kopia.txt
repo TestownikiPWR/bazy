@@ -1,0 +1,7 @@
+X10010
+Które dwie instrukcje poprawnie opisuj¹ typ pamiêci routera i jego zawartoœæ? (Wybierz dwa.)
+Pamiêæ ROM jest nieulotna i zawiera podstawowe oprogramowanie diagnostyczne. 
+FLASH jest nieulotny i zawiera ograniczon¹ czêœæ IOS.
+Pamiêæ ROM jest nieulotna i przechowuje dzia³aj¹cy system IOS.
+Pamiêæ RAM jest niestabilna i przechowuje tabelê routingu IP. 
+NVRAM jest nieulotna i przechowuje inne pliki systemowe.

@@ -1,0 +1,6 @@
+X0100
+Element TE1 ramki LAP-D okreœla:
+numer ramki nadanej przez terminal wspó³pracujacy z danym dostêpem
+numer logiczny terminala wspó³pracujacego z danym dostepem
+numer ramki prawid³owo odebranej
+liczbe terminali wspó³pracujacych z danym dostêpem

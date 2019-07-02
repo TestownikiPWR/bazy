@@ -1,0 +1,6 @@
+X0100
+47. Impedancja mechaniczna to:
+ Iloraz si³y i wychylenia
+ Iloraz si³y i prêdkoœci
+ Iloraz si³y i przyspieszenia
+ Iloraz prêdkoœci i wychylenia

@@ -1,0 +1,6 @@
+X1000
+Bezpoœrednia metoda badania odpornoœci urz¹dzeñ na impulsowe nara¿enia elektromagnetyczne polega na:
+umieszczeniu badanego urz¹dzenia w impulsowym polu elektromagnetycznym
+podaniu na wejœcie sygna³owe impulsu napiêcia lub pr¹du o znormalizowanych parametrach  
+podaniu na przewód zasilaj¹cy impulsu napiêcia lub pr¹du o znormalizowanych parametrach
+umieszczeniu badanego urz¹dzenia w klatce Faradaya

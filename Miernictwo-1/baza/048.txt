@@ -1,0 +1,6 @@
+X0010
+48. Modu³ impedancji elektrycznej jest równy:
+a) Przesuniêciu fazowemu miêdzy napiêciem i pr¹dem
+b) Dobroci elementu
+c) Stosunku wartoœci skutecznych napiêcia i pr¹du
+d) K¹towi stratnoœci elementu

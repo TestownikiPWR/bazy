@@ -1,0 +1,7 @@
+X01010
+Jakie s¹ dwa przyk³ady metody prze³¹czania przekrojowego? (Wybierz dwa.) 
+prze³¹czanie do przechowywania i przekazywania 
+szybkie prze³¹czanie 
+Prze³¹czanie CRC 
+prze³¹czanie bez fragmentów 
+Prze³¹czanie QOS 

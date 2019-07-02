@@ -1,0 +1,6 @@
+X0010
+Systemy echolokacyjne, radar / ultrasonograf / lidar, wykorzystuj¹ jako informacjê sygna³y echa, odpowiednio fale:
+akustyczne / radiowe / œwietlne
+œwietlne / ultradŸwiêki / radiowe
+radiowe / akustyczne / œwietlne
+œwietlne / akustyczne / radiowe

@@ -1,0 +1,6 @@
+X0001
+Numer miêdzynarodowy poprzedzony jest:
+kodem kraju
+wskaŸnikiem miêdzynarodowym
+numerem kierunkowym
+prefiksem miêdzynarodowym

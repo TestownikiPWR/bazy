@@ -1,0 +1,6 @@
+X0001
+W systemie DAB przep³ywnoœæ w kanale stereofonicznym wynosi:
+16kb/s
+64kb/s
+128kb/s
+256kb/s

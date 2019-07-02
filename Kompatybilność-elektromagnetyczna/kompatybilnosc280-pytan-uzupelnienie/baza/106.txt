@@ -1,0 +1,6 @@
+X0010
+Impuls 10/700us stosowany jest do badania odpornoœci urz¹dzeñ metod¹:
+wstrzykiwania (od strony zacisków antenowych)
+polow¹
+wstrzykiwania (od strony toru transmisyjnego)
+wstrzykiwania (od strony linii zasilaj¹cej)

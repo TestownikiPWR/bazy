@@ -1,0 +1,6 @@
+X0010
+Jaki zakres adresów lokalnych dla ³¹cza mo¿na przypisaæ do interfejsu z obs³ug¹ protoko³u IPv6? 
+FEC0 :: / 10 
+FDEE :: / 7 
+FE80 :: / 10 
+FF00 :: / 8

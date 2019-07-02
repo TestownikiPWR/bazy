@@ -1,0 +1,6 @@
+X0010
+Rozmiar sto³u obrotowego na otwartym poligonie do pomiaru zaburzeñ promieniowanych zale¿y od:
+zale¿y od ciê¿aru badanego urz¹dzenia
+minimalnej czêstotliwoœci pomiarowej
+zale¿y od planowanego maksymalnego rozmiaru badanego urz¹dzenia
+maksymalnej czêstotliwoœci pomiarowej

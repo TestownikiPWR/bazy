@@ -1,0 +1,6 @@
+X1100
+Proces koñczy swoje dzia³anie, gdy:
+wykona swoj¹ ostatni¹ instrukcjê
+jego wykonanie sta³o siê zbêdne lub naruszy³ zasoby innego procesu
+wyczerpa³a siê wolna pamiêæ przydzielona dla systemu
+otrzyma³ sygna³ zakoñczenia od swojego potomka

@@ -1,0 +1,6 @@
+X0010
+Co oznacza skrót EDFA
+ inna nazwa zjawiska nieliniowej intermodulacji dwóch lub wiêcej fal o ró¿nych czêstotliwoœciach
+ wzmacniacz wykorzystuj¹cy zjawisko Ramana
+ wzmacniacz optyczny domieszkowany erbem
+ to system przeznaczony przede wszystkim do budowy gigabitowych sieci szkieletowych

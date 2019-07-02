@@ -1,0 +1,6 @@
+X0100
+Podaj cztery fazy (procesy) centrali telefonicznej:
+przegl¹danie ³¹czy, obs³uga sygnalizacji, wybór drogi, administracja i utrzymanie
+preselekcja, zestawienie po³¹czenia, stan rozmowy, roz³¹czenie
+Strowger 32 AA/AB, Pentaconta 1000C, K-66, E-10 A
+rejestrowanie, sterowanie, programowanie, wybieranie

@@ -1,0 +1,7 @@
+X00101
+Które dwa stwierdzenia opisuj¹ funkcje lub cechy ROM w routerze? (Wybierz dwa.)
+przechowuje tabele routingu
+umo¿liwia aktualizacjê oprogramowania bez wymiany wtykowych uk³adów na p³ycie g³ównej
+utrzymuje instrukcje diagnostyki POST 
+przechowuje pamiêæ podrêczn¹ ARP
+przechowuje program bootstrap 

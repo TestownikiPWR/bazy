@@ -1,0 +1,6 @@
+X0100
+Ca³kowita przep³ywnoœæ dostêpu podstawowego wynosi:
+64kb/s
+144kb/s
+256kb/s
+192kb/s

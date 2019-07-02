@@ -1,0 +1,7 @@
+X00010
+Dlaczego numery portów s¹ zawarte w nag³ówku TCP segmentu? 
+wskazanie prawid³owego interfejsu routera, który powinien zostaæ u¿yty do przekazania segmentu 
+aby okreœliæ, które porty prze³¹cznika powinny odbieraæ lub przekazywaæ segment 
+aby okreœliæ, który protokó³ warstwy 3 powinien zostaæ u¿yty do enkapsulacji danych 
+aby umo¿liwiæ hostowi odbieraj¹cemu przes³anie danych do odpowiedniej aplikacji 
+aby host przyjmuj¹cy móg³ z³o¿yæ pakiet w odpowiedniej kolejnoœci 

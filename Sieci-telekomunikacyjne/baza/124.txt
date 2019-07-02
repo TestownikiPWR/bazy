@@ -1,0 +1,6 @@
+X1000
+Kana³ typu B ma przepustowoœæ:
+64kb/s
+72kb/s
+144kb/s
+60kb/s

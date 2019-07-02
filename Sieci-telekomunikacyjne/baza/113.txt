@@ -1,0 +1,6 @@
+X0010
+Co to jest LAPD
+protokó³ dostêpu do kana³u B
+protokó³ dostêpu do kana³u C
+protokó³ dostêpu do kana³u D
+Los Angeles Police Department

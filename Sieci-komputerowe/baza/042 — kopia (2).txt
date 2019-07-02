@@ -1,0 +1,6 @@
+X0010
+Podczas procesu enkapsulacji, co dzieje siê w warstwie ³¹cza danych dla komputera pod³¹czonego do sieci Ethernet?
+Dodano adres IP. 
+Adres logiczny zostanie dodany. 
+Fizyczny adres zostanie dodany.   
+Numer portu procesowego zosta³ dodany. 

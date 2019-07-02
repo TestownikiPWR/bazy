@@ -1,0 +1,6 @@
+X0101
+Modulacja amplitudy impulsów PAM mo¿e powstawaæ w wyniku: próbkowania […] {--} fal¹ w postaci ci¹gu […]:
+[img]072A.jpg[/img]
+[img]072B.jpg[/img]
+[img]072C.jpg[/img]
+chwilowego - krótkie impulsy; naturalnego - krótkie impulsy

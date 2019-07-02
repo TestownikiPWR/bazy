@@ -1,0 +1,6 @@
+X0100
+Mamy wielomian g(x)=x3 + x +1 jaki kod on generuje
+BCH(15,11)
+BCH(7,4)
+BCH(7,3)
+BCH(9,6)

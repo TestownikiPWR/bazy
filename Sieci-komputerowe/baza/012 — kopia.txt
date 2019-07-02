@@ -1,0 +1,6 @@
+X0010
+Które zdanie najlepiej opisuje dzia³anie protoko³u File Transfer Protocol?
+Klient FTP u¿ywa numeru portu Ÿród³owego 21 i losowo wygenerowanego numeru portu docelowego podczas ustanawiania ruchu kontrolnego za pomoc¹ serwera FTP.
+Klient FTP u¿ywa portu Ÿród³owego o numerze 20 i losowo wygenerowanego numeru portu docelowego podczas ustanawiania ruchu danych za pomoc¹ serwera FTP.
+Serwer FTP u¿ywa portu Ÿród³owego o numerze 20 i losowo wygenerowanego numeru portu docelowego podczas ustanawiania ruchu steruj¹cego za pomoc¹ klienta FTP. 
+Serwer FTP u¿ywa portu Ÿród³owego o numerze 21 i losowo wygenerowanego numeru portu docelowego podzas ustanawiania kontroluj ruch za pomoc¹ klienta FTP.

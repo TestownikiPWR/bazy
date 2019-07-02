@@ -1,0 +1,5 @@
+X100
+33. W jaki sposób mo¿na zapieniæ sta³y (niezale¿nie od chwilowej wartoœci sygna³u) odstêp sygna³u od szumu kwantyzacji przy przetwarzaniu A/C w PCM
+stosuj¹c nierównomierne kwantowanie sygna³u
+brak takiej mozliwosci
+zadna z powyzszych

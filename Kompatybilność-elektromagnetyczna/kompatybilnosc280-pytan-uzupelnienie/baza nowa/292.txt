@@ -1,0 +1,6 @@
+X0100
+W bezpoœrednim otoczeniu symulatora impulsów elektromagnetycznych wykorzystuj¹cego antenê ramow¹
+nie wystêpuje pole EM
+dominuje sk³adowa magnetyczna pola
+sk³adowe pola EM s¹ sobie równe
+dominuje sk³adowa elektryczna pola

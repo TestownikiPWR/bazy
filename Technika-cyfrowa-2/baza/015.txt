@@ -1,0 +1,6 @@
+X0110
+Wejsciowa tablica LUT to:
+Pamiec RAM o pojemnosci 4 bitów
+Pamiec RAM o pojemnosci 16 bitów
+Mozna wykorzystac do realizacji funkcji 4 zmiennych
+Pamiec RAM  o pojemnosci 8 bitów

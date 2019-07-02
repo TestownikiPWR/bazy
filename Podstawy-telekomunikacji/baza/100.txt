@@ -1,0 +1,6 @@
+X0010
+Sygna³y informacyjne maj¹ ró¿ne wymagania [kbit/s] w transmisji cyfrowej, odpowiednio teledacja / telefonia / telewizja:
+4,8 / 64 / 500
+48 / 64 / 500
+4,8 / 64 / 4500
+4,8 / 6,4 / 4500

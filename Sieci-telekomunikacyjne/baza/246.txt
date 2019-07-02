@@ -1,0 +1,6 @@
+X0100
+Jaka wersja pasywnej sieci PON nie jest realizowana:
+GEPON
+CPON
+GPON
+EPON

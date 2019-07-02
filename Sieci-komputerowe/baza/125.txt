@@ -1,0 +1,7 @@
+X10001
+Jakie dwa wstêpnie skonfigurowane ustawienia wp³ywaj¹ce na bezpieczeñstwo znajduj¹ siê na wiêkszoœci nowych routerów bezprzewodowych? (Wybierz dwa.)
+broadcast SSID 
+W³¹czone filtrowanie MAC
+W³¹czone szyfrowanie WEP
+Wymagane uwierzytelnianie PSK
+domyœlne has³o administratora 

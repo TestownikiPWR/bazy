@@ -1,0 +1,6 @@
+X1000
+Podczas badania wra¿liwoœci urz¹dzeñ na impulsy typu “surge”
+mo¿e uszkodziæ trwale badane urz¹dzenie,
+Impulsów typu “surge” nie stosuje siê do badania wra¿liwoœci urz¹dzeñ,
+mo¿na tylko zak³óciæ pracê badanego urz¹dzania,
+nie mo¿na trwale uszkodziæ badanego urz¹dzenia urz¹dzenia,

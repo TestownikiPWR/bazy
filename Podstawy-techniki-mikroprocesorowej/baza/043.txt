@@ -1,0 +1,6 @@
+X1100
+I2C, linie interfejsu
+SDA
+SCL
+SAD
+SLC

@@ -1,0 +1,6 @@
+X1000
+Szum impulsowy jest spowodowany:
+podczas komutacji w centralach, wy³adowania koronowe w liniach, niedostateczne t³umienie miedzy torami transmisyjnymi ró¿nych systemach, wystêpowanie burz z piorunami w pobli¿u torów kablowych
+noœniki przep³ywaj¹ce przez z³¹cze i ulegaj¹ce rekombinacji
+noœniki tworz¹ce ³adunek przestrzenny w pobli¿u z³¹cza
+dyskretnym charakterem noœników ³adunku i wystêpuje w wiêkszoœci elektronicznych elementów czynnych

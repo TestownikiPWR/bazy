@@ -1,0 +1,6 @@
+X1000
+Zak³ócenia przemys³owe s¹ wytwarzane przez systemy energetyczne i urz¹dzenia zap³onowe, odpowiednio w zakresach czêstotliwoœci:
+mniejszych od 10 MHz i (0,02 - 1) GHz
+do 1 MHz i (0,02 - 1) GHz
+do 30 MHz i (0,02 - 1) GHz
+(0,2 - 1) GHz i do 10 MHz

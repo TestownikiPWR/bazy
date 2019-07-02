@@ -1,0 +1,5 @@
+X100
+Sieci neuronowe głębokie:
+mogą mieć kilkanaście warstw
+nie mają żadnej warstwy ukrytej
+zawsze wymagają wykonania wcześniejszej ekstrakcji cech

@@ -1,0 +1,6 @@
+X0001
+Próba losowa prosta oznacza, ¿e tworz¹ce j¹ zmienne losowe:
+s¹ niezale¿ne
+maj¹ ten sam rozk³ad co cechy w ca³ej populacji
+s¹ niezale¿ne i maj¹ rozk³ad niezale¿ny od cechy w ca³ej populacji
+s¹ niezale¿ne i maj¹ ten sam rozk³ad, co cecha w ca³ej populacji

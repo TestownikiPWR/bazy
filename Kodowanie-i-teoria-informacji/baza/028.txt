@@ -1,0 +1,6 @@
+X0010
+Który z kodów nie ma szansy zostaæ kodem idealnym
+O nieparzystej odleg³oœci minimalnej
+O zdolnoœci detekcyjnej 2
+O parzystej odleg³oœci minimalnej
+Kod Hamminga

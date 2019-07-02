@@ -1,0 +1,5 @@
+X100
+17. Prawdopodobieñstwa wytapiania b³êdu w przypadku koherentnej demodulacji sygna³ów BPSK i 2-ASK s¹:
+P(e)BPSK=P(e)2-ASK
+P(e)BPSK>P(e)2-ASK
+P(e)BPSK<P(e)2-ASK

@@ -1,0 +1,6 @@
+X0010
+Administrator sieci rozwi¹zuje problemy z ³¹cznoœci¹ na serwerze. Korzystaj¹c z testera, administrator zauwa¿a, ¿e sygna³y generowane przez kartê NIC serwera s¹ zniekszta³cone i nie nadaj¹ siê do u¿ytku. W której warstwie modelu OSI jest skategoryzowany b³¹d? 
+warstwa prezentacji 
+Warstwa sieci 
+warstwa fizyczna 
+Warstwa ³¹cza danych 

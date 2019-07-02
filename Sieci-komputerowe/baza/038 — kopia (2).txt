@@ -1,0 +1,6 @@
+X0010
+Technik sieci podejrzewa, ¿e okreœlone po³¹czenie sieciowe miêdzy dwoma prze³¹cznikami Cisco ma niedopasowanie dupleksu. Które polecenie u¿y³by technik, aby zobaczyæ szczegó³y warstwy 1 i warstwy 2 w porcie prze³¹cznika? 
+poka¿ tabelê adresów MAC
+Poka¿ skrót interfejsu IP 
+poka¿ interfejsy 
+poka¿ running-config 

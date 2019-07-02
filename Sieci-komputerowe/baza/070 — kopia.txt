@@ -1,0 +1,8 @@
+X011100
+Jakie s¹ trzy charakterystyki transmisji multiemisji? (Wybierz trzy.) 
+Adres Ÿród³owy transmisji multiemisji mieœci siê w zakresie od 224.0.0.0 do 224.0.0.255. 
+Pojedynczy pakiet mo¿e zostaæ wys³any do grupy hostów. 
+Transmisje multiemisji mog¹ byæ u¿ywane przez routery do wymiany informacji o routingu. 
+Routery nie bêd¹ przekazywaæ adresów multiemisji w zakresie od 224.0.0.0 do 224.0.0.255. 
+Komputery wykorzystuj¹ transmisjê multiemisji do ¿¹dania adresów IPv4. 
+Komunikaty multiemisji mapuj¹ adresy warstw ni¿szych na adresy warstw wy¿szych.

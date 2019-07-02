@@ -1,0 +1,6 @@
+X1000
+Mamy kod cykliczny o parametrach (n, k). Jaki jest stopieñ wielomianu do zapisu s³owa informacyjnego?
+k-1
+n-k-1
+n-1
+n-k

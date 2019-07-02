@@ -1,0 +1,6 @@
+X1000
+Tabele dekodera stosujemy do dekodowania korekcyjnego
+wszystkich kodów, z bitami parzystoœci
+wszystkich kodów
+niektórych kodów
+zadnych kodow

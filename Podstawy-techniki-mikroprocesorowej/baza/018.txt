@@ -1,0 +1,6 @@
+X0110
+Wbudowana pamiêæ FLASH w stosunku do pamiêci EEPROM cechuje siê…
+A. wiêksz¹ liczb¹ programowañ
+B. mniejsz¹ liczb¹ programowañ
+C. wiêksz¹ pojemnoœci¹
+D. mniejsz¹ pojemnoœci¹

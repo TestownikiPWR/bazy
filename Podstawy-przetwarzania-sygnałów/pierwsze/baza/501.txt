@@ -1,0 +1,9 @@
+X1100001
+[img]501.png[/img]
+liniowo-niezale¿na
+liczba wektorów = N
+liczba wektorów > N
+liczba wektorów < N
+ortogonalna
+ortonormalna
+stanowiæ zbiór maksymalny przestrzeni

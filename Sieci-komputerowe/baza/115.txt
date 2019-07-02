@@ -1,0 +1,7 @@
+X10000
+Technik u¿ywa polecenia ping 127.0.0.1. Co to jest testowanie technika?
+stos TCP / IP na hoœcie sieci 
+³¹cznoœæ miêdzy dwoma s¹siednimi urz¹dzeniami Cisco
+³¹cznoœæ miêdzy komputerem a bram¹ domyœln¹
+³¹cznoœæ miêdzy dwoma komputerami w tej samej sieci
+fizyczna ³¹cznoœæ konkretnego komputera i sieci

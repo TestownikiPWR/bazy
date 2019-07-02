@@ -1,0 +1,8 @@
+X100011
+Które z poni¿szych pojêæ dotycz¹ ekranowania przed polami elektromagnetycznymi? (wybierz 3)
+impedancja sprzê¿eniowa
+czêœtotliwoœæ rezonansowa
+zysk anteny
+t³umienie strat odbicia
+t³umiennoœæ sprzê¿enia
+skutecznoœæ ekranowania

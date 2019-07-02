@@ -1,0 +1,6 @@
+X0100
+Wariancja zmiennej losowej okreœla
+jej b³¹d œredniokwadratowy
+jej œredniokwadratowe odchylenie od wartoœci
+jej najbardziej prawdopodobn¹ wartoœæ
+jej poziom wiarygodnoœci wzglêdem œredniej

@@ -1,0 +1,6 @@
+X0100
+30. Zalet¹ metody porównawczej pomiaru rezystancji jest:
+a) Redukcja b³êdów losowych
+b) Redukcja b³êdu systematycznego
+c) Wprowadzenie z drugiej rezystancji wzorcowej
+d) Wprowadzanie drugiego Ÿród³a napiêcia

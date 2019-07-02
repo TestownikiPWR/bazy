@@ -1,0 +1,8 @@
+X001000
+6. Wzorzec pierwotny ampera budowany jest jako:
+a) Dwa równoleg³e nieskoñczone d³ugie przewody w prózni
+b) Polaczenie rezystora wzorcowego i zródla napiecia
+c) Waga pr¹dowa
+d) Zrównowa¿ony mostek Westona
+e) Dwa rownolegle nieskonczenie dlugie przewody
+f) Przewody o pomijalnie malej dlugosci umieszczone w prozni

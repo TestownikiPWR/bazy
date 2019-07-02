@@ -1,0 +1,6 @@
+X0010
+Jakie okreœlenie nie odnoœci siê do sieci sztucznej:
+Musi byæ po³¹czona z p³yt¹ sztucznej ziemi
+Jest po³¹czeniem urz¹dzenia sprzêgaj¹cego i odprzêgaj¹cego
+Stabilizuje napiêcie sieciowe
+Stabilizuje impedancje obwodów do³¹czonych do badanych obiektów

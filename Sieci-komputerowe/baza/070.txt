@@ -1,0 +1,6 @@
+X0100
+Otwórz dzia³anie PT. Wykonaj zadania w instrukcji dzia³ania, a nastêpnie odpowiedz na pytanie. Który adres IPv6 jest przypisany do interfejsu Serial0 / 0/0 w RT2?
+2001: db8: abc: 1 :: 1
+2001: db8: abc: 5 :: 1 
+2001: db8: abc: 5 :: 2
+2001: db8: abc: 10 :: 15

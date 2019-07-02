@@ -1,0 +1,6 @@
+X1000
+Kodowanie kana³owe informacji ma za zadanie
+Zabezpieczenie informacji przed przypadkowymi b³êdami
+Dopasowanie sygna³u cyfrowego do standardu stosowanego w komputerach PC
+Zabezpieczenie informacji przed niepowo³anym dostêpem
+Zabezpieczenie informacji przed b³êdami i pods³uchem

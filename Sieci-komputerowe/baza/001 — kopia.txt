@@ -1,0 +1,6 @@
+X0100
+Co to jest funkcja warstwy ³¹cza danych?
+zapewnia formatowanie danych
+zapewnia wymianê danych poprzez wspólne lokalne media 
+zapewnia kompleksow¹ dostawê danych miêdzy hostami
+zapewnia dostarczanie danych miêdzy dwiema aplikacjami

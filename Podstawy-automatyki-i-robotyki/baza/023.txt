@@ -1,0 +1,5 @@
+﻿X1000
+Które z wymienionych wielkości należą do parametrów nastawialnych uniwersalnych regulatorów przemysłowych:
+wzmocnienie
+czas zdwojenia
+czas wyprzedzenia

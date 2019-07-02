@@ -1,0 +1,5 @@
+X100
+6. Demodulator dzia³aj¹cy na zasadzie maksymalizacji ilorazu wiarygodnoœci podejmuje decyzje na podstawie:
+korelacji wzajemnej pomiêdzy sygna³em odebranym a sygna³ami wzorcowymi
+korelacji wzajemnej pomiêdzy sygna³em odebranym a sygna³ami zparametryzowany
+¿adna z powy¿szych

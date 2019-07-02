@@ -1,0 +1,8 @@
+X010001
+W celu ochrony informacji u¿ytecznej przed niepo¿¹dan¹ detekcj¹ elektromagnetyczn¹ stosujemy (wybierz dwa):
+stra¿ przemys³ow¹
+oszacowanie stopnia protekcji systemu
+detektory prominiowania ultrafioletowego
+protekcjê zatrudnionych pracowników
+generatory mikrofal
+strefy ochronne

@@ -1,0 +1,6 @@
+X0010
+Jaka treœæ pola jest u¿ywana przez ICMPv6 w celu ustalenia, ¿e pakiet wygas³?
+Pole TTL
+Pole CRC
+Pole Limit przeskoków 
+Pole przekroczenia czasu

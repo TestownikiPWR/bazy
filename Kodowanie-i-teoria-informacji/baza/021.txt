@@ -1,0 +1,6 @@
+X1000
+Waga Hamminga reszty r(x)=R_e(x)*[y(x)] po pierwszym teœcie jest wiêksza od zdolnoœci korekcyjnej kodu cyklicznego, to:
+Mog³y wyst¹pic b³êdy w czêœci informacyjnej
+Mog³y wyst¹piæ b³êdy w czêœci informacyjnej i na pewno mo¿na je skorygowaæ
+Wyst¹pi³ na pewno b³¹d, którego siê nie da skorygowaæ
+Wyst¹pi³y b³êdy w czêœci kontrolnej kodu, ale mo¿na je skorygowaæ

@@ -1,0 +1,6 @@
+X0100
+B³¹d pierwszego rodzaju to:
+przyjêcie hipotezy fa³szywej
+odrzucenie hipotezy prawdziwej
+brak rozstrzygniêcia testu
+wpadniêcie wyniku testu do obszaru krytycznego

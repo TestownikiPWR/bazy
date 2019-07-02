@@ -1,0 +1,6 @@
+X1000
+Co oznacza, ¿e metryka drogi przez kratê stanu w dekoderze równa siê 2.
+Podczas transmisji zakodowanej informacji w kanale wyst¹pi³o przek³amanie dwóch symboli.
+jest to iloœæ stanów dekodera.
+Nic nie oznacza.
+Odleg³oœæ pomiêdzy stanami dekodera jest równa 2, a wiêc mo¿e od detekowaæ jeden b³¹d.

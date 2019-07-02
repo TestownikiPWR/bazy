@@ -1,0 +1,6 @@
+X0100
+Na ile poziomów podzielono funkcje sygnalizacji NR 7 ?
+ 7
+ 4
+ 3
+ 10

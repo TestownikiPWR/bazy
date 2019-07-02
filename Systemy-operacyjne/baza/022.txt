@@ -1,0 +1,6 @@
+X1010
+Sekcja krytyczna:
+to problem zwi¹zany z koordynacj¹ grupy procesów sekwencyjnie obrabiaj¹cych jakiœ zasób
+to problem wspó³dzielenia zasobu (na zasadzie odczytu) przez grupê procesów
+to problem wspó³dzielenia zasobu (na zasadzie modyfikacji) przez grupê procesów
+to metoda przekazania parametrów do monitora w celu wywo³ania funkcji systemowej

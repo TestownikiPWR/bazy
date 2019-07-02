@@ -1,0 +1,6 @@
+X1000
+Co wykorzystuje tor symetryczny, która z technologii:
+ADSL
+HFC
+FITL
+WLL

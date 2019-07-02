@@ -1,0 +1,6 @@
+X0010
+[img]023.png[/img]
+F-Snedecora o (n-1) i (n-2) stopniach swobody
+F-Snedecora o (n-1) i (n-1) stopniach swobody
+t-Studenta o (n-1) stopniach swobody
+t-Studenta o n stopniach swobody

@@ -1,0 +1,6 @@
+X0001
+Uklady z rodziny XC9500 moga pracowac:
+Tylko z poziomami 5V TTL CMOS
+Tylko z poziomami 3,3 V
+Tylko z poziomami 12 V CMOS
+Zarówno z poziomami 3,3 V 5 V

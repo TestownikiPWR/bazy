@@ -1,0 +1,6 @@
+X0011
+Badanie oddzia³ywañ impulsów towarzysz¹cych wybuchom j¹drowym odbywa siê:
+poprzez wywo³anie mikro-wybuchów j¹drowych
+na poligonach nuklearnych
+poprzez budowanie symulatorów polowych równoleg³op³ytowych
+poprzez budowanie symulatorów promieniuj¹cych

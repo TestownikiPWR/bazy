@@ -1,0 +1,6 @@
+X1010
+Instrukcje sekwencyjne wykonywane sa
+W kolejnosci umieszczenia
+Jednoczesnie, niezaleznie od kolejnosci
+W procesach
+W funkcjach

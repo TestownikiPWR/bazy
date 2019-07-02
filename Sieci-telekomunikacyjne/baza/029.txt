@@ -1,0 +1,6 @@
+X0100
+W odniesieniu do sygna³u w standardzie D2-MAC b³êdne jest stwierdzenie
+podczas wygaszania linii przesy³ane s¹ cyfrowe sygna³y synchronizacji i dŸwiêku
+w ka¿dej aktywnej czêœci linii przesy³ane s¹ dwa sygna³y ró¿nicowe i sygna³ luminancji
+w aktywnej czêœci linii przesy³any jest jeden z sygna³ów ró¿nicowych i sygna³ luminancji
+stosowana jest pakietowa organizacja sygna³ów cyfrowych

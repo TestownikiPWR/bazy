@@ -1,0 +1,5 @@
+﻿X1000
+Robot typu Scara to robot o konfiguracji odcinka regionalnego:
+OOP
+OOO
+OPO

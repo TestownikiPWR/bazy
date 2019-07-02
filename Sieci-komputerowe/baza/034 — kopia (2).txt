@@ -1,0 +1,9 @@
+X101100
+Jakie s¹ dwie cechy ARP? (Wybierz dwa.)
+Które trzy stwierdzenia charakteryzuj¹ UDP? (Wybierz trzy.) 
+UDP zapewnia podstawowe funkcje bezpo³¹czeniowej warstwy transportowej. 
+Protokó³ UDP zapewnia zorientowany na po³¹czenia, szybki transport danych na poziomie warstwy 3. 
+Protokó³ UDP wykorzystuje protoko³y warstwy aplikacji do wykrywania b³êdów. 
+Protokó³ UDP jest protoko³em o niskim obci¹¿eniu, który nie zapewnia mechanizmów sekwencjonowania ani kontroli przep³ywu.  
+Protokó³ UDP wykorzystuje protokó³ IP do wykrywania i odzyskiwania b³êdów. 
+Protokó³ UDP zapewnia zaawansowane mechanizmy kontroli przep³ywu. 

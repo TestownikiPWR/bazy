@@ -1,0 +1,6 @@
+X1000
+Kiedy entropia osi¹ga maksymaln¹ wartoœæ
+Kiedy wszystkie informacje s¹  jednakowo prawdopodobne
+Kiedy wszystkie informacje s¹ jednakowe
+Maksymalna wartoœæ entropii jest zawsze równa 1
+Maksymalna wartoœæ entropii jest nieskoñczona

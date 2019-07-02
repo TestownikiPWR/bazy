@@ -1,0 +1,6 @@
+X0100
+Dany jest wielomian generuj¹cy g(x)=x3+x+1. Który z wymienionych kodów mo¿e byæ wygenerowany takim wielomianem
+Cykliczny (3, 1)
+BCH (7, 4)
+Cykliczny (15, 13)
+Cykliczny (7, 3)

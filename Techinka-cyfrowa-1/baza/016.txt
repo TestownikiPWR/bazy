@@ -1,0 +1,3 @@
+X1
+W wyniku minimalizacji funkcji x1x2x3 metod¹ McCluskey otrzymano nastêpuj¹c¹ tabelê pokrycia
+?

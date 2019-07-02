@@ -1,0 +1,7 @@
+X10000
+Administrator sieci jest w ró¿ny sposób podsieci danego bloku adresów IPv4. Która kombinacja adresów sieci i d³ugoœci prefiksów zapewni najbardziej efektywne wykorzystanie adresów w razie potrzeby dla 2 podsieci obs³uguj¹cych 10 hostów i 1 podsieæ, które obs³uguj¹ 6 hostów?
+10.1.1.128/28 10.1.1.144/28 10.1.1.160/29 
+10.1.1.128/28 10.1.1.144/28 10.1.1.160/28
+10.1.1.128/28 10.1.1.140/28 10.1.1.158/26
+10.1.1.128/26 10.1.1.144/26 10.1.1.160/26
+10.1.1.128/26 10.1.1.140/26 10.1.1.158/28

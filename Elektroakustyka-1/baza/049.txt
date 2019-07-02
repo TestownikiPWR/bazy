@@ -1,0 +1,6 @@
+X0100
+49. Poziom ciœnienia akustycznego wynosi 80dB. Wartoœæ skutecznego ciœnienia jest równa:
+ 0,02 Pa
+ 0,2 Pa
+ 2Pa
+ 20Pa

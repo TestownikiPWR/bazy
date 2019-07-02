@@ -1,0 +1,6 @@
+X0010
+Podatnoœæ jest to:
+poziom sygna³u zak³ócaj¹cego przy którym nie obserwuje siê reakcji BU
+minimalny poziom sygna³u zak³ócaj¹cego, który uszkadza BU
+reakcja badanego urz¹dzenia na sygna³ zak³ócaj¹cy
+maksymalny poziom sygna³u zak³ócaj¹cego przy którym BU dzia³a poprawnie

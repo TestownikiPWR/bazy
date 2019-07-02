@@ -1,0 +1,6 @@
+X1000
+Charakterystyka szumów dla modulacji
+SSB = 1, DSB-SC = 2, DSB-AM = 0.66
+SSB = 2, DSB-SC = 0.66, DSB-AM = 1
+DSB-AM = 2, SSB = 2, DSB-SC = 0.66
+DSB-SC = 1, SSB = 2, DSB-AM = 0.66

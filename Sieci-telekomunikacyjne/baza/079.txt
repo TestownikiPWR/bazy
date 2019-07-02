@@ -1,0 +1,5 @@
+X100
+Które z rozwiązań jest systemem dla linii światłowodowych?
+FITL
+FTTB
+FTTH

@@ -1,0 +1,6 @@
+X0010
+20. Przetwornik wartoœci szczytowej wykorzystuje efekt:
+a) Prostowania jednopo³ówkowego przez diodê pó³przewodnikow¹
+b) Prostowania dwupo³ówkowego przez diodê pó³przewodnikow¹
+c) £adowania kondensatora przez diodê pó³przewodnikow¹
+d) £adowania woltomierza przez diodê pó³przewodnikow¹

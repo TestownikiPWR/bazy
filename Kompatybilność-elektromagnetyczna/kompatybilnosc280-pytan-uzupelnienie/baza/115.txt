@@ -1,0 +1,6 @@
+X1001
+Badania odpornoœci urz¹dzeñ elektronicznych na wy³adowania elektrostatyczne prowadzone s¹ zgodnie z wymaganiami stawianymi:
+przez normy IEC
+przez normy MIL
+przez normy PN
+przez normy CISPR

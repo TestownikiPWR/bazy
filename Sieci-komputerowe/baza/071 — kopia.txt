@@ -1,0 +1,7 @@
+X10000
+Do czego s³u¿y NAT64 w IPv6? 
+Konwertuje pakiety IPv6 na pakiety IPv4. 
+Przek³ada prywatne adresy IPv6 na publiczne adresy IPv6. 
+Umo¿liwia firmom korzystanie z unikalnych lokalnych adresów IPv6 w sieci. 
+Konwertuje zwyk³e adresy IPv6 na 64-bitowe adresy, z których mo¿na korzystaæ w Internecie. 
+Konwertuje 48-bitowy adres MAC na 64-bitowy adres hosta, który mo¿e byæ u¿yty do automatycznego adresowania hosta. 

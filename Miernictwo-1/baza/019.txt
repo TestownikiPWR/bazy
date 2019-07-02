@@ -1,0 +1,6 @@
+X0001
+19. Najprostszy przetwornik pr¹du na napiêcie wykorzystuje:
+a) zasadê zachowania energii
+b) zasadê nieoznaczonoœci
+c) prawo Kirchoffa
+d) prawo Ohma

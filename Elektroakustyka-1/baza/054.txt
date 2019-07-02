@@ -1,0 +1,6 @@
+X1000
+54. W rezonatorze z fal¹ p³aska zamkniêtym na obu koñcach:
+ Odk³ada siê ca³kowita liczba po³ówek d³ugoœci fali
+ Odk³ada siê wy³¹cznie nieparzysta liczba po³ówek d³ugoœci fali
+ Odk³ada siê wy³¹cznie parzysta liczba po³ówek d³ugoœci fali
+ Odk³ada siê wy³¹cznie nieparzysta liczba æwiartek d³ugoœci fali

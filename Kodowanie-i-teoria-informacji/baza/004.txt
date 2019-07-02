@@ -1,0 +1,6 @@
+X0001
+Maj¹c do dyspozycji wagê Hamminga syndromu mo¿emy:
+okreœliæ d³ugoœæ odebranych ci¹gów
+nic nie mo¿emy
+okreœliæ liczbê b³êdów
+okreœliæ, czy ci¹g zosta³ odebrany poprawnie

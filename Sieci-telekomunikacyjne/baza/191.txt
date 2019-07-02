@@ -1,0 +1,6 @@
+X0010
+W celu uzyskania b.dobrej jakoœci transmisji g³osu w sieciach VoIP opóŸnienie transmisji
+powinno byœ porównywalne z jitterem
+nie powinno byæ wiêksze ni¿ 150us
+nie powinno byæ wiêksze ni¿ 150ms
+nie powinno byæ mniejsze ni¿ jitter

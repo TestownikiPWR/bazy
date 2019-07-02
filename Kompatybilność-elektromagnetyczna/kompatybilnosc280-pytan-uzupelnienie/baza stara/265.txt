@@ -1,0 +1,6 @@
+X1000
+wspó³czynnik SAR jest:
+miar¹ wewnêtrzn¹,
+miar¹ zewnêtrzn¹,
+miar¹ pr¹du indukowanego,
+miar¹ natêzenia pola elektromagnetycznego,

@@ -1,0 +1,5 @@
+X110
+35. Od czego zale¿y S/N przy modulacji delta zastosowanej dla Asin(t)
+pulsacji sygna³u analogowego
+fp
+zadna z wymienionych

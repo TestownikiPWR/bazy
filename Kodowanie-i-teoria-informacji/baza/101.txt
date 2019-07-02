@@ -1,0 +1,6 @@
+X1000
+Który z przedstawionych kodów liniowych nie jest kodem blokowym 
+splotowy 
+z bitem parzystoœci
+BCH 
+cykliczny

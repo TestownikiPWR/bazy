@@ -1,0 +1,6 @@
+X0100
+W systemie CUPL znak # to:
+And
+Or
+Not
+Xor

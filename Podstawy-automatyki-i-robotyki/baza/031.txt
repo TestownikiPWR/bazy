@@ -1,0 +1,5 @@
+﻿X0010
+Czy sterując wejściem można zdestabilizować układ zamknięty z członem PID?
+nie
+zależy
+tak

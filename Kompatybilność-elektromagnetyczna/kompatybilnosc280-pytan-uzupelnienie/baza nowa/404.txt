@@ -1,0 +1,7 @@
+X01010
+Zadaniem sieci sztucznej podczas pomiaru zaburzeñ przewodzonych przez sieæ zasilaj¹c¹ jest (wybierz dwie):
+zapewnienie mo¿liwoœci pod³¹czenia sondy napiêciowej operatora
+odizolowanie badanego urz¹dzenia od zaburzeñ promieniowanych
+odfiltrowanie sk³adowych o czêstotliwoœci 50Hz
+zapewnienie mo¿liwoœci pod³¹czenia miernika zaburzeñ
+zapewnienie mo¿liwoœci pod³¹czenia sztucznego operatora

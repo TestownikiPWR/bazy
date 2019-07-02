@@ -1,0 +1,6 @@
+X0001
+59. W pomiarach parametrów pola magnetycznego stosuje siê
+a) magnesy pomiarowe
+b) rezystory pomiarowe
+c) kondensatory pomiarowe
+d) cewki pomiarowe

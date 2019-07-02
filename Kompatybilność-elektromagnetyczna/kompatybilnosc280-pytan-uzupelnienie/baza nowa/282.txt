@@ -1,0 +1,7 @@
+X1110
+Które z wymienionych pojêæ okreœlaj¹ opracowane i zaakceptowane w skali miêdzynarodowej modele wy³adowañ elektrostatycznych?
+HBM (Human Body Model)
+CDM (charged device model)
+MM (machine model)
+DEM (devices electrostatic model 
+EDM (electrostatic dynamic model)

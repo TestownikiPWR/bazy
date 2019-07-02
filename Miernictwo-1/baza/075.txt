@@ -1,0 +1,6 @@
+X0010
+75. Przetwornik kompensacyjny A/C przy kwantowaniu wykorzystuje 
+a) metode wychylowa
+b) metode róznicowa
+c) metode zerowa 
+d) metode posrednia

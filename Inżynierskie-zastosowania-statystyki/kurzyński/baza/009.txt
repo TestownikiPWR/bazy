@@ -1,0 +1,6 @@
+X1000
+Formalnie, klasyfikator to funkcja odwzorowuj¹ca:
+przestrzeñ cech w zbiór numerów klas
+obszar decyzyjny w zbiór numerów klas
+zbiór numerów klas w obszar decyzyjny
+przestrzeñ cech w obszar decyzyjny

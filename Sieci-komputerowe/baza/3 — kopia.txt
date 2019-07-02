@@ -1,0 +1,8 @@
+X011100
+Jakie trzy protoko³y warstwy aplikacji s¹ czêœci¹ pakietu protoko³ów TCP / IP? (Wybierz trzy.)
+ARP
+DHCP 
+DNS 
+FTP 
+NAT
+PPP

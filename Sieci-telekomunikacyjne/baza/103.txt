@@ -1,0 +1,5 @@
+X001
+W systemie UMTS zastosowano:
+ kana³y dupleksowe z podzia³em czasu
+ kana³y dupleksowe z podzia³em czêstotliwoœci
+ kana³y dupleksowe z podzia³em czasu i czêstotliwoœci

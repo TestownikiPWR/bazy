@@ -1,0 +1,6 @@
+X1000
+Który przyk³ad z³oœliwego kodu zostanie sklasyfikowany jako koñ trojañski? 
+szkodliwe oprogramowanie napisane tak, by wygl¹da³o jak gra komputerowa 
+z³oœliwe oprogramowanie, które wymaga rêcznej interwencji u¿ytkownika w celu rozprzestrzeniania siê miêdzy systemami 
+z³oœliwe oprogramowanie, które do³¹cza siê do legalnego programu i rozprzestrzenia siê po uruchomieniu na inne programy 
+z³oœliwe oprogramowanie, które mo¿e automatycznie rozprzestrzeniaæ siê z jednego systemu do drugiego, wykorzystuj¹c lukê w celu

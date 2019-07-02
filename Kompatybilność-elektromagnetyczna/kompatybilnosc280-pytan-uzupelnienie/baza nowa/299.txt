@@ -1,0 +1,6 @@
+X0100
+Wysokoœæ zawieszenia anteny pomiarowej podczas pomiaru emisyjnoœci z odleg³oœci 10 m powinna wynosiæ:
+jest sta³a i równa 1 m,,
+powinna zmieniaæ siê od 1 do 4 m,
+powinna zmieniaæ siê od 1,5 do 4 m,
+powinna zmieniaæ siê od 2 do 6 m,

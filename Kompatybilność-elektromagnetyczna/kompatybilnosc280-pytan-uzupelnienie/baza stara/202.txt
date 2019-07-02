@@ -1,0 +1,6 @@
+X1000
+Ile "amperów" ma pierwsze wy³adowanie:
+200kA
+400kA
+100kA
+800kA

@@ -1,0 +1,6 @@
+X0100
+66. Krótka rurka  otwarta na koñcu pe³ni rolê:
+ Rezystancji akustycznej
+ Masy akustycznej
+ Podatnoœci akustycznej
+ Transformatora impedancji akustycznej

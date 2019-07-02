@@ -1,0 +1,6 @@
+X0010
+54. W³aœciwoœci elektryczne kondensatora rzeczywistego opisane s¹ przez:
+a) rezystancjê i wspó³czynnik strat
+b) rezystancjê i dobroæ
+c) pojemnoœæ i wspó³czynnik strat
+d) pojemnoœæ i dobroæ

@@ -1,0 +1,6 @@
+X0010
+10. Prêdkoœæ dŸwiêku w powietrzu w temperaturze 20C wynosi:
+ 295 m/s
+ 320 m/s
+ 344 m/s
+ 415 m/s

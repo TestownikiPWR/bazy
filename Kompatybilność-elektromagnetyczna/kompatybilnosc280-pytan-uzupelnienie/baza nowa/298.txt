@@ -1,0 +1,7 @@
+X01000
+Typowe poziomy odpornoœci urz¹dzeñ na wy³adowania powietrzne ESO wymagane dla "œrodowiska przemys³owego" i "mieszkalnego, handlowego i lekko uprzemys³owionego wynosz¹
++/- 11 kv
++/- 8 kv
++/- 4 kv
++/- 6 kv
++/- 15 kv

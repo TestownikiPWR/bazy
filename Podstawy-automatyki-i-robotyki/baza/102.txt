@@ -1,0 +1,6 @@
+X0001
+W sterowaniu predykcyjnym:
+wykorzystuje się pojęcie zwane predykotrem horyzontu
+nie stosuje się modelu obiektu
+wykorzystuje się jedynie regulatory typu PI
+wykorzystuje się pojęcie zwane horyzontem predykcji

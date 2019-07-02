@@ -1,0 +1,6 @@
+X1000
+Proszê podaæ ile wynosi zdolnoœæ detekcyjna kodu, je¿eli odleg³oœæ minimalna w zbiorze s³ów kodowych wynosi dmin=1 
+0
+1
+2
+3

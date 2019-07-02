@@ -1,0 +1,6 @@
+X1000
+W³¹czenie tyrystora nastêpuje przy polaryzacji (VA-potencja³ anody, VK-potencja³ katody, VG-potencja³ bramki): 
+a) VA>VG>VK 
+b) VA>VG<VK 
+c) VA<VG>VK 
+d) VA<VG<VK 

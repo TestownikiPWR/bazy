@@ -1,0 +1,6 @@
+X0001
+Do jakiej czêstotliwoœci mo¿emy mierzyæ za pomoc¹ poligonu pomiarowego:
+30 MHz
+1000 MHz
+d¹¿y do zera
+d¹¿y do nieskoñczonoœci

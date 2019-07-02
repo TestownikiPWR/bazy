@@ -1,0 +1,6 @@
+X1000
+Czy kod z bitem parzystoœci jest kodem systematycznym rozdzielnym?
+tak
+kod z bitem parzystoœci nie ma szansy byæ kodem systematycznym, gdy¿ jest to kod splotowy
+tak, ale tylko wtedy, gdy bit parzystoœci bêdzie na pocz¹tku
+nie

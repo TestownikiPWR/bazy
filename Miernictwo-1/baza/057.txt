@@ -1,0 +1,6 @@
+X0010
+57. Zwiêkszenie dok³adnoœci i powtarzalnoœci mostków transformatorowych wynika z:
+a) dok³adnoœci i stabilnoœci napiêcia w uzwojeniu pierwotnym
+b) Równomiernego podzia³u napiêcia w uzwojeniach wtórnych
+c) Zast¹pienia stosunku rezystancji wzorcowych stosunkiem liczby uzwojeñ
+d) Uproszczenia równowa¿enia mostka do jednego wzorca regulowanego

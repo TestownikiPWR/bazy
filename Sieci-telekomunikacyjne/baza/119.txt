@@ -1,0 +1,6 @@
+X0010
+Flaga ramki protoko³u HDLC ma postaæ:
+10000001
+11000011
+01111110
+00111100

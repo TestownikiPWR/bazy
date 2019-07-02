@@ -1,0 +1,7 @@
+X10001
+Jakie s¹ dwie cechy ARP? (Wybierz dwa.)
+Jeœli host jest gotowy do wys³ania pakietu do lokalnego urz¹dzenia docelowego i ma adres IP, ale nie adres MAC miejsca docelowego, generuje rozg³aszanie ARP. 
+¯¹danie ARP jest wysy³ane do wszystkich urz¹dzeñ w sieci Ethernet LAN i zawiera adres IP hosta docelowego i jego adresu MAC multiemisji.
+Kiedy host hermetyzuje pakiet w ramce, odnosi siê do tabeli adresów MAC, aby okreœliæ mapowanie adresów IP na adresy MAC.
+Jeœli ¿adne urz¹dzenie nie odpowie na ¿¹danie ARP, wówczas wêze³ wyjœciowy bêdzie transmitowa³ pakiet danych do wszystkich urz¹dzeñ w segmencie sieci.
+Jeœli urz¹dzenie odbieraj¹ce ¿¹danie ARP ma docelowy adres IPv4, odpowiada odpowiedzi¹ ARP. 

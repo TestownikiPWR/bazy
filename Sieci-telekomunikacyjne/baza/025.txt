@@ -1,0 +1,6 @@
+X1000
+W standardzie PAL stosuje siê kodowanie:
+widmowe jednoczesne
+widmowe kolejne
+czasowe jednoczesne
+czasowe kolejne

@@ -1,0 +1,6 @@
+﻿X0010
+Systematyczny rozdzielny kod cykliczny możemy uzyskać stosujšc regułę kodowania
+c(x)=h(x)g(x)
+c(x)=R_(x^n+1)*[c(x)*v(x)]
+c(x)=x^r*h(x)+R_g(x)*[x^r*h(x)]
+c(x)=R_g(x)*[x^n+1]

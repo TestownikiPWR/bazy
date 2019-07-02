@@ -1,0 +1,6 @@
+X0001
+Multiramka 1 rodzaju na styku S zawiera ramek podstawowych
+4
+5
+6
+12

@@ -1,0 +1,6 @@
+X0001
+Algorytmem zastêpowania stron jest
+SJF
+LOOK
+SCAN
+LRU 

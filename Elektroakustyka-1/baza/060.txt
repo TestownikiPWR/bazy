@@ -1,0 +1,6 @@
+X0100
+60. Wzrost komory rezonatora Helmhaltza powoduje:
+ Wzrost czêstotliwoœci rezonansowej
+ Spadek czêstotliwoœci rezonansowej
+ Przyrost poprawki wylotu
+ Nie wp³ywa na parametry rezonatora

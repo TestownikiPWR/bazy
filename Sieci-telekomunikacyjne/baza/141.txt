@@ -1,0 +1,6 @@
+X0010
+FCS (Frame Check Sequence) to:
+sta³a czêœæ ramki wykorzystywana do celów synchronizacji
+wzór razowania danych powstajacych przy multiplikach danych
+reszta z dzielenia ramki przez wielomian generacyjny
+wydzielenie sekwencji bitowych przez nadajnik w polu ramki HDLC

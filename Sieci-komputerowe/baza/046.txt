@@ -1,0 +1,6 @@
+X0010
+Jakie urz¹dzenie jest zwykle u¿ywane do weryfikacji kabla UTP?
+multimetr
+Optyczny reflektometr czasu w domenie
+tester kabli 
+omomierz

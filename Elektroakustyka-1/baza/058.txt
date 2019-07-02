@@ -1,0 +1,6 @@
+X0001
+58. Charakterysytyka kierunkowoœci dipola akustycznego jest:
+ Ósemkowa w zakresie ma³ych czêstotliwoœci i jednokierunkowa w zakresie du¿ych czêstotliwoœci
+ Jednokierunkowa w zakresie ma³ych czêstotliwoœci i dookólna w zakresie du¿ych czêstotliwoœci
+ Dookólna
+ Ósemkowa

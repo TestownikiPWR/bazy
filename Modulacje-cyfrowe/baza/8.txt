@@ -1,0 +1,6 @@
+X1000
+8. Koherentny demodulator korelacyjny M-wartoœciowej modulacji PSK zawiera co najmniej:
+Dwa kana³y z uk³adami korelatorów
+Trzy kana³y z uk³adami korelatorów
+Cztery kana³y z uk³adami korelatorów
+Jeden kana³ z uk³adami kontrolerów

@@ -1,0 +1,6 @@
+X0100
+Komórka ATM ma nastêpuj¹c¹ wielkoœæ
+64kB
+53 bajty
+48 bitów
+512 bajtów

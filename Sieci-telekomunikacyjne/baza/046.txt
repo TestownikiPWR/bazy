@@ -1,0 +1,6 @@
+X0100
+zasadnicz¹ zalet¹ standardu PAL ( w stosunku do NTSC) jest:
+kompensacja zniekszta³ceñ nasycenia
+kompensacja zniekszta³ceñ fazy
+poprawa stromoœci zboczy sygna³ów ró¿nicowych
+poprawa stromoœci zboczy sygna³u luminancji

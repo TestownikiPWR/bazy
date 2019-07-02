@@ -1,0 +1,6 @@
+X0100
+W uk³adach MAX3K niewykorzystane linie iloczynów:
+Marnuj¹ siê
+Mo¿na wykorzystaæ w s¹siednich makrokomórkach
+Mo¿na wykorzystaæ jako linie wyjœciowe
+Nie ma takich linii

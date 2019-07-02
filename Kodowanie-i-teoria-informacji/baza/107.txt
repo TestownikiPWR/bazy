@@ -1,0 +1,4 @@
+X10
+Czy kodowanie źródłowe i kodowanie kanałowe to to samo
+NIE
+TAK

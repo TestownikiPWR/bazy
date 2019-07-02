@@ -1,0 +1,5 @@
+X100
+14. Wzrost szerokoœci pasma filtru gaussowskiego na wejœciu modulatora MSK (w modulacji GMSK) powoduje:
+poszerzenie widma sygna³u
+zwezenie widma sygna³u
+widmo syganalo nie zmienia sie

@@ -1,0 +1,6 @@
+X1000
+Jakiego parametru u¿ywa router, aby wybraæ œcie¿kê do miejsca docelowego, gdy dostêpnych jest wiele tras?
+ni¿sza wartoœæ metryki powi¹zana z sieci¹ docelow¹ 
+ni¿szy adres IP bramy, aby dostaæ siê do sieci docelowej
+wy¿sza wartoœæ metryki powi¹zana z sieci¹ docelow¹
+wy¿szy adres IP bramy, aby dostaæ siê do sieci docelowej

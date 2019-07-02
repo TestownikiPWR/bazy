@@ -1,0 +1,6 @@
+X1110
+System funkcjonalny pe³ny to
+NAND
+AND
+OR
+EXOR

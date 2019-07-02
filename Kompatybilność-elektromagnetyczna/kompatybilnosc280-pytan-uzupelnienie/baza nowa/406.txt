@@ -1,0 +1,6 @@
+X0001
+Generator udarowy 10/700 mikrosekund mo¿e byæ sprzêgany z badanym urz¹dzeniem poprzez:
+kondensator sprzêgaj¹cy o pojemnoœci 33nF
+tranformator pr¹dowy
+kondensator sprzêgaj¹cy o pojemnoœci 16 mikrofaradów
+bezpoœrednie w³¹czenie na zaciski badanego urz¹dzenia 

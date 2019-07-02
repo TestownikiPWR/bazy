@@ -1,0 +1,6 @@
+X1000
+Przep³ywnoœæ stereofonicznych studyjnych cyfrowych sygna³ów fonicznych wynosi
+1536kbit/s
+256kbit/s
+48kbit/s
+30kbit/s

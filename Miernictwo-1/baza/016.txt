@@ -1,0 +1,6 @@
+X1000
+16. Cech¹ charakterystyczn¹ przewa¿ania dynamicznego jest:
+a) Zale¿noœæ wyjœcia od stanu w przesz³oœci
+b) Niezale¿noœæ wyjœcia od stanu wejœcia w przesz³oœci
+c) Dynamiczna zmiennoœæ wejœcia w czasie
+d) Dynamiczna zmiennoœæ wyjœcia w czasie

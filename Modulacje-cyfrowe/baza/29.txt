@@ -1,0 +1,3 @@
+X1
+29. Zaznaczyæ cechy wspólne ortogonalnej wielowartoœciowej modulacji M-FSK z nieci¹g³¹ faz¹ modulacji M-PSK
+interferencja widma kolejnych symboli ...

@@ -1,0 +1,9 @@
+X0010110
+ Jakie s¹ trzy g³ówne funkcje zapewniane przez enkapsulacjê danych w warstwie 2? (Wybierz trzy.) 
+korekcja b³êdów za pomoc¹ metody wykrywania kolizji 
+sterowanie sesj¹ za pomoc¹ numerów portów 
+adresowanie warstwy ³¹cza danych 
+umieszczanie i usuwanie ramek z noœnika 
+wykrywanie b³êdów za pomoc¹ obliczeñ CRC 
+ograniczanie grup bitów do ramek 
+konwersja bitów na sygna³y danych 

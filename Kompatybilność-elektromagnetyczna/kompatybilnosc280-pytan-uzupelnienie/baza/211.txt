@@ -1,0 +1,6 @@
+X1000
+Ktore zdanie jest prawidlowe nt detektora quasi peak:
+Nigdy nie bêdzie wiêkszy od peak.
+Zawsze bêdzie wiêkszy od peak.
+Mo¿e byæ wiêkszy od peak.
+Jest wyparty przez TG(Tracking generator)

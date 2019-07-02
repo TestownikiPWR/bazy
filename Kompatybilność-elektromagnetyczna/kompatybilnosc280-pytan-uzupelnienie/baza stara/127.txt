@@ -1,0 +1,6 @@
+X1000
+Zadaniem sieci sztucznej podczas pomiaru zak³óceñ przewodzonych przez sieæ zasilaj¹c¹ jest:
+zapewnienie mo¿liwoœci pod³¹czenia miernika zak³óceñ
+odfiltrowanie sk³adowych o czêstotliwoœci 50 Hz
+urz¹dzeñ od zak³óceñ wytwarzanych przez inne urz¹dzenia pod³¹czone do tych
+zapewnienie mo¿liwoœci pod³¹czenia sztucznego operatora

@@ -1,0 +1,6 @@
+X0111
+Amplituda napiêcia indukowanego d³ugim odcinku linii napowietrznej pod wp³ywem oddzia³ywania pola powstaj¹cego podczas wy³adowania atmosferycznego zale¿y od:
+wysokoœci zawieszenia linii napowietrznej
+czasu narastania impulsu pr¹du wy³adowania
+amplitudy pr¹du p³yn¹cego w kanale wy³adowania
+obci¹¿enia linii napowietrznej

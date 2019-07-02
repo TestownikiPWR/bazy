@@ -1,0 +1,6 @@
+X0010
+Proszê wskazaæ, których warunków nie spe³nia liniowy blokowy kod cykliczny po skróceniu.
+S³owa informacyjne i kodowe s¹ wzajemnie jednoznacznie przyporz¹dkowane
+Kod jest liniowy
+Dowolne przesuniêcie cykliczne s³owa kodowego daje nam inne s³owo kodowe
+Suma dwóch dowolnych s³ów kodowych daje nam inne s³owo kodowe 

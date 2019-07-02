@@ -1,0 +1,5 @@
+X100
+Co to jest VoIP
+protokó³ umozliwiaj¹cy wysy³anie mowy przez protokó³‚ IP, czyli przez interent
+protokó³‚ umo¿liwiajacy przesy³anie obrazu
+Standard sieci WIFI

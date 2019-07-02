@@ -1,0 +1,6 @@
+X0100
+Czas trwania ramki na styku S wynosi
+125 mikrosek
+250 mikrosek
+25 milisek
+10 milisek

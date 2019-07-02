@@ -1,0 +1,6 @@
+X0100
+Karoseria samochodowa t³umi zak³ócenia o:
+<10 dB
+15  dB
+>20 dB
+prawie nie t³umi

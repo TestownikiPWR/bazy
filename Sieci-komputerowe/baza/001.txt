@@ -1,0 +1,6 @@
+X0100
+Która metoda przekazywania ramek odbiera ca³¹ ramkê i wykonuje kontrolê CRC, aby wykryæ b³êdy przed przekazaniem ramki?
+prze³¹czanie przelotowe
+prze³¹czanie do przechowywania i przekazywania 
+prze³¹czanie bez fragmentów
+szybkie prze³¹czanie do przodunymi. 

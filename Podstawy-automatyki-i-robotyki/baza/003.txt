@@ -1,0 +1,6 @@
+﻿X0100
+Odometria to:
+Przyrząd do pomiaru odległości przebytej przez robota
+Metoda określania położenia robota mobilnego w przestrzeni bazująca na enkoderach w kołach
+Czujnik zapachowy
+Nauka o różnicach w budowie robotów ze względu na środowisko działania urządzenia

@@ -1,0 +1,6 @@
+X0010
+Firma rozwija swoj¹ dzia³alnoœæ w innych krajach. Wszystkie oddzia³y musz¹ przez ca³y czas pozostaæ pod³¹czone do g³ównej siedziby firmy. Jaka technologia sieci jest wymagana, aby spe³niæ te wymagania? 
+LAN 
+CZ£OWIEK 
+WAN
+WLAN

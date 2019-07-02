@@ -1,0 +1,6 @@
+X0010
+Jaki element jest wykorzystywany najczęściej do realizacji separacji galwanicznej binarnych WYJŚĆ sterownika PLC:
+kondensator
+transoptor
+przekaźnik elektromechaniczny
+transformator

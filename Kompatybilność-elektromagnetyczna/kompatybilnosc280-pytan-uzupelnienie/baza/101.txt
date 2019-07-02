@@ -1,0 +1,6 @@
+X0100
+Antena liniowa wmontowana w doln¹ p³ytê symulatora równoleg³op³ytowego umo¿liwia na pomiar:
+pola magnetycznego i pola elektrycznego
+pola elektrycznego
+gêstoœci strumienia mocy
+pola magnetycznego

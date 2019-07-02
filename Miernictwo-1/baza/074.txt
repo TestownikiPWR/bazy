@@ -1,0 +1,6 @@
+X0100
+74. Wartosci sygnalu po próbkowaniu sa
+a) wieksze niz wartosci sygnalu analogowego
+b) takie same jak wartosci sygnalu analogowego
+c) mniejsze niz wartosci sygnalu analogowego 
+d) zdyskretyzowane w dziedzinie wartosci

@@ -1,0 +1,6 @@
+X1000
+38. Na wynik pomiaru natê¿enia pr¹du sta³ego wp³ywa:
+a) Rezystancja wewnêtrzna Ÿród³a pr¹dowego
+b) Pojemnoœæ wewnêtrzna Ÿród³a pr¹dowego
+c) Przetwornik AC/DC amperomierza
+d) Indukcyjnoœæ amperomierza

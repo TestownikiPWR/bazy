@@ -1,0 +1,6 @@
+﻿X0100
+Transmitancja jest zdefiniowana tylko dla:
+Układów liniowych i nieliniowych
+Układów liniowych
+Układów nieliniowych
+Układów dyskretnych

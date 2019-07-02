@@ -1,0 +1,6 @@
+X0010
+W ukladach rodziny XC9500 struktura bloku logicznego odpowiada ukladowi:
+GAL16V8
+GAL22V10
+GAL36V18
+GAL90V36

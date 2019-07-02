@@ -1,0 +1,6 @@
+X1000
+61. O dok³adnoœci pomiaru napiêcia metod¹ ró¿nicow¹ decyduje g³ównie
+a) dok³adnoœæ Ÿród³a napiêciowego
+b) dok³adnoœæ woltomierza
+c) dok³adnoœæ bloku ró¿nicuj¹cego
+d) dok³adnoœæ napiêcia porównawczego

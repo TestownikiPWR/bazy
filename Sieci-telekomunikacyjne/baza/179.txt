@@ -1,0 +1,6 @@
+X0010
+Jaki sygna³ jest nadawany przez niektóre centrale w czasie zestawiania przez nie drogi po³¹czeniowej?
+a) Dodatkowy
+b) Specjalny
+c) Marszrutowania
+d) Zwrotny

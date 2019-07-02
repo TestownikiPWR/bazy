@@ -1,0 +1,6 @@
+X1010
+[img]029.png[/img]
+Zmieni siê sygna³ q
+Zmieni siê sygna³ data
+Pojawi siê narastaj¹ce zbocze dla sygna³u clk
+Pojawi siê opadaj¹ce zbocze dla sygna³u clk

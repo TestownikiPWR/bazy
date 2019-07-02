@@ -1,0 +1,6 @@
+X0010
+62. Czêstotliwoœci drgañ w³asnych struny:
+ Rosn¹, jeœli si³a naci¹gu i gêstoœæ liniowa rosn¹
+ Malej¹, jeœli si³a naci¹gu i gêstoœæ liniowa rosn¹
+ Rosn¹, si³a naci¹gu roœnie aa  gêstoœæ liniowa maleje
+ Rosn¹, jeœli si³a naci¹gu maleje, a gêstoœæ liniowa roœnie

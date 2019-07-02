@@ -1,0 +1,6 @@
+X1000
+Jakie adresy s¹ mapowane przez ARP? 
+docelowy adres MAC do docelowego adresu IPv4 
+docelowy adres IPv4 do Ÿród³owego adresu MAC 
+docelowy adres IPv4 do docelowej nazwy hosta 
+docelowy adres MAC do Ÿród³owego adresu IPv4 

@@ -1,0 +1,6 @@
+X0010
+Procedura nadziewania bitami (bit stuffing) w protokole transmisyjnym warstwy drugiej polega na:
+przerywanie transmisji przy du¿ej stopie b³edów
+uzupe³nienie flagi bitami przez odbiornik
+wstawienie przez nadajnik zera po kazdej sekwencji 5 jedynek
+tworzenie conajwy¿ej seœciobitowej sekwencji

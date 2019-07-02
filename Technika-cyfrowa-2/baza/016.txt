@@ -1,0 +1,6 @@
+X0001
+Uklady rodziny XC9500
+To uklady SPLD
+To uklady FPGA
+To uklady TTL
+To uklady CPLD

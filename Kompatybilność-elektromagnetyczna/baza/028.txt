@@ -1,0 +1,6 @@
+X0001
+Zak³ócenia przewodzone dominuj¹ w zakresie czêstotliwoœci:
+1kHz do 10MHz
+30MHz - 1GHz
+1GHz - 1MHz
+10kHz - 30MHz

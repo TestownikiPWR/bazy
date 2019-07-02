@@ -1,0 +1,5 @@
+﻿X100
+Otrzymanie wielomianu interpolacyjnego bez konieczności wykonywania obliczeń umożliwia:
+wielomian interpolacyjny Lagrange'a
+wielomian interpolacyjny Newtona
+macierz Vandermonde'a

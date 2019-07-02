@@ -1,0 +1,3 @@
+X1
+98. W interpretacji deterministycznej blad pomiaru okresla
+a) przedzial w którym z okreslonym prawdopodobienstwem miesci sie wartosc prawdziwa

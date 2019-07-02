@@ -1,0 +1,6 @@
+X0010
+Program rozruchowy:
+to proces ten generowania systemu 
+to specjalny program wykonywany przy inicjowaniu zadania lub wtedy, gdy u¿ytkownik rejestruje siê w systemie
+to fragment kodu przechowywany w pamiêci ROM, bêd¹cy w stanie zlokalizowaæ j¹dro, za³adowaæ je do pamiêci i rozpocz¹æ jego wykonywanie
+przesy³a dane na zasadzie bezpoœredniego dostêpu do pamiêci DMA

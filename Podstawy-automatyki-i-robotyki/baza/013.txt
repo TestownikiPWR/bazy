@@ -1,0 +1,6 @@
+﻿X0010
+Uchyb regulacji to:
+różnica pomiędzy wejściem obiektu a wartością zadaną
+różnica pomiędzy wejściem a wyjściem obiektu
+różnica pomiędzy wartością zadaną a wyjściem obiektu
+różnica pomiędzy wyjściem obiektu a jego wartością w chwili końcowej

@@ -1,0 +1,6 @@
+X0100
+31. Miar¹ zniekszta³ceñ intermodulacyjnych dwutonowych jest:
+ Stosunek mocy produktów intermodulacji do mocy sygna³u o mniejszej czêstotliwoœci
+ Stosunek wartoœci skutecznej produktów intermodulacji do wartoœci skutecznej sygna³u o wiêkszej czêstotliwoœci i produktów intermodulacji
+ Stosunek wartoœc skutecznej produktów intermodulacji do ca³kowitej wartoœci skutecznej sygna³u wyjœciowego
+ Stosunek wartoœc skutecznej produktów intermodulacji do ca³kowitej wartoœci skutecznej sygna³u wejœciowego

@@ -1,0 +1,6 @@
+X1000
+Dostêp pierwotny w ISDN mo¿na opisaæ jako dostêp
+30B+D
+o przep³ywnoœci 12b-16kb/s
+o przep³ywnoœci rzêdu 1Mb/s
+20+D

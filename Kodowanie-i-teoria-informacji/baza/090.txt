@@ -1,0 +1,6 @@
+X1101
+Proszê wskazaæ, które warunki spe³nia kod cykliczny po skróceniu?
+kod jest liniowy
+S³owa informacyjne i kodowe s¹ wzajemnie jednoznacznie przyporz¹dkowane
+Dowolne przesuniêcie cykliczne s³owa kodowego daje nam inne s³owo kodowe
+Suma dwóch dowolnych s³ów kodowych, daje nam inne s³owo kodowe

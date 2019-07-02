@@ -1,0 +1,6 @@
+X0100
+Uniezale¿nienie siê od zak³óceñ uzyskuje siê, gdy ich t³umienie jest nie mniejsze ni¿:
+10 dB
+30 dB
+20 dB - 50 dB
+40 dB - 30 dB

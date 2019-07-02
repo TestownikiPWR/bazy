@@ -1,0 +1,6 @@
+X0100
+Przep³ywnoœæ styku S(T)
+256 kbs
+192 kbs
+64 kbs
+32 kbs

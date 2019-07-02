@@ -1,0 +1,6 @@
+X0110
+Do polaczenia ukladów pracujacych z róznymi napieciami zasilania mozna uzyc:
+Bramki Schmitta
+Bramki z otwartym kolektorem
+Bramki z otwartym drenem
+Inwertera

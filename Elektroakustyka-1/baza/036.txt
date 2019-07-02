@@ -1,0 +1,6 @@
+X1000
+36. Do zak³óceñ nie zalicza siê:
+ Intermodulacji
+ PrzydŸwiêków
+ Szumów
+ Pog³osu i echa

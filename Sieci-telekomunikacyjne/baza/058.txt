@@ -1,0 +1,6 @@
+X0010
+Pierwsza cyfra wskaŸnika miêdzynarodowego wskazuje na:
+na to, którego pañstwa jest to wskaŸnik
+na strefê czasow¹, w której po³o¿one jest pañstwo docelowe
+na strefê kontynentaln¹ pañstwa docelowego
+jest po prostu pierwsz¹ cyfr¹ prefiksu miêdzynarodowego i nie wskazuje na nic szczególnego

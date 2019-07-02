@@ -1,0 +1,4 @@
+﻿X1000
+Układ ma transmitancję G(s)=k/((1+sT1)(1-sT2)s. Układ ten jest:
+niestabilny
+stabilny

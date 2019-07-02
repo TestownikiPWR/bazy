@@ -1,0 +1,7 @@
+X10010
+Jakie s¹ dwie zalety korzystania z warstwowego modelu sieciowego? (Wybierz dwa.) 
+Pomaga w projektowaniu protoko³ów. 
+Przyspiesza dostarczanie pakietów. 
+Zapobiega to tworzeniu przez projektantów w³asnego modelu.
+Zapobiega wp³ywowi technologii w jednej warstwie na inne warstwy. 
+Zapewnia to, ¿e urz¹dzenie w jednej warstwie mo¿e funkcjonowaæ przy nastêpnej wy¿szej warstwie. 

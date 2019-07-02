@@ -1,0 +1,6 @@
+X1000
+Który parametr nie dotyczy toru symetrycznego?(Nie wiem)
+impedancja falowa
+t³umienie asymetrii
+tarnownoœæ falowa
+zwielokrotnienie falowe

@@ -1,0 +1,6 @@
+X0100
+Amplitudê ESD okreœlaj¹ normy:
+ESD PL,
+EN IEC,
+CPD,
+CISPR-PE,

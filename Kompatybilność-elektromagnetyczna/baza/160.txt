@@ -1,0 +1,6 @@
+X0100
+W przestrzeni symulatora impulsów elektromagnetycznych z po³ow¹ okr¹g³ej anteny ramowej:
+Dominuje sk³adowa magnetyczna impulsu elektromagnetycznego
+Wystêpuj¹ dwie sk³adowe impulsu EM, elektryczna i magnetyczne o stosunku E/H= 377 omów
+W symulatorach impulsowego pola EM nie wykorzystuje siê po³owy okr¹g³ej anteny pomiarowej
+Dominuje sk³adowa elektryczna impulsu elektromagnetycznego

@@ -1,0 +1,6 @@
+X0100
+Która technika zapory blokuje przychodz¹ce pakiety, chyba ¿e s¹ to odpowiedzi na wewnêtrzne ¿¹dania?
+filtrowanie portów
+kontrola stanu pakietów 
+Filtrowanie adresów URL
+filtrowanie aplikacji

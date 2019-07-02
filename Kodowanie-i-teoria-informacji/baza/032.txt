@@ -1,0 +1,6 @@
+X0010
+Syndrom jest wektorem o d³ugoœci
+Wiêkszej ni¿ d³ugoœæ wektora kodowego
+Jest to zawsze tylko jeden bit: 0- informacja poprawna, 1- informacja niepoprawna
+Mniejszej od d³ugoœci wektora kodowego
+Równej d³ugoœci wektora kodowego

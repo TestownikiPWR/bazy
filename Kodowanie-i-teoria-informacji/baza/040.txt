@@ -1,0 +1,7 @@
+X0010
+Dany jest binarny blokowy kod liniowy (n, k), to oznacza, ¿e mamy
+2^n –s³ów kodowych i 2^k – s³ów informacyjnych
+2^n –s³ów kodowych i 2^n – s³ów informacyjnych
+2^k –s³ów kodowych i 2^k – s³ów informacyjnych
+2^k –s³ów kodowych i 2^n – s³ów informacyjnych
+

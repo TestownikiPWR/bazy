@@ -1,0 +1,3 @@
+X1
+Gdy n>30 to z jakiego rozk³adu korzystamy?
+Rozk³ad normalny (dla n<30 rozk³ad t-Studenta)

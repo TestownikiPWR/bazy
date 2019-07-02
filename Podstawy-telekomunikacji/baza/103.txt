@@ -1,0 +1,6 @@
+X0001
+Modulacje, ze wzgl璠u na rodzaj sygna逝 dzielimy na .... - z czasem transmisji:
+analogowe - ci鉚造 / impulsowe - ci鉚造 / cyfrowe - ci鉚造
+analogowe - dyskretny / impulsowe - dyskretny / cyfrowe - ci鉚造
+analogowe - ci鉚造 / impulsowe - dyskretny / cyfrowe - ci鉚造
+analogowe - ci鉚造 / impulsowe - dyskretny / cyfrowe - dyskretny

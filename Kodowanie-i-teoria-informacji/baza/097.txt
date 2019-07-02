@@ -1,0 +1,6 @@
+X1000
+Je¿eli dodamy dwa ró¿ne s³owa kodowe, kodu liniowego blokowego, to uzyskamy:
+inne s³owo kodowe
+wiersz macierzy H
+syndrom
+macierz Vitebriego

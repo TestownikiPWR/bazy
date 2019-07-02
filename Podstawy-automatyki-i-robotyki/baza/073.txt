@@ -1,0 +1,6 @@
+﻿X1000
+Na czym polega korzyść z zastosowania transformaty Laplace'a?
+przekształca splot w iloczyn
+pozwala na analizę obiektów nieliniowych
+pozwala na analizę obiektów dyskretnych
+sprowadza równania zespolone do rzeczywistych

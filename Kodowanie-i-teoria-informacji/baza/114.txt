@@ -1,0 +1,6 @@
+X0001
+Oblicz wartość funkcji Eulera dla liczby 7:
+1
+2
+4
+6

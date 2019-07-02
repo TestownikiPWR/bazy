@@ -1,0 +1,7 @@
+X00010
+Do wstrzykiwania impulsów typu “surge” do przewodów sygna³owych stosuje siê:
+transformator pr¹dowy
+mo¿na tylko zak³óciæ pracê badanego urz¹dzenia
+nie mo¿na trwale uszkodziæ badanego urz¹dzenia
+d³awik sprzêgaj¹cy
+przewód testowy

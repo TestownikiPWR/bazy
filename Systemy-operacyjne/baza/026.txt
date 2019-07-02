@@ -1,0 +1,6 @@
+X0110
+Semafor:
+to funkcja umo¿liwiaj¹ca okreœlenie stanu zasobu (zajêty/u¿ywany)
+to zmienna ca³kowita
+mo¿e byd zmieniany przez dwie niepodzielne funkcje: czekaj i sygnalizuj
+wykorzystywany jest jako licznik u¿ycia w algorytmie LRU

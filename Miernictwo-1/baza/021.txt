@@ -1,0 +1,6 @@
+X0010
+21. Kwantowanie próbki sygna³u polega na:
+a) Przypisaniu jednego z dozwolony chwil czasowych
+b) Przetworzeniu jej na jedn¹ z dowolnych chwil czasowych
+c) Przypisaniu jej jednego z dozwolonych poziomów wartoœci
+d) Przetworzeniu jej na jeden z dowolnych poziomów wartoœci

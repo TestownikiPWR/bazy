@@ -1,0 +1,6 @@
+X1000
+W standardzie MPEG-2 obrazy typu B s¹ tworzone na podstawie:
+wczeœniejszego obrazu typu I lub P i póŸniejszego obrazu typu I lub P
+dwóch wczeœniejszych obrazów typu I
+dwóch wczeœniejszych obrazów typu P
+dwóch póŸniejszych obrazów typu I lub P

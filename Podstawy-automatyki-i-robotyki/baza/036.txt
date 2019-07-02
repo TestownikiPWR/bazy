@@ -1,0 +1,5 @@
+﻿X0100
+Identyfikując człon inercyjny I rzędu wyznaczamy:
+jeden parametr
+dwa parametry 
+trzy parametry

@@ -1,0 +1,6 @@
+X1000
+56. Podobieñstwo mostków do pomiaru kondensatorów i cewek polega na:
+a) stosowaniu takich samych wzorców
+b) stosowaniu takich samych elementów badanych
+c) mierzeniu tych samych parametrów
+d) mierzeniu tych samych nieliniowoœci

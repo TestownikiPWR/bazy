@@ -1,0 +1,8 @@
+X0001
+Której grupy adresów IPv6 nie mo¿na przydzieliæ jako adresu Ÿród³owego hosta?
+FEC0 :: / 10
+FDFF :: / 7
+FEBF :: / 10
+FF00 :: / 8 
+
+

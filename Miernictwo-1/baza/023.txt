@@ -1,0 +1,6 @@
+X0010
+23. Rozdzielczoœæ przetworników C/A Okreœlona jest przez:
+a) Liczbê bitów wyjœciowych i rodzaju sygna³u wyjœciowego
+b) Liczbê bitów wyjœciowych i rodzaju sygna³u wejœciowego
+c) Liczb¹ bitów wejœciowych i zakres sygna³u wyjœciowego
+d) Liczb¹ bitów wejœciowych i zakres sygna³u wejœciowego

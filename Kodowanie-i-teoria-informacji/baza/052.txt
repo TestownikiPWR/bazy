@@ -1,0 +1,6 @@
+X0010
+Jesli Syndrom S(y) wynosi 101 to oznacze ¿e
+odebrany ci¹g y jest b³êdny B³¹d w ci¹gu y wyst¹pi³ na 3 i 1 pozycji 
+odebrany ci¹g jest bezb³êdny 
+odebrany ci¹g jest b³êdny 
+oznacza coœ innego

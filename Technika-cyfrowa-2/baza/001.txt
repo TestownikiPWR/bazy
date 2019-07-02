@@ -1,0 +1,6 @@
+X1000
+Uklady sredniej skali integracji (Medium Scale Integration) zwieraja:
+10-100 bramek
+<10 bramek 
+Od 100-10000 bramek
+>10000 bramek

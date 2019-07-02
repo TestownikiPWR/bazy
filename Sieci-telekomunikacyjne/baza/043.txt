@@ -1,0 +1,6 @@
+X0001
+W standardzie MPEG-2:
+stosuje siê wy³¹cznie wybieranie kolejnoliniowe
+stosuje siê wy³¹cznie wybieranie miêdzyliniowe
+rodzaj wybierania musi byæ ustalony na sta³e dla kodera
+dopuszczalne jest zarówno wybieranie kolejnoliniowe jak i miêdzyliniowe

@@ -1,0 +1,6 @@
+X0100
+Wytrzyma³oœæ jest to
+minimalny poziom sygna³u zaburzaj¹cego, który uszkadza badane urz¹dzenie
+poziom sygna³u zaburzaj¹cego przy którym nie obserwuje siê reakcji badanego urz¹dzenia
+maksymalny poziom sygna³u zaburzaj¹cego przy którym badane dzia³a poprawnie
+reakcja badanego urz¹dzenia na sygna³ zaburzajacy

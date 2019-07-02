@@ -1,0 +1,6 @@
+X1000
+1. Zgodnie z twierdzeniem Shannona o pojemnoœci informacyjnej kana³utransmisyjnego, pojemnoœæ kana³u C [bitów/s] jest proporcjonalna do szerokoœci pasma czêstotliwoœci B [Hz] jakie zajmuje i wyra¿a siê wzorem C=B* alfa. Jaka jest wartoœæ wspó³czynnika alfa dla zak³óceñ w postaci addytywnego szumu gaussowskiego i stosunku S/N na wejsciu odbiornika >=0 dB?
+alfa>=1
+alfa<=1
+alfa=1
+alfa=0

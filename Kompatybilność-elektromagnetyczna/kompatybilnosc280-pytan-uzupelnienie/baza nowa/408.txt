@@ -1,0 +1,6 @@
+X0001
+Podatnoœæ jest to:
+minimalny poziom sygna³u zaburzaj¹cego, który uszkadza badane urz¹dzenie
+maksymalny poziom sygna³u zaburzaj¹cego przy którym badane urz¹dzenie dzia³a poprawnie
+poziom sygna³u zaburzaj¹cego przy którym nie obserwuje siê relacji badanego urz¹dzenia
+reakcja badanego urz¹dzenia na sygna³ zaburzaj¹cy

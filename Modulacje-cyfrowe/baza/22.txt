@@ -1,0 +1,5 @@
+X111
+22. Które z wymienionych sygna³ów mo¿na odbieraæ w sposób niekoherentny?
+pi/4 QPSK 
+FSK
+DPSK

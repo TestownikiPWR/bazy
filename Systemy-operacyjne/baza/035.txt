@@ -1,0 +1,6 @@
+X1010
+Planista œrednioterminowy:
+odpowiada za wymianê procesów pomiêdzy pamiêci¹ a dyskiem
+zarz¹dza kolejk¹ procesów gotowych, ale tylko w odniesieniu do procesów, które nie s¹ procesami czasu rzeczywistego
+zarz¹dza kolejk¹ procesów usuniêtych, czêœciowo wykonanych
+wydaje decyzje, czy mo¿na utworzyæ nowy proces

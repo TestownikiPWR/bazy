@@ -1,0 +1,5 @@
+X0010
+Jeśli robot posiada 1 przegub 4 klasy i 5 przegubów 5 klasy to jego liczba stopni swobody wynosi: // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy lub prościej: w=p1*(6-i1)+p2*(6-i2)+...
+Sześć
+Pięć
+Siedem

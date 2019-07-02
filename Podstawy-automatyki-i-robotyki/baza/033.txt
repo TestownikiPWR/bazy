@@ -1,0 +1,5 @@
+﻿X0010
+Człon oscylacyjny jest członem:
+zerowego rzędu
+pierwszego rzędu
+drugiego rzędu

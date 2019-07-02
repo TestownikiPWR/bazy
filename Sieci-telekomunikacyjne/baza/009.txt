@@ -1,0 +1,6 @@
+X0010
+Pascal ma³ej czêstotliwoœci transmisji radiofonicznej FM to:
+3kHz
+4,5kHz
+15kHz
+20kHz

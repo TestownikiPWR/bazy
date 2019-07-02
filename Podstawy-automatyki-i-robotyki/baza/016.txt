@@ -1,0 +1,4 @@
+﻿X0100
+Uchyb ustalony w układzie nie określa jego: //uchyb ustalony występuje po upłynięciu czasu regulacji (źródło: Horla
+zapasu stabilności
+zachowania się w czasie regulacji 

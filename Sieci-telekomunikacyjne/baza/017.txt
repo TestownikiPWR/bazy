@@ -1,0 +1,6 @@
+X0001
+wymagane pasmo wielkiej czêstotliwoœci kana³u radiofonicznego FM stereo to:
+15kHZ
+53kHz
+9 kHz
+250kHz

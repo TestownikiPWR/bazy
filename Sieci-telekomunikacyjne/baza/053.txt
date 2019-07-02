@@ -1,0 +1,6 @@
+X0100
+Do monitorowania jakoœci transmisji w systemach SDH wykorzystuje siê:
+kodowanie cykliczne (CRC)
+N-bitow¹ przeplotow¹ kontrolê parzystoœci 
+N-bitowe kodowanie nadmiarowe
+sprawdzanie naprzemiennoœci kodu liniowego

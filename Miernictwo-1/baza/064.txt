@@ -1,0 +1,6 @@
+X0001
+64. Sygna³y harmoniczne opisane s¹ wzorem:
+a) X=max(x(t))
+b) X=min(x(t))
+c) X(t)=x(t+kT)
+d) x(t)=Xsin(?t+?)

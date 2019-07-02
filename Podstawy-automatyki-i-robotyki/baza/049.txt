@@ -1,0 +1,5 @@
+﻿X1000
+Która z metod nawigacji AGV jest najmniej dokładna?
+metoda pętli indukcyjnej
+metoda laserowa
+metoda żyroskopowa

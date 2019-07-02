@@ -1,0 +1,6 @@
+X1000
+Równanie [Q7_0].d=[Q6_0.We]; opisuje
+Uklad kombinacyjny
+Licznik synchroniczny
+8-bitowy rejestr szeregowy
+7-bitowy rejestr szeregowo-równolegly 

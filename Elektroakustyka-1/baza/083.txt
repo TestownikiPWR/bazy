@@ -1,0 +1,6 @@
+X0010
+83. Przetwarzanie sygna³u akustycznego na impulsy elektryczne dokonuje siê:
+ Na b³onie bêbenkowej
+ W okienku owalnym
+ Na b³onie podstawnej
+ W okienku okr¹g³ym

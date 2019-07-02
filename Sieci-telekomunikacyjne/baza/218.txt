@@ -1,0 +1,5 @@
+X100
+Dopasuj standardy IEEE
+802.2 - LLC / 802.11 - Wireless LAN / 802.15 - Wireless PAN
+802.11 - LLC / 802.15 - Wireless LAN / 802.2 - Wireless PAN
+802.15 - LLC / 802.11 - Wireless PAN / 802.2 - Wireless LAN

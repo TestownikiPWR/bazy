@@ -1,0 +1,6 @@
+X0100
+COFDM to wykorzystywana w DAB metoda:
+kodowania kana³owego z podzia³em czasowym
+kodowania kana³owego z podzia³em czêstotliwoœciowym
+kodowania Ÿród³owego
+kodowania protekcyjnego

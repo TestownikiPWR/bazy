@@ -1,0 +1,6 @@
+X0010
+77. W petlowej konfiguracji systemów pomiarowych
+a) kontroler ma dostep tylko do sygnalów informacyjnych
+b) kontroler ma dostep tylko do sygnalów organizacyjnych
+c) kontroler nie zajmuje wyróznionego miejsca
+d) kontroler zajmuje w systemie miejsce centralne

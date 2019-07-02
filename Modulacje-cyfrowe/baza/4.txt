@@ -1,0 +1,5 @@
+X100
+4. Optymalny demodulator to taki, dla którego:
+P(e) = min
+P(e) = max
+P(e) = 0

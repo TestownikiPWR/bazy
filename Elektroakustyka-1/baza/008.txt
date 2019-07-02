@@ -1,0 +1,6 @@
+X0010
+8. Aby uk³ad mechaniczny by³ uk³adem drgaj¹cym musi sk³adaæ siê co najmniej:
+ Z masy i rezystancji mechanicznej
+ Ze sztywnoœci i rezystancji mechanicznej
+ Z masy i sztywnoœci
+ Z masy, sztywnoœci i rezystancji mechanicznej

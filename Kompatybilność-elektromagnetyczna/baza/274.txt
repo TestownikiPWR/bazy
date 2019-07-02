@@ -1,0 +1,6 @@
+X0110
+Do badania podatnoœci urz¹dzeñ na udary mo¿emy korzystaæ z (wybierz 2 odpowiedzi):
+analizatora widma,
+komory GTEM,
+sieci sztucznej,
+detektorów zdefiniowanych w CISPR 16,

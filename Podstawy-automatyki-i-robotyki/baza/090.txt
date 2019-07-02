@@ -1,0 +1,6 @@
+﻿X1000
+Ile stopni swobody ma robot o 1 przegubie klasy 3 i 3 przegubach klasy 5? // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy
+sześć
+siedem
+pięć
+osiem

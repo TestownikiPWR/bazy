@@ -1,0 +1,6 @@
+X0001
+Parametry najlepszego modelu liniowego dla obiektu o wejœciu x i wyjœciu y (dla przypadku pe³nej informacji probabilistycznej) s¹ wyliczane wed³ug wzoru:
+?
+?
+?
+E(y|x)

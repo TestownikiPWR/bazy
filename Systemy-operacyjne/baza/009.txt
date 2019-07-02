@@ -1,0 +1,6 @@
+X1011
+Stronicowanie:
+to dyskretny model pamiêci
+powoduje, ¿e ka¿da komórka pamiêci poadresowana jest w sposób bezpoœredni,
+powoduje, ¿e adres ka¿dej komórki pamiêci sk³ada siê z numeru strony i przesuniêcia na stronie
+powoduje, ¿e maksymalna „strata” pamiêci zwi¹zana z jednym procesem nie przekracza rozmiaru jednej strony

@@ -1,0 +1,6 @@
+X0010
+Przewody zasilaj¹ce wprowadzane do ekranuj¹cej obudowy powinny byc zabezpieczone przez:
+przez zastosowanie filtrów górnoprzepustowych
+przez zastosowanie filtrów pasmowych
+przez zastosowanie filtrów dolnoprzepustowych
+nie powinno siê stosowaæ ¿adnych elementów zabezpieczaj¹cych

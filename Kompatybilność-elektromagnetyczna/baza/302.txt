@@ -1,0 +1,8 @@
+X000101
+Przy analizie procesu detekcji informacji u¿ytecznej definiujemy nastêpuj¹ce pojêcia (wybierz dwie)
+kana³
+kradzie¿ informacji
+przeciek
+kana³ podstawowy
+kana³ ujawniaj¹cy
+kana³ transmisyjny

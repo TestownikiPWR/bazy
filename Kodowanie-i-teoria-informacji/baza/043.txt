@@ -1,0 +1,6 @@
+X0010
+Poufnoœæ doskona³¹ systemu kryptograficznego osi¹gamy, gdy
+Szyfrogramy s¹ d³ugie
+Szyfrogramy s¹ krótkie
+D³ugoœæ klucza jest niemniejsza ni¿ d³ugoœæ szyfrogramu
+D³ugoœæ szyfrogramu jest wiêksza ni¿ d³ugoœæ klucza

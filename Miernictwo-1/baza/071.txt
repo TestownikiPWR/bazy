@@ -1,0 +1,6 @@
+X1000
+71. Blad metody mozna wyeliminowac poniewaz
+a) jest to blad systematyczny, którego wartosc mozna obliczyc
+b) jest to blad przypadkowy, którego wartosc podaje producent
+c) jest to blad wartosci nominalnej
+d) stosuje sie mierniki o wystarczajaco duzej dokladnosci

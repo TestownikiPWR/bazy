@@ -1,0 +1,6 @@
+X0100
+W pewnym tescie wybrano poziom istotnosci \alpha = 0.05. Jakie jest prawdopodobienstwo, ze ten odrzuci prawdziwa hipoteze zerowa H0?
+Co najmniej 0.05
+Co najwyzej 0.05
+Co najmniej 0.95
+Co najwyzej 0.95

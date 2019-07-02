@@ -1,0 +1,6 @@
+X0100
+Pierwszymi systemami wielokrotnymi by³y systemy z wielodostêpem:
+SDM
+FDM
+TDM
+CDM

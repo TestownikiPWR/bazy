@@ -1,0 +1,6 @@
+X0010
+Symulatory promieniuj¹ce impulsy elektromagnetyczne stosuje siê do badania:
+wra¿liwoœci urz¹dzeñ na ci¹g³e pola elektromagnetyczne
+wra¿liwoœci urz¹dzeñ na zaburzenia wystêpuj¹ce w obwodach zasilania
+wra¿liwoœci na impulsowe pola elektromagnetyczne
+wra¿liwoœci urz¹dzeñ na zaburzenia wystêpuj¹ce w przewodach interfejsowych

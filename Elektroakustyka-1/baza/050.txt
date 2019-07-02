@@ -1,0 +1,6 @@
+X0001
+50. Masa wspó³drgaj¹cego oœrodka kuli pulsuj¹cej w zakresie ma³ych czêstotliwoœci (ka<<1):
+ Roœnie proporcjonalnie do czwartej potêgi czêstotliwoœci
+ Roœnie proporcjonalnie do kwadratu czêstotliwoœci
+ Roœnie proporcjonalnie do czêstotliwoœci
+ Jest w przybli¿eniu sta³a

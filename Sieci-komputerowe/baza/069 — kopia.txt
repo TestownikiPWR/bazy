@@ -1,0 +1,7 @@
+X01100
+Jakie s¹ dwie funkcje pamiêci NVRAM? (Wybierz dwa.) 
+do przechowywania tabeli routingu 
+zachowaæ zawartoœæ po zdjêciu zasilania 
+zapisaæ plik konfiguracyjny uruchamiania 
+zawieraæ uruchomiony plik konfiguracyjny 
+do przechowywania tabeli ARP 

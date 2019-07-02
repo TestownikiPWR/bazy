@@ -1,0 +1,4 @@
+X01
+Czy Internet jest us³ug¹ powszechn¹ (wg polskiego prawa) ?
+NIE
+TAK

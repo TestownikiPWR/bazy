@@ -1,0 +1,6 @@
+X0010
+Ilu wymiarow¹ przestrzeñ mog¹ rozpi¹æ 3 wektory 110, 011, 101
+1
+4
+2
+3

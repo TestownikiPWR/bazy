@@ -1,0 +1,6 @@
+X0110
+G³odzenie procesu mo¿e zajœd w przypadku zarz¹dzania kolejk¹:
+przy u¿yciu metod opartych o kolejkê FIFO (np. FCFS)
+przy u¿yciu algorytmu SJF
+przy u¿yciu algorytmu priorytetowego
+przy u¿yciu algorytmów heurystycznych i genetycznych

@@ -1,0 +1,6 @@
+X0100
+Funkcja charakterystyczna dla przerzutnika D jest równa
+Q’=/D
+Q’=D
+Q’=1
+Q’=0

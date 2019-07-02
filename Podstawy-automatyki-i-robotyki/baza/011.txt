@@ -1,0 +1,5 @@
+﻿X0010
+Uchyb jest
+Wyjściem całego układu
+Wejściem całego układu
+Wejściem układu sterującego

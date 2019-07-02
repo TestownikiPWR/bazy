@@ -1,0 +1,6 @@
+X0001
+11. Na niedok³adnoœæ pomiarów poœrednich wp³ywa m. in.:
+a) B³¹d numeryczny przetwarzania
+b) Poœrednictwo w przekazywaniu wyniku
+c) Wyeliminowanie pomiarów bezpoœrednich
+d) Niedok³adnoœæ wykorzystanego modu³u matematycznego

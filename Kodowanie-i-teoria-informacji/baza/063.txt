@@ -1,0 +1,6 @@
+X0010
+Jeżeli 3+4=1 to z jakim p w ciele Cg(p) mamy do czynienia
+CG(6)
+CG(5)
+CG(2)
+CG(7)

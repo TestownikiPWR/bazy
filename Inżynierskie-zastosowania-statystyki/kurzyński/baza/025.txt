@@ -1,0 +1,6 @@
+X0100 
+Estymator wartości średniej cechy statystycznej o rozkladzie normalnym o znanym odchyleniu standartowym równym б wyznaczony na podtawie n elementowej próby losowej, posiada odchylenie standartowe równe:
+б/n
+б/sqrt(n)
+б*n
+б*sqrt(n)

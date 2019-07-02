@@ -1,0 +1,7 @@
+X10001
+Jakie s¹ dwa g³ówne sk³adniki Cisco Express Forwarding (CEF)? (Wybierz dwa.)
+sto³y przyleg³oœci 
+Tabele adresów MAC
+tabele routingu
+Tabele ARP
+przekazywana baza informacji (FIB) 

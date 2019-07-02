@@ -1,0 +1,6 @@
+X1000
+W ukladach CPLD polaczenia miedzy blokami:
+Maja stala dlugosc
+Maja rózna dlugosc
+Maja dlugosc zalezna od realizowanego ukladu
+Nie istnieja

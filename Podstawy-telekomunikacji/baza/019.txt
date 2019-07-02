@@ -1,0 +1,6 @@
+X0001
+Obecnie eksploatowane s¹ dwa systemy PCM – pierwszego rzêdu, zatwierdzone przez CCITT:
+PCM 30 i PCM 60
+PCM 12 i PCM 24
+PCM 24 i PCM 48
+PCM 24 i PCM 30

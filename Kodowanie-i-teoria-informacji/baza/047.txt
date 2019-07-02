@@ -1,0 +1,7 @@
+X1010
+Kod BCH (n=7,k=4,t=1) to: (Ma wspó³. wiel. gen na 100 % z drugim œrednio)
+ciag 1011 mo¿e byæ wspó³czynnikami wielomianu generuj¹cego 
+ciag 1011 mo¿e stanowic reszte z dzielenia ci¹gu odebranego przez wielomian generuj¹cy 
+ci¹g 1011 mo¿e byæ ci¹giem informacyjnym 
+ci¹g 1011 mo¿e byæ ci¹giem kodowym
+

@@ -1,0 +1,6 @@
+X1000
+40. B³¹d systematyczny pomiaru napiêcia sta³ego zale¿y od:
+a) Stosunku rezystancji woltomierza i Ÿród³a
+b) Iloczynu rezystancji woltomierza i Ÿród³a
+c) Stosunku napiêæ woltomierza i Ÿród³a
+d) Iloczynu pr¹dów woltomierza i Ÿród³a

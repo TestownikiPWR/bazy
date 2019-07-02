@@ -1,0 +1,6 @@
+X0100
+Do czego s³u¿¹ tabele s¹siedztwa u¿ywane w Cisco Express Forwarding (CEF)?
+do wype³nienia bazy informacji przesy³anych dalej (FIB)
+utrzymywaæ adresy nastêpnego skoku warstwy 2 
+aby umo¿liwiæ oddzielenie podejmowania decyzji w warstwie 2 i 3
+zaktualizowaæ bazê danych przekazywania (FIB)

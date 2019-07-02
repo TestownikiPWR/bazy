@@ -1,0 +1,6 @@
+X0001
+W zakresie fal metrowych g³ównym Ÿród³em zak³óceñ s¹:
+promieniowanie s³oñca
+wy³adowania atmosferyczne, promieniowanie planet
+promieniowanie galaktyki i radiogwiazd
+s³oñca, ksiê¿yca, radiogwiazd, planet, galaktyki

@@ -1,0 +1,6 @@
+X0001
+Dystrybuanta ka¿dej zmiennej losowej jest funkcj¹, która ma nastêpuj¹c¹ w³asnoœæ:
+jest malej¹ca
+jest rosn¹ca
+jest funkcj¹ skokow¹
+jest nieujemna

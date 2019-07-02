@@ -1,0 +1,6 @@
+X0100
+Ograniczenie przep³ywnoœci bitowej w procesie kodowania uzyskuje siê w standardzie MPEG-2 przez:
+zastosowanie kodowania Reed-Salomona
+zastosowanie kodowania o zmiennej d³ugoœci s³owa VLC
+zastosowanie kodowania splotowego
+na etapie kodowania nie stosuje siê ¿adnych metod redukcji wymaganej przep³ywnoœci bitowej

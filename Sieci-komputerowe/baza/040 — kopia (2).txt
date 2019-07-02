@@ -1,0 +1,7 @@
+X10000
+U¿ytkownik domowy szuka po³¹czenia ISP, które zapewnia szybk¹ transmisjê cyfrow¹ za poœrednictwem zwyk³ych linii telefonicznych. Jakiego typu po³¹czenia ISP nale¿y u¿yæ? 
+DSL 
+Wykrêciæ numer 
+satelita 
+modem komórkowy 
+modem kablowy 

@@ -1,0 +1,6 @@
+X0001
+Zgodnie z norm¹ PN-86/E-06600: zdolnoœæ pracuj¹cego urz¹dzenia do zachowania swoich w³aœciwoœci poprawnego dzia³ania, przy oddzia³ywaniu okreœlonych zak³óceñ lub umownego sygna³u testowego to:
+kompatybilnoœæ elektromagnetyczna
+podatnoœæ urz¹dzenia na zak³ócenia
+charakterystyka emisyjnoœci
+odpornoœæ urz¹dzenia na zak³ócenia

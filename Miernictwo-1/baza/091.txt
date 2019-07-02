@@ -1,0 +1,3 @@
+X1
+91. Wzorzec pierwotny czasu wykorzystuje
+a) wzorzec czestotliwosci i licznik okresów

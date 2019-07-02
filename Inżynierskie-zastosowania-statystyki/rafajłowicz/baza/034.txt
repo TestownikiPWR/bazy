@@ -1,0 +1,6 @@
+X1000
+Zalozmy, ze zmienne losowe X i Y sa niezalezne oraz, ze istnieje ich laczna gestosc prawdopodobienstwa f(x, y). Czy znajomosc brzegowych gestosci prawdopodobienstwa kazdej z tych zmiennych losowych wystarczy do obliczenia gestosci f(x,y)?
+Tak
+Nie
+Tylko w pewnych przypadkach
+Tylko dla zmiennych o dyskretnych wartosciach

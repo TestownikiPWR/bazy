@@ -1,0 +1,5 @@
+X010
+Sieci neuronowe:
+nie mogą być użyte do sterowania nieliniowych obiektów dynamicznych
+mogą być wykorzystywane do predykcji szeregów czasowych
+są zawsze rekurencyjne

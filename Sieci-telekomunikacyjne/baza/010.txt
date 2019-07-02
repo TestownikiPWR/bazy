@@ -1,0 +1,6 @@
+X0010
+Kodowanie MUSICAM w systemie DAB ma na celu:
+4-ro krotne zwiêkszenie przep³ywnoœci
+zmniejszenie przep³ywnoœci do 896kbit/s na kana³ stereofoniczny
+zmniejszenie przep³ywnoœci do 256kbit/s na kana³ stereofoniczny
+zmniejszenie przep³ywnoœci do 20kbit/s na kana³ monofoniczny

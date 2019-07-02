@@ -1,0 +1,6 @@
+X0100
+Jakie jest g³ówne zadanie modemu podczas przesy³u danych
+a) Dostosowanie standardów transmisyjnych
+b) P rzetwarzanie danych cyfrowych na analogowe i odwrotnie
+c) Wywo³anie abonenta
+d) Kodowanie sygna³ów

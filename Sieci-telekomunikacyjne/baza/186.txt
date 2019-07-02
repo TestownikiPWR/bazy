@@ -1,0 +1,6 @@
+X0100
+DTMF
+to sygna³ z³o¿ony z 2 sygna³ów prostok¹tnych
+wykorzystywany jest do sygnalizacji liniowej w ³¹czu abonenckim
+to dwuwartoœciowy kod liniowy w ³¹czu ADSL
+jest wykorzystywany do sygnalizacji wewn¹trz pasmowej

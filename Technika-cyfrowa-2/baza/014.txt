@@ -1,0 +1,6 @@
+X0110
+W jezyku VHDL jednostka deklaracji sluzy do:
+Opisu dzialan ukladu
+Deklaracji sygnalów wejsciowych
+Deklaracji sygnalów wyjsciowych
+Deklaracji zmiennych

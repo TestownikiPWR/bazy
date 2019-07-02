@@ -1,0 +1,6 @@
+X1101
+Które ze stwierdzeñ s¹ prawdziwe w stosunku do kodów splotowych?
+Odpowiednioœæ pomiêdzy symbolem informacyjnym, a symbolem koñcowym.
+Wychodz¹cy symbol kodowy zale¿y od stanu kodera w danym momencie.
+Symbol kodowy na wyjœciu kodera w danym momencie zale¿y tylko od symbolu informacyjnego wchodz¹cego aktualnie na koder
+Symbol kodowy wychodz¹cy w danym momencie zale¿y od symbolu informacyjnego

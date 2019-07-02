@@ -1,0 +1,3 @@
+X1
+99. Podstawowa zaleta mierników mikroprocesorowych jest
+a) zastosowanie szybkich przetworników C/A

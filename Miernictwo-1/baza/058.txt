@@ -1,0 +1,6 @@
+X1000
+58. Do pomiaru mocy odbieranej konieczna jest znajomoœæ:
+a) spadku napiêcia na i pr¹du p³yn¹cego przez odbiornik
+b) spadku napiêcia na amperomierzu
+c) pr¹du p³yn¹cego przez i spadku napiêcia na Ÿródle mocy
+d) pr¹du p³yn¹cego przez woltomierz

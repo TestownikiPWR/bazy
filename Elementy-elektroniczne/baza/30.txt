@@ -1,0 +1,6 @@
+X0010
+Emisja promieniowania w diodzie LED nastêpuje w wyniku: 
+poszerzenia obszaru ³ad. przestrz. 
+polaryzacji w kierunku zaporowym 
+rekombinacji promienistej 
+tunelowego przebicia z³¹cza 

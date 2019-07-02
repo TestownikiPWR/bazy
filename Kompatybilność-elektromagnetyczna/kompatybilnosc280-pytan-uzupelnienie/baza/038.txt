@@ -1,0 +1,6 @@
+X1000
+Dopuszczalny poziom zak³óceñ promieniowanych (pole E) wg. MIL-STD zmienia siê (w skali logarytmicznej) w zakresie czêstotliwoœci 100MHz - 1GHz
+liniowo
+wyk³adniczo
+logarytmicznie
+skokowo

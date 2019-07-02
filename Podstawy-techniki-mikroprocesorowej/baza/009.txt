@@ -1,0 +1,6 @@
+X0100
+MSP430 jest przedstawicielem architektury…
+8-bitowej
+16-bitowej
+32-bitowej
+64-bitowe

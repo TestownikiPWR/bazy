@@ -1,0 +1,6 @@
+X0100
+Ilu bitowy jest rejestr wskaünikowy Y w mikrokontrolerze ST7
+4
+8
+12
+16

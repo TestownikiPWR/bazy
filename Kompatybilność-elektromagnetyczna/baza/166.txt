@@ -1,0 +1,6 @@
+X1000
+W przypadku pomiaru pole elektromagnetycznego za pomoc¹ anteny liniowej, wiêksza jest:
+sk³adowa elektryczna
+sk³adowa magnetyczna
+sk³adowa elektromagnetyczna
+nie ma znaczenia

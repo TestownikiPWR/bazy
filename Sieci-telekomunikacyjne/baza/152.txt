@@ -1,0 +1,6 @@
+X0100
+Je¿eli sygna³ wejœciowy kodera 4B-3T ma szybkoœæ transmisji 160 kb/s to na wyjsciu ma szybkoœæ modulacji:
+200Kbod/s
+120Kbod/s
+180Kbod/s
+320Kbod/s

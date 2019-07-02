@@ -1,0 +1,6 @@
+X0001
+Zadaniem filtru wstecznego stosowanego na stanowisku do pomiaru odpornoœci urz¹dzeñ metod¹ poœredni¹ jest:
+sprzêgniêcie generatora z badanym urz¹dzeniem
+zabezpieczenie stanowiska pomiarowego przed oddzia³ywaniem zak³óceñ
+filtr wsteczny nie wystepuje na stanowisku pomiarowym
+zabezpieczenie przed przenikiem impulsu testowego do nie badanych urz¹dzeñ

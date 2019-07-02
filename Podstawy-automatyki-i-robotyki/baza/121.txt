@@ -1,0 +1,5 @@
+﻿X010
+Metody eliminacji Gaussa NIE wykorzystamy do:
+szacowania wartości własnych macierzy
+odwracania macierzy osobliwej
+odwracania macierzy Vandermonde'a

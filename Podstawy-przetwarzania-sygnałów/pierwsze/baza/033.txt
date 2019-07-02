@@ -1,0 +1,7 @@
+X00110
+[img]033.png[/img]
+s¹ liniow¹ kombinacj¹
+s¹ liniowo zale¿ne
+s¹ liniowo niezale¿ne
+[img]033D.png[/img]
+[img]033E.png[/img]

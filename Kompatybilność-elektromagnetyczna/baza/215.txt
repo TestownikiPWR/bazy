@@ -1,0 +1,6 @@
+X1000
+Ile wynosi zysk energetyczny anteny izotropowej?:
+0 dBi.
+1 dBi.
+2,64 dBi.
+6,2 dBi.

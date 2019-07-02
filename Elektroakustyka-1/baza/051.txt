@@ -1,0 +1,6 @@
+X1000
+51. Czêstotliwoœæ drgañ w³asnych uk³adu z t³umieniem jest w porównaniu z czêstotliwoœci¹ drgañ swobodnych uk³adu bez t³umienia i takiej samej masie i sztywnoœci
+ Zawsze mniejsza
+ Zawsze wiêksza
+ Mo¿e byæ mniejsza lub wiêksz¹ w zale¿noœci od t³umienia
+ Nie zale¿y od t³umienia

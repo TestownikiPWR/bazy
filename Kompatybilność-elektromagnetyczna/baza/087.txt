@@ -1,0 +1,6 @@
+X0010
+Amplitudy impulsów napiêcia powstaj¹ce podczas wy³adowañ elektrostatycznych siêgaj¹:
+100kV/m
+50kV/m
+25kV/m
+500kV/m

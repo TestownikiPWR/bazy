@@ -1,0 +1,6 @@
+X0011
+Buforowanie:
+przyspiesza wykonanie puli zadan
+opóŸnia wykonanie puli zadan
+nie opóŸnia ani nie przyspiesza puli zadan
+niweluje wahania w czasie przetwarzania puli zadao

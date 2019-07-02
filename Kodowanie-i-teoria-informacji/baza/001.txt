@@ -1,0 +1,6 @@
+X1110
+Kody ściśle równoważne charakteryzują się następującymi cechami:
+mają inne przyporządkowanie słów informacyjnych do słów kodowych
+mają takie same macierze generujące
+mają tą samą zdolność korekcyjną i detekcyjną
+mają ten sam zbiór słów kodowych i informacyjnych ale inne przyporządkowanie pomiędzy słowami kodowymi i informacyjnymi. 

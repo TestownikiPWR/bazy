@@ -1,0 +1,6 @@
+X0001
+Jak firmy wyposa¿aj¹ hale aby nie by³y przewodz¹ce:
+pod³oga z dielektryka ale p³aska
+pod³oga z dielektryka ale chropowata
+pod³oga przewodz¹ca ale p³aska
+pod³oga przewodz¹ca ale chropowata

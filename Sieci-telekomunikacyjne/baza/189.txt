@@ -1,0 +1,6 @@
+X0010
+ATM jest technika
+bezpo³¹czeniow¹
+pakietow¹
+transmisji asynchronicznej
+po³¹czeniow¹

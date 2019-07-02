@@ -1,0 +1,6 @@
+X1000
+Natê¿enie pola EM odbitego od absorberów piramidalnych jest:
+Odwrotnie proporcjonalna do ich wysokoœci
+Nie zale¿y od kierunku padania pola elektromagnetycznego
+Nie zale¿y od wysokoœci absorberów
+Wprost proporcjonalna do ich wysokoœci

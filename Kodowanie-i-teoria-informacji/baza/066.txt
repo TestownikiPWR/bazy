@@ -1,0 +1,6 @@
+X1000
+Które z kodów s¹ kodami liniowymi
+wszystkie
+niektóre
+zadne 
+tylko cykliczne

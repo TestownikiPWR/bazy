@@ -1,0 +1,6 @@
+X1000
+Jak¹ akcjê wykonuje klient DHCPv4, jeœli otrzymuje wiêcej ni¿ jeden serwer DHCPOFFER z wielu serwerów DHCP?
+Wysy³a DHCPREQUEST, który okreœla, która oferta dzier¿awy jest akceptowana przez klienta. 
+Wysy³a serwer DHCPNAK i rozpoczyna ponownie proces DHCP.
+Odrzuca obie oferty i wysy³a now¹ us³ugê DHCPDISCOVER.
+Przyjmuje oba komunikaty DHCPOFFER i wysy³a DHCPACK.

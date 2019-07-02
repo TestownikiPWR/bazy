@@ -1,0 +1,8 @@
+X111100
+Co zlicza licznik  tu mam problem bo znalaz³em w innym testo ¿e ooprócz 'TR' zlicza tez to. NK da znaæ
+takty rezonatora
+(impulsy) zegarowe (wewnêtrzne)
+(impulsy) zegarowe (wewnêtrzne) z dodatkowym preskalerem
+(impulsy) zewnêtrzne (min. 2x wolniejsze od zegarowych)
+(impulsy) fal 
+(impulsy) drgan

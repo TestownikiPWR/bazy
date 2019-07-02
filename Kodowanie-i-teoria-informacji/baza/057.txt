@@ -1,0 +1,6 @@
+X0011
+Synonimem kodowania protekcyjnego jest:
+zabezpieczenie przed niepowołanym dostępem  
+kodowanie źródłowe 
+kodowanie nadmiarowe  
+kodowanie kanałowe

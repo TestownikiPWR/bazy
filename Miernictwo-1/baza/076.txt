@@ -1,0 +1,6 @@
+X0100
+76. Wynik przetwarzania C/A jest skwantowany poniewaz
+a) wymaga tego odbiornik sygnalu wyjsciowego z przetwornika
+b) napiecie wzorcowe przybiera scisle okreslona wartosc
+c) wartosc wyjsciowa jest zakodowana cyfrowo
+d) spelnione sa zalozenia twierdzenia Kotelnikowa-Shanona

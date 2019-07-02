@@ -1,0 +1,6 @@
+X1000
+Dostêp podstawowy u¿ytkownika do sieci ISDN to:
+2B+D
+2D+H
+3D+H
+2B+2H

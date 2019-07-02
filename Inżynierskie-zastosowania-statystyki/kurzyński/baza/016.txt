@@ -1,0 +1,6 @@
+X1000
+Największa wartość prawdopodobieństwa błędnej klasyfikacji algorytmu bayesowskiego (dla 0-1 funkcji strat) dla liczby klas równej M wynosi:
+(M-1)/M
+1/M
+1
+0.5

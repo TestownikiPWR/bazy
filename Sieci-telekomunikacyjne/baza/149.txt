@@ -1,0 +1,6 @@
+X1110
+Zespó³ TA wspó³pracuje z zespo³ami
+TE1, NT
+TE2, NT2
+NT2, NT1
+NT1, LT

@@ -1,0 +1,6 @@
+X0100
+Keypad to protokó³:
+klawiaturowy specjalny
+klawiaturowy
+funkcjonalny
+korekcyjny

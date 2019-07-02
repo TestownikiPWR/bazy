@@ -1,0 +1,6 @@
+X0100
+Jak jest zasilany aparat telefoniczny
+nie potrzebuje zasilania
+zasilany jest z linii telefonicznej
+zasilany jest z akumulatora
+zasilany jest z sieci

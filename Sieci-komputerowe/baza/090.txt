@@ -1,0 +1,7 @@
+X00100
+Który adres docelowy jest u¿ywany w ramce ¿¹dania ARP?
+0.0.0.0
+255.255.255.255
+FFFF.FFFF.FFFF 
+127.0.0.1
+01-00-5E-00-AA-23

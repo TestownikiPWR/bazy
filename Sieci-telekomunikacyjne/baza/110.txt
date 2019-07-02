@@ -1,0 +1,6 @@
+X0100
+Maksymalna odległość terminali od szyny krókiej i długiej
+8 m
+10 m 
+20 m
+80 m

@@ -1,0 +1,6 @@
+X0010
+Niemiecka maszyna szyfruj¹ca ENIGMA
+Dokonywa³a podstawienia monoalfabetowego
+Dokonywa³a mieszania blokowego
+Dokonywa³a podstawienia wieloalfabetowego
+Dokonywa³a podstawieñ poligramowych

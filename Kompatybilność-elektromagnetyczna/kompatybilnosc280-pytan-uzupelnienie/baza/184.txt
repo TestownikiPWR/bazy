@@ -1,0 +1,6 @@
+X0100
+Jaki wymiar powinien mieæ stolik na poligonie pomiarowym:
+zale¿ny od wczeœniej ustalonego ciê¿aru badanego urz¹dzenia
+2m x 2m
+sta³y dla ka¿dego urz¹dzenia
+5m x 5m

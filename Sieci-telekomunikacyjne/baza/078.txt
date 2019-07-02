@@ -1,0 +1,6 @@
+X0100
+Prêdkoœæ transmisji BISDN / ATM (asynchronicznej, szerokopasmowej technologii komunikacji przeznaczonej dla us³ug multimedialnych):
+2 Mb/s
+kilkaset Mb/s
+512 kb/s
+kilka Gb/s

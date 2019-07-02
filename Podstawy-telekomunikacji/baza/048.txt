@@ -1,0 +1,6 @@
+X0001
+Modulacje impulsowe analogowe maj¹ nazwy skrócone - akronimy, które oznaczaj¹ odpowiednio modulacje:
+PAM szerokoœci impulsów, PPM amplitudy impulsów, PWM po³o¿enia impulsów
+PAM po³o¿enia impulsów, PPM szerokoœci impulsów, PWM amplitudy impulsów
+PAM amplitudy impulsów, PPM szerokoœci impulsów, PWM po³o¿enia impulsów
+PAM amplitudy impulsów, PPM po³o¿enia impulsów, PWM szerokoœci impulsów

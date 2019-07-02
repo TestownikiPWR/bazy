@@ -1,0 +1,6 @@
+X0100
+Parametrami rozdzia³u kana³ów w systemach wielokrotnych mog¹ byæ:
+czêstotliwoœæ, kszta³t, czas, charakter, faza
+po³o¿enie w przestrzeni, faza, czêstotliwoœæ, kszta³t, czas
+faza, czêstotliwoœæ, kszta³t, czas
+czêstotliwoœæ, poziom, pozycja geograficzna, kszta³t, czas

@@ -1,0 +1,7 @@
+X00100
+Jaka maska podsieci jest potrzebna, jeœli sieæ IPv4 ma 40 urz¹dzeñ, które potrzebuj¹ adresów IP, a przestrzeñ adresowa nie mo¿e zostaæ zmarnowana? 
+255.255.255.0
+255.255.255.128 
+255.255.255.192  
+255.255.255.224 
+255.255.255.240 

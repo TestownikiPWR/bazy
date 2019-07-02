@@ -1,0 +1,6 @@
+X1000
+Amplitudy impulsów pola elektromagnetycznego powstaj¹ce podczas wybuchu j¹drowego siêgaj¹ wartoœci:
+100kV/m
+50kV/m
+25kV/m
+500kV/m

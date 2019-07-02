@@ -1,0 +1,6 @@
+X1000
+Zale¿noœæ zapisana wzorem c(x)=R_(x^n+1)*[h(x)*g(x)] umo¿liwia:
+na nic nie pozwala
+sprawdzenie, czy wielomian g(x) jest wielomianem generuj¹cym kod
+wyznaczenie s³ów kodu systematycznego
+wyznaczenie s³ów kodu niesystematycznego

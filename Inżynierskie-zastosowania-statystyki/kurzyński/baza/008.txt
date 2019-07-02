@@ -1,0 +1,6 @@
+X0001
+W teœcie istotnoœci weryfikowana hipoteza to:
+hipoteza alternatywna
+hipoteza ?istotna?
+hipoteza warunkowa
+hipoteza zerowa

@@ -1,0 +1,6 @@
+X0100
+Szum cieplny jest wywo³ywany w:
+diodach pó³przewodnikowych
+przewodnikach metalicznych
+elementach reaktancyjnych
+lampach elektronowych

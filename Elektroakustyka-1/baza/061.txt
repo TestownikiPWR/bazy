@@ -1,0 +1,6 @@
+X0010
+61. Powy¿ej 40 fonów przy wzroœcie poziomu g³oœnoœci o 10 fonów:
+ G³oœnoœæ dŸwiêku roœnie o 1 son
+ G³oœnoœæ dŸwiêku roœnie o 10 sonów
+ G³oœnoœæ dŸwiêku podwaja siê
+ G³oœnoœæ dŸwiêku potraja siê

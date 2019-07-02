@@ -1,0 +1,6 @@
+X0001
+15. Natê¿enie dŸwiêku dla fali kulistej:
+ Nie zale¿y od odleg³oœci od Ÿród³a
+ Jest odwrotnie proporcjonalne do pierwiastka kwadratowego odleg³oœci od Ÿród³a
+ Jest odwrotnie proporcjonalne do odleg³oœci od Ÿród³a
+ Jest odwrotnie proporcjonalne do kwadratu odleg³oœci od Ÿród³a

@@ -1,0 +1,6 @@
+X0010
+Czasy opadania impulsów pola elektromagnetycznego powstaj¹cego podczas wybuchu j¹drowego s¹:
+rzêdu pikosekund
+rzêdu mikrosekund
+rzêdu nanosekund
+rzêdu milisekund

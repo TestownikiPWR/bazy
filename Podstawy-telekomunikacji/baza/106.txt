@@ -1,0 +1,6 @@
+X0100
+Podstawowe modulacje cyfrowe:
+PCM, ASK, FSK, QAM, SSM, OFDM
+PCM, PSK, FSK, QAM, SSM, CM
+PCM, PPM, FSK, QAM, SSM, FDMM
+PCM, TDM, FDM, QAM, PSK, FSK

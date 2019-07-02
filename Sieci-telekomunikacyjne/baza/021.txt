@@ -1,0 +1,6 @@
+X1000
+Wraz ze wzrostem czêstotliwoœci sygna³ radiowy jest:
+bardziej wra¿liwy na zak³ócenia
+mniej wra¿liwy na zak³ócenia
+nie jest wra¿liwy na zak³ócenia
+wra¿liwoœæ ta nie jest zwi¹zana z czêstotliwoœci¹

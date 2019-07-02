@@ -1,0 +1,6 @@
+X1000
+Impuls napiêcia 1,2/50us stosowany jest podczas badania odpornoœci na urz¹dzenia:
+metoda poœrednia (od strony linii zasilaj¹cej)
+metod¹ bezpoœredni¹ 
+metod¹ poœredni¹ (od strony zacisków antenowych)
+metod¹ poœredni¹ (od strony toru transmisyjnego)

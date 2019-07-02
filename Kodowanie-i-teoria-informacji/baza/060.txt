@@ -1,0 +1,6 @@
+X1100
+Dany jest wielomian generuj¹cy g(x)=x3 + x +1, który z kodów mo¿e byæ nim generowany (ró¿ne nazwy)
+BCH
+Cykliczny
+Niecykliczny
+inne

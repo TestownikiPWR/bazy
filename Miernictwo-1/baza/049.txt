@@ -1,0 +1,6 @@
+X0010
+49. Impedancja po³¹czeñ powoduje:
+a) Zwiêkszenie symetrii wejœæ woltomierza napiec skutecznych
+b) Zmniejszenie symetrii wejœæ woltomierza napiêæ skutecznych
+c) Zwiêkszenie siê wyniku pomiaru napiêcia wraz z czêstotliwoœci¹
+d) Zmniejszenie siê wyniku pomiaru napiêcia wraz z czêstotliwoœci¹

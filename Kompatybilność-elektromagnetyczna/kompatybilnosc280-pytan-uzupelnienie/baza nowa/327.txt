@@ -1,0 +1,6 @@
+X1000
+Maksymalna wartoœæ amplitudy impulsów napiêcia stosowane w badaniach wra¿liwoœci na bezpoœrednie oddzia³ywanie wy³adowañ.. (powietrza) wynosi:
+15kV
+8kV
+25kV
+4kV

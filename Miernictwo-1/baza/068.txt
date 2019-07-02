@@ -1,0 +1,6 @@
+X0100
+68. W woltomierzach wysokiej czêstotliwoœci przetwornik AC/DC umieszcza siê
+a) miêdzy uk³adem wejœciowym i wskaŸnikiem
+b) w sondzie wraz z uk³adem wejœciowym
+c) miêdzy wzmacniaczem AC i wskaŸnikiem
+d) w bloku sterowania wraz ze wskaŸnikiem

@@ -1,0 +1,6 @@
+X0010
+zaburzenia promieniowane dominuj¹ w zakresie czêstotliwoœci:
+10 kHz – 10 MHz
+Powy¿ej 10 GHz
+Powy¿ej 30 MHz
+10-10 MHz

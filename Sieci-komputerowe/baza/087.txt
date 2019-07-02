@@ -1,0 +1,6 @@
+X0100
+Która instrukcja opisuje sekwencjê procesów wykonywanych przez router, gdy odbiera pakiet z hosta, który ma byæ dostarczony do hosta w innej sieci?
+Odbiera pakiet i przekazuje go bezpoœrednio do hosta docelowego.
+Odznacza pakiet, wybiera odpowiedni¹ œcie¿kê i hermetyzuje pakiet, aby przekazaæ go do docelowego hosta 
+Od³¹cza pakiet i przesy³a go w stronê docelowego hosta.
+Wybiera œcie¿kê i przekazuje j¹ do hosta docelowego

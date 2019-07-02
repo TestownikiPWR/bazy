@@ -1,0 +1,6 @@
+X1000
+Wystarczaj¹ce , ze wzglêdu na zrozumia³oœæ, odtworzenie sygna³u mowy wymaga pasma:
+ok.3 kHz
+ok.8 kHz
+ok.0,7 kHz
+ok.15 kHz

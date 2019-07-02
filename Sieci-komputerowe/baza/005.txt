@@ -1,0 +1,6 @@
+X0010
+Która metoda przypisania prefiksu IPv6 opiera siê na prefiksie zawartym w komunikatach RA?
+EUI-64
+statyczny
+SLAAC 
+stateful DHCPv6

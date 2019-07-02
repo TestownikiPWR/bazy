@@ -1,0 +1,6 @@
+X1000
+53. jednostka wspó³czynnika pasma
+bit/s*Hz
+bit/s
+s/bit*Hz
+symb/s

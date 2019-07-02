@@ -1,0 +1,6 @@
+X1100
+38. Zaznaczyæ cechy FM zmodulowanego Asin(t)
+pasmo sygna³u zmodulowanego nie zale¿y od fm
+widmo sygna³u zmodulowanego nie jest ci¹g³e
+widmo sygna³u zmodulowanego  jest ci¹g³e
+pasmo sygna³u zmodulowanego  zale¿y od fm

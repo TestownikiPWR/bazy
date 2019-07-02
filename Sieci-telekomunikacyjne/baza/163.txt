@@ -1,0 +1,6 @@
+X0001
+Identyfikatro SAPL nie okreœla rodzaju informacji przenoszonej przez ramkê
+Transmisji danych T
+Sygnalizacyjn¹ S
+Utrzymaniow¹ M
+Wyrównawcz¹ W

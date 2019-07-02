@@ -1,0 +1,6 @@
+X1000
+Przewód testowy stosowany podczas badania wra¿liwoœci urz¹dzeñ metod¹ poœredni¹ umo¿liwia sprzê¿enie generatora udarowego z:
+przewodem zasilaj¹cym
+korpusem badanego urz¹dzenia
+kablem œwiat³owodowym
+torem wspó³osiowym

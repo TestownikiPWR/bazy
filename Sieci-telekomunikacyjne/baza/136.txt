@@ -1,0 +1,6 @@
+X0100
+Dezaktywacjê na styku S/T mo¿e rozpocz¹æ:
+tylko zespó³ TE
+zespó³ TE lub NT
+tylko zespó³ NT
+zespó³ TA i NT

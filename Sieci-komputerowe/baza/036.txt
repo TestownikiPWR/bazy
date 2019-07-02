@@ -1,0 +1,6 @@
+X0010
+Administrator wyda³ polecenie szyfrowania has³a us³ugi, aby zastosowaæ szyfrowanie do hase³ skonfigurowanych dla hase³ enable, vty i console. Jakie bêd¹ konsekwencje, jeœli administrator wyda komendê hase³ nieobs³uguj¹cych has³a?
+Usunie szyfrowanie ze wszystkich hase³.
+Odwróci tylko szyfrowanie hase³ vty i konsoli.
+To nie odwróci ¿adnego szyfrowania. 
+Odwróci tylko w³¹czone szyfrowanie has³em.

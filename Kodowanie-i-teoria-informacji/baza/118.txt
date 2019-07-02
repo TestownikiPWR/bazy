@@ -1,0 +1,6 @@
+X1110
+Entropia
+Jest miarą chaosu
+Określa średnią ilość bitów na zdarzenie
+Jest miarą ilości informacji
+Osiąga minimum gdy wszystkie zdarzenia są jednakowo prawdopodobne

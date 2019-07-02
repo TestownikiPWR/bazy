@@ -1,0 +1,6 @@
+X0010
+Które urz¹dzenie powinno byæ u¿ywane do umo¿liwienia hostowi komunikacji z innym hostem w innej sieci?
+prze³¹cznik
+centrum
+router 
+gospodarz

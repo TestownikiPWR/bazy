@@ -1,0 +1,5 @@
+X100
+12. Kodowanie ró¿nicowe w przypadku modulacji PSK ma na celu:
+eliminacjê b³êdu niejednoznacznoœci odtwarzania fazy
+kodowanie ró¿nicowe nie wystepuje w modulacji PSK
+¿adna z powy¿szych

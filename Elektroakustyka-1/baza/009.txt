@@ -1,0 +1,6 @@
+X0001
+9. Liniami wêz³owymi modów membrany ko³owej s¹:
+ Linie o nieokreœlonym kszta³cie
+ Tylko œrednice wêz³owe
+ Œrednice wêz³owe i elipsy o sp³aszczeniu rosn¹cym wraz z numerem modu
+ Œrednice wêz³owe i okrêgi wspó³œrodkowe z obwodem membrany

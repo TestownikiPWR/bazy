@@ -1,0 +1,6 @@
+X1100
+Proces kooczy swoje dzia³anie, gdy:
+wykona swoj¹ ostatni¹ instrukcjê
+jego wykonanie sta³o siê zbêdne lub naruszy³ zasoby innego procesu
+wyczerpa³a siê wolna pamiêd przydzielona dla systemu
+otrzyma³ sygna³ zakooczenia od swojego potomka

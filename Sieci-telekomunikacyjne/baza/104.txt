@@ -1,0 +1,6 @@
+X0100
+Z jakiego medium transmisyjnego zbudowana jest sieæ HFC (Hybrid Fiber Control)
+ tylko ze œwiat³owodów
+ ze œwiat³owodów i kabla koncentrycznego 
+ tylko z kabla konentrycznego
+ z dowolnego rodzaju ³¹cza

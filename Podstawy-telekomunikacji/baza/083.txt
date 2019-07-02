@@ -1,0 +1,6 @@
+X1000
+Przy jakiej czêstotliwoœci poziom zak³óceñ atmosferycznych znacznie siê obni¿a?
+Powy¿ej 40MHz
+Poni¿ej 40MHz
+Powy¿ej 20MHz
+Poni¿ej 20MHz

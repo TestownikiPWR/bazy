@@ -1,0 +1,5 @@
+X001
+Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+trajektorii, położenia i orientacji dla punktu pracy we współrzędnych wewnętrznych
+współrzędnych zewnętrznych punktu pracy, dla zadanego wektora współrzędnych wewnętrznych
+wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych 

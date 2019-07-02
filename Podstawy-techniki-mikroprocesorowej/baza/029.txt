@@ -1,0 +1,6 @@
+X0110
+Jakie rejestry zachowane s¹ na stosie ST7 przy wywo³aniu podprogramu?
+adres docelowy do podprogramu
+adres powrotny z podprogramu
+rejestr A i X
+rejestr Y

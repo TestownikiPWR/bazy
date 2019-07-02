@@ -1,0 +1,6 @@
+X1000
+Zbiór 00, 01, 11, 10 ile wynosi odleg³oœæ minimalna w zbiorze
+1
+2
+5
+10

@@ -1,0 +1,6 @@
+X0111
+Generator impulsów testowych zgodny z wymaganiami CCITT K-17 umo¿liwia badanie urz¹dzeñ telekomunikacyjnych do³¹czonych do:
+linii œwiat³owodowych
+linii typu symetrycznej i nie symetrycznej
+przewodów interfejsowych
+przewodów zasilaj¹cych

@@ -1,0 +1,6 @@
+X0100
+Punkt pracy tranzystora PNP: 
+a) zawsze pokrywa siê z punktem (0,0) charakterystyki IC od UCE. Pr¹d kolektora od napiêcia kolektor emiter. 
+b) jest jednoznacznie okreœlony przez kombinacjê pr¹du IC(pr¹d kolektora), IB (pr¹d bazy), UCE 
+c) istnieje tylko jeden 
+d) nie zale¿y od prostej obci¹¿enia 

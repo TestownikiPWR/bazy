@@ -1,0 +1,6 @@
+X0100
+Ze wzglêdu na rodzaj modulacji noœnej wizji w systemach naziemnych, w odbiorniku nale¿y zastosowaæ:
+detektor czêstotliwoœci
+detektor synchroniczny	
+detektor aperiodyczny
+filtr deemfazy

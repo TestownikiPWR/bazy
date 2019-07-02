@@ -1,0 +1,6 @@
+X0010
+Pole adresowe ramki LAP-D zawiera elementy
+TE1 oraz FSC
+SAPI oraz 1CS
+SAPI oraz TE1
+tylko TE1

@@ -1,0 +1,6 @@
+X0001
+Wzór na sk³adow¹ pola elektrycznego dla strefy zagro¿enia:
+H0(f)=H1(f)/3
+H(f)=10H(f) 
+pE0(f)=E1(f)/3 
+E(f)=10E(f)

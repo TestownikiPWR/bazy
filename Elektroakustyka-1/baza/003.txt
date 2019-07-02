@@ -1,0 +1,6 @@
+X0001
+3. Natê¿enie dŸwiêku wynosi 0.01 W/m2. Poziom dŸwiêku jest równy:
+ 70 dB
+ 80 dB
+ 90 dB
+ 100 dB

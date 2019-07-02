@@ -1,0 +1,6 @@
+X1100
+24. Które stwierdzenie charakteryzuje QPSK:
+wiêksza zwartoœæ widma ni¿ BPSK
+sygna³ ma sta³¹ amplitudê
+mniejsza zawartosc widma niz BPSK
+sygnal ma zmienna amplitude

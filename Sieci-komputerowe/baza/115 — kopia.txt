@@ -1,0 +1,7 @@
+X01010
+Które z dwóch oznaczeñ s¹ u¿ytecznymi granicami skórki podczas podsieci w IPv6? (Wybierz dwa.)
+/ 62
+/ 64 
+/ 66
+/ 68 
+/ 70

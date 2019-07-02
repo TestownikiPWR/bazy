@@ -1,0 +1,6 @@
+X0101
+Mamy cia³o rozszerzone CG(4). Które z podanych zbiorów nie mog¹ stanowiæ zbioru jego elementów.
+0, 1, x, x+1
+0, 1, a, a^2
+0, 1, 2, 3
+0, a^0, a, a^2

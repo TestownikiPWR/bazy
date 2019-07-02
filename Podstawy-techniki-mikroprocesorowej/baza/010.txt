@@ -1,0 +1,6 @@
+X0100
+Jak numeruje siê bity w bajcie?
+A. 8 7 6 5 4 3 2 1
+B. 7 6 5 4 3 2 1 0
+C. 1 2 3 4 5 6 7 8
+D. 0 1 2 3 4 5 6 7

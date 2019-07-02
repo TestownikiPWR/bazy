@@ -1,0 +1,6 @@
+X0010
+Parametry transmisji cyfrowych:
+Rs, Beta, Rm, Rs/B, SNR
+Rs, BER, Rm, Fi, SNR
+Rs, BER, Rm, Rs/B, SNR
+P, BER, Rm, Rs/B, SNR

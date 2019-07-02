@@ -1,0 +1,6 @@
+X0010
+60. Na wynik pomiaru napiêcia sta³ego wp³ywa
+a) przetwornik AC/DC woltomierza
+b) pojemnoœæ woltomierza
+c) rezystancja wewnêtrzna Ÿród³a napiêciowego
+d) indukcyjnoœæ wewnêtrzna Ÿród³a napiêciowego

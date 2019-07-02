@@ -1,0 +1,6 @@
+X1000
+Od czego zale¿y wielkoœæ sto³u pomiarowego na poligonie:
+rozmiaru
+czêstotliwoœci min
+czêstotliwoœæi max
+wagi

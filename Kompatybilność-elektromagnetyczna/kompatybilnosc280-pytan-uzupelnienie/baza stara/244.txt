@@ -1,0 +1,10 @@
+X11000000
+[img]2.jpg[/img]:
+Odgromnik - surge arrester,
+Warystor (stosuje siê je jako odgrominiki, wiêc mo¿e to byæ 2 odpowiedŸ,
+triak
+kondensator
+piorunochron
+element ograniczaj¹cy
+element zwieraj¹cy
+filtr dolnoprzepustowy

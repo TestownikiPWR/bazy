@@ -1,0 +1,6 @@
+﻿X1000
+Wzór na sygnał wyjściowy (w układzie zamkniętym) regulatora: //układ zamknięty czyli ze sprzężeniem zwrotnym
+e=y_zadane-y
+e=u-y
+e=u+y
+e=calka(u+y)dt

@@ -1,0 +1,6 @@
+X1000
+36. Impulsy o czasie trwania T(sek) przesy³ane s¹ bez modulacji w paœmie podstawowym. Jaka musi byæ najmniejsza szerokoœæ B (Hz) toru transmisji, aby mo¿na przes³aæ bez interferencji i jaki kszta³t powinna posiadaæ transmitancja filtru ...
+B=1/2 T charakterystyka podniesionego cosinusa
+B=2 T charakterystyka podniesionego cosinusa
+B=1/4 T charakterystyka podniesionego cosinusa
+B=1 T charakterystyka podniesionego cosinusa

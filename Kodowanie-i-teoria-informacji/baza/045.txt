@@ -1,0 +1,6 @@
+X0010
+Czy szyfr homofoniczny mo¿e byæ teoretycznie nieprze³amywalny ? (dyskusyjne pytanie) 
+Tak, ka¿dy szyfr homofoniczny jest teoretycznie nieprze³amywalny
+Nie 
+Tak, o ile ka¿dej literze w tekœcie jawnym bêdzie odpowiada³ jeden homofon
+Nie ma mo¿liwoœci zbudowania takiego szyfru homofonicznego

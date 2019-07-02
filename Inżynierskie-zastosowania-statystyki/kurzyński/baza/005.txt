@@ -1,0 +1,6 @@
+X0010
+Metoda histogramu to:
+metoda punktowej estymacji parametrycznej
+metoda przedzia³owej estymacji parametrycznej
+metoda estymacji nieparametrycznej
+uniwersalna metoda estymacji parametrycznej i nieparametrycznej

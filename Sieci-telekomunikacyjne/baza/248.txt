@@ -1,0 +1,6 @@
+X0100
+Kabel teleinformatyczny (skrêtka) kategorii 5 zawiera par symetrycznych:
+3
+4
+5
+6

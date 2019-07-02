@@ -1,0 +1,5 @@
+X100
+5. Warunek koherentnoœci w procesie demodulacji oznacza, ¿e w demodulatorze (po stronie odbiornika):
+istnieje pe³na synchronizacja z modulatorem (po stronie nadajnika)
+nie istnieje pe³na synchronizacja z modulatorem (po stronie nadajnika)
+¿adna z powy¿szych

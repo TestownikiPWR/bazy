@@ -1,0 +1,6 @@
+X0100
+w jednym kanale radiowym mo¿e pracowaæ system dzia³aj¹cy w uk³adzie
+duosimpleks
+simpleks
+semidupleks
+dupleks

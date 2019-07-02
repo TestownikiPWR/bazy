@@ -1,0 +1,6 @@
+X1000
+W wyniku kompresji czasowej pasmo przetworzonego sygna³u:
+roœnie proporcjonalnie do wspó³czynnika kompresji
+maleje z kwadratem wspó³czynnika kompresji
+roœnie z kwadratem wspó³czynnika kompresji
+nie ulega zmianie

@@ -1,0 +1,6 @@
+X0101
+Product Term Allocator
+Pozwala na wykorzystanie wszystkich przerzutników
+Pozwala na wykorzystanie wszystkich globalnych sygnalów zegarowych
+Pozwala na wykorzystanie wszystkich globalnych sygnalów zerowania
+Pozwala na wykorzystanie wszystkich linii iloczynów 

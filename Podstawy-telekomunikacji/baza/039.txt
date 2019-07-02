@@ -1,0 +1,6 @@
+X1001
+Szum 1/f (inaczej szum ró¿owy): (Wybierz co najmniej jedn¹ odpowiedŸ)
+roœnie gdy f maleje
+maleje gdy f roœnie z kwadratem 
+wzrasta proporcjonalnie do f
+maleje ze wzrostem f

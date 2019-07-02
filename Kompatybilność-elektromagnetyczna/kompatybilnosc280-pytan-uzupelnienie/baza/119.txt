@@ -1,0 +1,6 @@
+X1001
+Najprostszym sposobem eliminacji zak³óceñ przedostaj¹cych siê do urz¹dzenia przewodem zasilaj¹cym jest:
+zastosowanie warystorów
+zastosowanie filtru górnoprzepustowego
+zastosowanie filtru œrodkowoprzepustowego
+zastosowanie filtru dolnoprzepustowego

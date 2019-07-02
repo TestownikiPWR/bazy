@@ -1,0 +1,6 @@
+X0100
+Dla pary zmiennych losowych X i Y o dodatnim i > 0.9 wspó³czynniku korelacji, oszacowano wspó³czynniki a i b regresji liniowej y = ax + b. Liczba obserwacji n > 100. Czy mo¿na na tej podstawie stwierdziæ, ¿e oszacowanie wspó³czynnika b bêdzie zawsze dodatnie?
+tylko wtedy, gdy maj¹ rozk³ady wyk³adnicze
+nie
+tak
+tylko wtedy X i Y s¹ niezale¿ne

@@ -1,0 +1,6 @@
+X0001
+Model odniesienia OSI nie definiuje:
+funkcji ka¿dej warstwy
+komutacji miêdzy warstwami
+protoko³u komutacji miêdzy równorzêdnymi warstwami we wspó³pracuj¹cych urz¹dzeniach
+odleg³oœci w warstwach i miêdzy warstwami

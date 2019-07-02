@@ -1,0 +1,6 @@
+X1000
+Oblicz wartość funkcji Eulera dla liczby 1:
+1
+2
+4
+6

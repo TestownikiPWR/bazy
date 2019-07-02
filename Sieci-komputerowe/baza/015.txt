@@ -1,0 +1,6 @@
+X0001
+Jaki typ regu³y komunikacji najlepiej opisuje CSMA / CD?
+komunikat enkapsulacji
+kontrola przep³ywu
+kodowanie 
+dostêp do wiadomoœci

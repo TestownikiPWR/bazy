@@ -1,0 +1,6 @@
+X1000
+ Ile bajtów danych zawiera ramka CAN
+Od 0 do 8 bajtów w komunikacie
+Od 0 do 16 bajtów w komunikacie
+Od 0 do 32 bajtów w komunikacie
+Od 8 do 16 bajtów w komunikacie

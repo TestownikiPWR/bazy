@@ -1,0 +1,6 @@
+X0001
+Modulacje impulsowe tzw. cyfrowe, to:
+PAM, PDM, PPM, PCM, FDM
+PCM, PSK, DM, PAM, FSK
+FSK, PSK, PCM, PDM, TDM 
+PSK, FSK, PCM, DM, ASK

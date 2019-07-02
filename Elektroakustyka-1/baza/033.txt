@@ -1,0 +1,6 @@
+X1000
+33. Dla uk³adu maj¹cego zniekszta³cenia fazowe:
+ OpóŸnienia sk³adowych o ró¿nych czêstotliwoœciach s¹ ró¿ne
+ OpóŸnienia sk³adowych o ró¿nych czêstotliwoœciach s¹ niezale¿ne od czêstotliwoœci
+ Faza sygna³u zale¿y liniowo od czêstotliwoœci
+ Powstaj¹ nowe sk³adowe tonalne

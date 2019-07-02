@@ -1,0 +1,6 @@
+X0010
+48. Czas pog³osu to czas jaki up³ywa od momentu wy³¹czenia Ÿród³a do spadku poziomu dŸwieku o:
+ 20 dB
+ 40 dB
+ 60 dB
+ 80 dB

@@ -1,0 +1,6 @@
+X0100
+ Porty w architekturze 8-bitowej s¹ pogrupowane po…
+4 piny
+8 pinów
+16 pinów
+32 piny

@@ -1,0 +1,6 @@
+X1001
+Jak ograniczyæ pobór mocy (mikroproc/mikrokontr?)
+Powy³¹czaæ peryferia
+Podnieœæ taktowanie
+Podnieœæ napiêcie
+Obni¿yæ napiêcie

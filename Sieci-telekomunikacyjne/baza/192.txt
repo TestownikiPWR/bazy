@@ -1,0 +1,6 @@
+X0010
+W sieci dostêpowej po³¹czone s¹
+tylko wêz³y dostêpowe ze sob¹
+terminale u¿ytkowników bezpoœrednio ze sob¹
+terminale u¿ytkowników z wêz³em dostêpowym
+stacje bazowe ze sob¹

@@ -1,0 +1,6 @@
+ X1000
+Klasyfikator bayesowski dla 0-1 funkcji strat działa według zasady:
+maksymalizacji prawdopodobieństwa a posteriori klas
+minimalizacji największej wartości ryzyka
+minimalizacji błędu średniokwadratowego dla klas i cech
+maksymalizacji prawdopodobieństwa a priori klas

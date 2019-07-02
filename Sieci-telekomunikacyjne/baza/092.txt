@@ -1,0 +1,6 @@
+X0010
+Maksymalna liczba terminali pod³¹czonych do krótkiej magistrali pasywnej:
+ 2
+ 1
+ 8 
+ 4

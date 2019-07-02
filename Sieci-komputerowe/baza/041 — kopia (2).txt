@@ -1,0 +1,6 @@
+X0001
+Jaki Ÿród³owy adres IP router u¿ywa domyœlnie po wydaniu polecenia traceroute? 
+najwy¿szy skonfigurowany adres IP routera 
+najni¿szy skonfigurowany adres IP routera 
+adres IP sprzê¿enia zwrotnego 
+adres IP interfejsu wychodz¹cego 

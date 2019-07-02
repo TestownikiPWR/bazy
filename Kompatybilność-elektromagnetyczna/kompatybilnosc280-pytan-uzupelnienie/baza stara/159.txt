@@ -1,0 +1,6 @@
+X1010
+Impuls napiêcia 1,2/50 us stosowany jest podczas badania wra¿liwoœci urz¹dzenia:
+Metod¹ poœredni¹ na zaburzenia rozchodz¹ce siê w torach sygna³owych
+Metod¹ bezpoœredni¹
+Metod¹ poœredni¹ na zaburzenia rozchodz¹ce siê w przewodach interfejsowych
+Metod¹ poœredni¹ na zaburzenia rozchodz¹ce siê w przewodach antenowych

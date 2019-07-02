@@ -1,0 +1,6 @@
+X0100
+Który z protoko³ów jest z innej warstwy modelu OSI ni¿ pozosta³e?
+ IPX
+ TCP
+ IP
+ ARP

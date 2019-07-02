@@ -1,0 +1,6 @@
+X0001
+Poprawê jakoœci p³yt z elementami (z punktu widzenia EMI) uzyskuje siê poprzez:
+losowe rozmieszczanie elementów
+ekranowanie wszystkich elementów (np. w kubki)
+u¿ycie odpowiednich laminatów
+stosowanie siatek tzw. X-Y

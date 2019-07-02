@@ -1,0 +1,6 @@
+X1000
+W ogniwie fotoelektrycznym przy braku obci¹¿enia zale¿noœd fotopr¹du od natê¿enia oœwietlenia jest: 
+a) liniowa 
+b) ekspotencjalna 
+c) kwadratowa 
+d) logarytmiczna 

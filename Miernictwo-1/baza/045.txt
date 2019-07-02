@@ -1,0 +1,6 @@
+X0010
+45. Do parametrów energetycznych sygna³ów nale¿¹:
+a) Wartoœæ chwilowa i wartoœæ okresu
+b) Wartoœæ wyprostowana i wartoœæ czêstotliwoœci
+c) Wartoœæ œrednia i wartoœæ skuteczna
+d) Wartoœæ pulsacyjna i wartoœæ szczytowa

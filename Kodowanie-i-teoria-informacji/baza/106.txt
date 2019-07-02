@@ -1,0 +1,4 @@
+X10
+Czy zredukowane residuum i funkcja eulera to to samo
+TAK
+NIE

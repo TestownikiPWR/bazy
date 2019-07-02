@@ -1,0 +1,6 @@
+X0100
+Szerokoœæ pasma w systemie DECT
+ 1800 – 1900 MHz
+ 1880 – 1900 MHz
+ 1880 – 1980 MHz
+ 1900 – 1920 MHz

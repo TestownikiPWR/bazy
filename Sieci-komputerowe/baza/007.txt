@@ -1,0 +1,7 @@
+X00100
+Do jakiej starszej klasy adresów nale¿y adres 10.0.0.0?
+Klasa B
+Klasa D
+Klasa A 
+Klasa C
+Klasa E

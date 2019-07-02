@@ -1,0 +1,6 @@
+X0010
+Jak szeroka powinna byæ szyna adresowa, by obs³u¿yæ 64kB przestrzeni adresowej?
+8-bitowa
+10-bitowa
+16-bitowa
+25-bitowa

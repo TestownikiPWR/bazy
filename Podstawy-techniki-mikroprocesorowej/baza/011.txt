@@ -1,0 +1,6 @@
+X1101
+Na 8 bitach mo¿emy zapisaæ nastêpuj¹ce wartoœci:
+A. 255 (dec)
+B. -123 (dec)
+C. 100 (hex)
+D. 0FF (hex)

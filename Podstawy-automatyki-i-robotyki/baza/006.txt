@@ -1,0 +1,3 @@
+﻿X1000
+Jaki język jest najczęściej stosowany w programowaniu PLC?
+drabinkowy LD

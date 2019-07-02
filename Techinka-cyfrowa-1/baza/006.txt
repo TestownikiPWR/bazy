@@ -1,0 +1,6 @@
+X1000
+Uk³ady kombinacyjne to: 
+Rodzaj uk³adów cyfrowych charakteryzuj¹cy siê tym, ¿e stan wyjœæ zale¿y wy³¹cznie od stanu wejœæ.
+Rodzaj uk³adów cyfrowych charakteryzuj¹cy siê tym, ¿e stan wyjœæ zale¿y czasem od stanu wejœæ. 
+Rodzaj uk³adów cyfrowych charakteryzuj¹cy siê tym, ¿e stan wejœæ zale¿y wy³¹cznie od stanu wyjœæ.
+Rodzaj uk³adów cyfrowych charakteryzuj¹cy siê tym, ¿e stan wejœæ zale¿y czasem od stanu wyjœæ.

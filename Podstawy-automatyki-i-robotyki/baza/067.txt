@@ -1,0 +1,3 @@
+﻿X1000
+W układzie dynamicznym z czasem ciągłym wyjście jest splotem:
+wejścia i charakterystyki impulsowej

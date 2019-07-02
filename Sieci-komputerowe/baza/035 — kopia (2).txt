@@ -1,0 +1,6 @@
+X0001
+Technik mo¿e wys³aæ polecenie ping do adresu IP serwera WWW firmy zdalnej, ale nie mo¿e wys³aæ polecenia ping do adresu URL tego samego serwera WWW. Z którego narzêdzia oprogramowania mo¿e korzystaæ technik w celu zdiagnozowania problemu? 
+tracert 
+ipconfig 
+netstat 
+nslookup 

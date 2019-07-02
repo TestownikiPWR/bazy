@@ -1,0 +1,6 @@
+X0010
+52. Dla rezonansu uk³adu z t³umieniem:
+ Czêstotliwoœæ rezonansu prêdkoœci jest zawsze wiêksza ni¿ czêstotliwoœæ rezonansu prêdkoœci uk³adu bez t³umienia o takiej samej masie i sztywnoœci
+ Czêstotliwoœæ rezonansu prêdkoœci jest zawsze mniejsza ni¿ czêstotliwoœæ rezonansu prêdkoœci uk³adu bez t³umienia o takiej samej masie i sztywnoœci
+ Czêstotliwoœæ rezonansu prêdkoœci jest taka sama jak czêstotliwoœæ rezonansu prêdkoœci uk³adu bez t³umienia o takiej samej masie i sztywnoœci
+ Czêstotliwoœæ rezonansu prêdkoœci mo¿e byæ mniejsza lub wiêksza ni¿ czêstotliwoœæ rezonansu prêdkoœci uk³adu bez t³umienia o takiej samej masie i sztywnoœci

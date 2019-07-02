@@ -1,0 +1,6 @@
+X1001
+Algorytm planisty krótkoterminowego niewyw³aszczeniowy podejmuje decyzje, gdy któreœ z procesów:
+przechodzi od stanu aktywnoœci do stanu czekania
+przechodzi od stanu aktywnoœci do stanu gotowoœci
+przechodzi od stanu czekania do stanu gotowoœci
+koñczy dzia³anie

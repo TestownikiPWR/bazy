@@ -1,0 +1,6 @@
+X0001
+Obszar istotny dla propagacji fali EM w naziemnej linii radiowej obejmuje
+elipsoidê otaczaj¹c¹ anteny
+ca³y obszar pomiêdzy antenami
+Linei radiow¹ ³¹cz¹ca anteny
+1sz¹ pó³sferê Fresnela

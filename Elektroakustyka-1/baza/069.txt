@@ -1,0 +1,6 @@
+X0001
+69. Wzajemna rezystancja promieniowania uk³adu N Ÿróde³:
+ Jest proporcjonalna do N w ca³ym zakresie czêstotliwoœci
+ Jest proporcjonalna do N2 w ca³ym zakresie czêstotliwoœci
+ Jest proporcjonalna do N w ca³ym zakresie czêstotliwoœci ma³ych oraz do N2  w zakresie czêstotliwoœci du¿ych
+ Jest proporcjonalna do N2  w ca³ym zakresie czêstotliwoœci ma³ych oraz do N w zakresie czêstotliwoœci du¿ych

@@ -1,0 +1,6 @@
+X0001
+72. W zakresie wiêkszych czêstotliwoœci liczba modów drgañ w³asnych rezonatora prostopad³oœciennego:
+ Roœnie w przybli¿eniu proporcjonalnie do pierwiastka kwadratowego z czêstotliwoœci 
+ Roœnie w przybli¿eniu proporcjonalnie do czêstotliwoœci
+ Roœnie w przybli¿eniu proporcjonalnie do drugiej potêgi czêstotliwoœci
+ Roœnie w przybli¿eniu proporcjonalnie do trzeciej potêgi czêstotliwoœci

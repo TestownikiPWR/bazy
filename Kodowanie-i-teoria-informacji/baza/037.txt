@@ -1,0 +1,6 @@
+X0010
+Je¿eli mamy kod cykliczny o parametrach(n, k) to jaki jest stopieñ wielomianu generuj¹cego
+n+k
+n-k+1
+n-k
+n-k-1

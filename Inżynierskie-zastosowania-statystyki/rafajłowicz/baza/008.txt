@@ -1,0 +1,6 @@
+X1000
+Czy mediana zmiennej losowej mo¿e byæ liczb¹ ujemn¹?
+tak
+nie
+tylko dla zmiennej o wartoœciach ujemnych
+tylko dla zmiennej o wartoœciach > 0 i < 0

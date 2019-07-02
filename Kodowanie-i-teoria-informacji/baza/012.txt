@@ -1,0 +1,6 @@
+X1010
+Do czego s³u¿y macierz kontrolna H^t?
+do kontroli poprawnoœci ci¹gu odebranego przez dekoder
+do generowania s³ów informacyjnych ze s³ów odebranych
+do wyznaczania syndromu ci¹gu odebranego przez dekoder
+do mno¿enia s³ów kodowych celem przekonania siê czy s¹ one kodowe przed wys³aniem w kana³ telekomunikacyjny

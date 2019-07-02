@@ -1,0 +1,6 @@
+X0100
+Która grupa us³ug nie jest œwiadczona w sieci ISDN:
+us³ugi bazowe
+us³ugi magistralne
+teleus³ugi
+us³ugi dodatkowe

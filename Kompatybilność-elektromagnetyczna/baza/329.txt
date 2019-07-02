@@ -1,0 +1,6 @@
+X0100
+Gdy praca badanego obiektu jest chwilowo zak³ócona, ale obiekt powraca samoczynnie do stanu..
+obiekt nie jest podatny na zak³ócenia
+obiekt jest wytrzyma³y
+poziom ostroœci próby nie jest za niski i trzeba go zwiêkszyæ
+obiekt jest odporny na zak³ócenia

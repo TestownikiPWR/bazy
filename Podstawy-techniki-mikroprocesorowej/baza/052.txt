@@ -1,0 +1,8 @@
+X111100
+Jakie elementy nale¿¹ do systemu wbudowanego: 
+procesor z ALU 
+pamiêæ komputera (zawieraj¹ca dane i program) 
+urz¹dzenia wejœcia/wyjœcia
+stosowane oprogramowanie
+licznik zegarowy
+komparator

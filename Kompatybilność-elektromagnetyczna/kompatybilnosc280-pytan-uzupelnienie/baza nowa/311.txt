@@ -1,0 +1,6 @@
+X0100
+Efekt tryboelektryczny polega na:
+roz³adowaniu kondensatora w uk³adzie ESD
+indukowaniu w ciele sta³ym, ciek³ym lub gazowym napiêcia dochodz¹cego do kilkuset miliwoltów, wywo³anego przez odkszta³cenie dielektryka
+przeskoku iskry pomiêdzy przeciwnie na³adowanymi dielektrykami
+indukowaniu w przewodniku pr¹du dochodz¹cego do kilkuset miliamper, wywo³anego obecnoœci¹ pola EM

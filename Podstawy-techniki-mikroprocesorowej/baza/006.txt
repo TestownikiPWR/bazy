@@ -1,0 +1,6 @@
+X0010
+Która architektura umo¿liwia zabezpieczenie ca³ego programu przed nielegalnym odczytem?
+mikroprocesorowa
+mikroprocesorowa rozszerzona
+mikrokontrolerowa
+mikrokontrolerowa rozszerzona

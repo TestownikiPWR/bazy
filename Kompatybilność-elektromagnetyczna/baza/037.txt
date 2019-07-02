@@ -1,0 +1,6 @@
+x0001
+Czas narastania impulsów powstaj¹cych podczas wybuchów j¹drowych wynosi:
+5 sekund
+10 sekund
+50 milisekund
+50 nanosekund

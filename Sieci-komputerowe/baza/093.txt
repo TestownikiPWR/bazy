@@ -1,0 +1,6 @@
+X0100
+Administrator sieci wprowadza zmiany w konfiguracji routera. Po wprowadzeniu zmian i weryfikacji wyników administrator wydaje polecenie copy running-config startup-config. Co siê stanie po wykonaniu tego polecenia?
+Konfiguracja zostanie skopiowana do flashowania.
+Konfiguracja zostanie za³adowana po ponownym uruchomieniu routera. 
+Nowy plik konfiguracyjny zast¹pi plik IOS.
+Zmiany zostan¹ utracone po ponownym uruchomieniu routera.

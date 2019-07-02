@@ -1,0 +1,5 @@
+﻿X010
+obiekt -> ... -> opis teoretyczny
+white box
+black box
+grey box

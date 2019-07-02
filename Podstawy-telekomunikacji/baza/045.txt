@@ -1,0 +1,6 @@
+X0100
+Wspó³czynnik szumów F dopasowanego t³umika o t³umieniu La okreœla zale¿noœæ:
+La-1
+La 
+T0*(La-1)
+La*(T0-1)

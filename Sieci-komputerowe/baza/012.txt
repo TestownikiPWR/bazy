@@ -1,0 +1,7 @@
+X10100
+W jaki sposób wadliwe urz¹dzenie sieciowe mo¿e stanowiæ Ÿród³o zagro¿enia dla u¿ytkownika? (Wybierz dwa.)
+Mog³oby przestaæ dzia³aæ. 
+Mo¿e przy³o¿yæ niebezpieczne napiêcie do innych urz¹dzeñ.
+Mo¿e eksplodowaæ. 
+Mo¿e wytwarzaæ niebezpieczne pole elektromagnetyczne.
+Mo¿e zastosowaæ do siebie niebezpieczne napiêcie.

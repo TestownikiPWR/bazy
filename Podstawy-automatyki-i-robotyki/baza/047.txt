@@ -1,0 +1,6 @@
+﻿X0010
+Która z metod nawigacji wózków AGV obsługujących ESP(elastyczne systemy produkcyjne) jest najmniej dokładna:
+metoda sonarowa
+metoda laserowa
+metoda GPS
+metoda żyroskopowa

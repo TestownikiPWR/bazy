@@ -1,0 +1,6 @@
+X0010
+Jak zmniejsza siê moc sygna³u z 10-krotnym wzrostem odleg³oœci odbiornika od nadajanika?
+6 dB
+12 dB
+20 dB
+40 dB

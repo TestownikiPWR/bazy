@@ -1,0 +1,6 @@
+X1000
+Który z algorytmów Viterbiego opiera siê na minimalizacji drogi przez kratê stanów dekodera
+Algorytm twardodecyzyjny
+Algorytm drogi
+Algorytm kratowy
+Algorytm optymalny

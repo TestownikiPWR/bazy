@@ -1,0 +1,5 @@
+X100
+Do detekcji uszkodzeń:
+mogą być użyte kamery
+nie można użyć kamery
+nie mogą być użyte skanery laserowe

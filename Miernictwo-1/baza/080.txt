@@ -1,0 +1,6 @@
+X0001
+80. Analogowe woltomierze napiecia stalego posiadaja
+a) mechanizm elektrostatyczny
+b) strukture woltomierza cyfrowego
+c) strukture prostownika napieciowego
+d) mechanizm magnetoelektryczny

@@ -1,0 +1,8 @@
+X001000
+Jaki jest cel procesu rutowania?
+enkapsulowaæ dane u¿ywane do komunikacji w sieci
+
+aby wybraæ œcie¿ki u¿ywane do kierowania ruchu do sieci docelowych 
+aby przekonwertowaæ nazwê URL na adres IP
+zapewniæ bezpieczny transfer plików przez Internet
+przekazywaæ ruch na podstawie adresów MAC

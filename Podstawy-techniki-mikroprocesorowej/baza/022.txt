@@ -1,0 +1,6 @@
+X0101
+Które rezonatory nadaj¹ siê do taktowania ³¹cza CAN?
+3,6864 MHz
+4,0000 MHz
+11,5678 MHz
+12,0000 MHz

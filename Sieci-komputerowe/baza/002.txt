@@ -1,0 +1,6 @@
+X0100
+Jakie informacje s¹ przechowywane w tabeli przyleg³oœci CEF?
+Warstwa 2 przeskakuje nastêpnie
+adres MAC do odwzorowañ adresów IPv4 
+Adres IP do mapowania mapuje
+adresy IP wszystkich s¹siednich routerów

@@ -1,0 +1,6 @@
+X0010
+Aby ograniczyæ promieniowanie symulatora z fal¹ prowadzon¹ do œrodowiska
+umieszcza siê go w terenach trudno dostêpny
+wykonuje siê go z sieci cienkich przewodów
+umieszcza siê go w kotlinach
+wykonuje siê go z blach

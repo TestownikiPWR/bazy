@@ -1,0 +1,6 @@
+X0110
+W przypadku bezstanowego serwera plików
+tworzona jest rozproszona tablica otwartych plików,
+ka¿de ¿¹danie jest samowystarczalne,
+w³aœciwie jest brak ograniczeñ co do liczby otwartych plików
+liczbê otwartych plików limituje wielkoœæ globalnej tablicy otwartych plików

@@ -1,0 +1,8 @@
+X000100
+Jaki jest protokó³ u¿ywany do wykrycia fizycznego adresu ze znanego adresu logicznego i jakiego typu wiadomoœci u¿ywa?
+ARP, multicast
+DNS, unicast
+DNS, broadcast
+ARP, broadcast
+PING, multicast
+PING, broadcast

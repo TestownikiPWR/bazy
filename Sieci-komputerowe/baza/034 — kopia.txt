@@ -1,0 +1,6 @@
+X0100
+Administrator sieci chce mieæ tê sam¹ maskê podsieci dla trzech podsieci w ma³ej witrynie. Witryna ma nastêpuj¹ce sieci i numery urz¹dzeñ:  Podsieæ A: Telefony IP - 10 adresów  Podsieæ B: Komputery - 8 adresów  Podsieæ C: Drukarki - 2 adresy  Jaka maska podsieci by³aby odpowiednia dla trzech podsieci? 
+255.255.255.0 
+255.255.255.240 
+255.255.255.248 
+255.255.255.252 

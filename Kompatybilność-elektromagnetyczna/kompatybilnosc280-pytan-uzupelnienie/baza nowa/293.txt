@@ -1,0 +1,8 @@
+X101000
+Najbardziej ogólne (œrodowiskowe) normy EMC dotycz¹ce emisyjnoœci urz¹dzeñ, które obowi¹zuj¹ w Polsce (wybierz dwie)
+PN-EN61000-6-3
+PN-EN55022
+PN-EN61000-6-4
+PN-EN61000-6-1
+PN-EN55014-2
+PN-EN55014-1

@@ -1,0 +1,6 @@
+X0010
+Impuls napiêcia powstaj¹cy podczas wy³adowania elektrostatycznego charakteryzuje siê czasem narastania:
+powy¿ej nanosekund
+rzêdu mikrosekund
+rzêdu nanosekund
+poni¿ej nanosekund

@@ -1,0 +1,6 @@
+X0110
+Optymalny algorytm zastêpowania stron:
+jest najpopularniejszym algorytmem stosowanym w systemach o ma³ych obci¹¿eniach
+nie jest mo¿liwy do zastosowania, ma jedynie sens teoretyczny
+sugeruje wymienienie strony, do której najpóŸniej nast¹pi przysz³e odwo³anie
+wymienia najrzadziej u¿ywane strony

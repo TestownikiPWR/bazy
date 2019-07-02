@@ -1,0 +1,7 @@
+X10000
+Jakie informacje zapewnia test pêtli zwrotnej?
+Stos TCP / IP na urz¹dzeniu dzia³a poprawnie. 
+Urz¹dzenie ma ³¹cznoœæ typu end-to-end.
+DHCP dzia³a poprawnie.
+Kabel Ethernet dzia³a poprawnie.
+Urz¹dzenie ma poprawny adres IP w sieci.

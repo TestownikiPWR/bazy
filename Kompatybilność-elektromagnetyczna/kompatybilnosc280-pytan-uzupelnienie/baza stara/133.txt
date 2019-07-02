@@ -1,0 +1,6 @@
+X0001
+Amplituda impulsu pola elektrycznego wystêpuj¹cego w przestrzeni pomiarowej symulatora rownolegloplytowego zale¿y od:
+odleg³oœci miêdzy p³ytami symulatora
+poziomu napiêcia na wyjœciu generatora pobudzaj¹cego
+zastosowanych w symulatorze sond pomiarowych
+kszta³tu impulsu wytwarzanego przez generator pobudzaj¹cy

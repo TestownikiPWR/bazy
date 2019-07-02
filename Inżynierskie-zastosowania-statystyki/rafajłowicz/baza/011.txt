@@ -1,0 +1,6 @@
+X0010
+Jeœli wartoœci pewnej zmiennej losowej mierzone s¹ w metrach, to jej wariancja mierzona jest w:
+[img]011A.png[/img]
+[img]011B.png[/img]
+[img]011C.png[/img]
+jest liczb¹ bezwymiarow¹

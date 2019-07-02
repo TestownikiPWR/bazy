@@ -1,0 +1,6 @@
+X0010
+28. W sk³ad wirtualnego przyrz¹du pomiarowego wchodz¹:
+a) Czujnik obrotów i miernik cyfrowy
+b) Komputer PC i miernik cyfrowy
+c) Karta aktywizacji sygna³ów i komputer PC
+d) Interfejs komputerowy i specjalistyczne oprogramowanie

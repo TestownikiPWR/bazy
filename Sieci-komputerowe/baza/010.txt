@@ -1,0 +1,6 @@
+X0001
+Jaka jest wartoœæ metryki u¿ywanej do osi¹gniêcia sieci 10.1.1.0 w poni¿szym wpisie tablicy routingu? D 10.1.1.0/24 [90/2170112] przez 209.165.200.226, 00:00:05, Serial0 / 0/0
+24
+90
+05
+2170112 

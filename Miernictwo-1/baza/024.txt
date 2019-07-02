@@ -1,0 +1,6 @@
+X0100
+24. Du¿a dok³adnoœæ pomiarów w miernikach mikroprocesorowych osi¹gana jest dziêki:
+a) Bokowi przetwornika AC/DC
+b) Blokowi przetwarzania A/C
+c) Blokowi przetwarzania C/A
+d) Blokowi przetwarzania C/C

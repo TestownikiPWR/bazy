@@ -1,0 +1,6 @@
+ X0100
+ Klasyfikator bayesowski dla rozkładów normalnych cech w klasach z rożnymi macierzami kowariancji jest:
+ liniowy
+ odcinkami liniowy
+ kwadratowy
+ minimalno-odległościowy

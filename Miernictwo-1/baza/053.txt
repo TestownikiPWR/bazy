@@ -1,0 +1,6 @@
+X1000
+53. W woltomierzach ma³ych napiêæ przemiennych przetwornik AC/DC umieszcza siê:
+a) miêdzy wzmacniaczem AC i wskaŸnikiem
+b) w bloku sterowania wraz ze wskaŸnikiem
+c) miêdzy uk³adem wejœciowym i wskaŸnikiem
+d) w sondzie z uk³adem wejœciowym

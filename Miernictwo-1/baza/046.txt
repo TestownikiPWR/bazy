@@ -1,0 +1,6 @@
+X1000
+46. Sygna³em steruj¹cym bramk¹ miernika du¿ych czêstotliwoœci jest:
+a) Sygna³ generatora wzorcowego
+b) Sygna³ licznika
+c) Sygna³ badany
+d) Sygna³ zak³óceñ

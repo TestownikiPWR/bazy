@@ -1,0 +1,6 @@
+X0100
+Obudowa urz¹dzeñ:
+nie ma wp³ywu na w³aœciwoœci urz¹dzenia
+jest zasadnicz¹ barier¹ przeciwko EMI
+powinna byc dielekryczna
+musi byc wyposa¿ona w otwory wentylacyjne

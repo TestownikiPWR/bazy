@@ -1,0 +1,6 @@
+X0100
+Co ma na celu wyd³u¿enie s³ów kodowych na przyk³ad poprzez dodanie do s³ów kodowych bitu parzystoœci?
+nie prowadzi siê takiego zabiegu. Co najwy¿ej dokonywane jest skracanie kodu
+poprawienie zdolnoœci detekcyjnej kodu
+poprawienie sprawnoœci kodu 
+poprawienie spójnoœci s³ów kodowych

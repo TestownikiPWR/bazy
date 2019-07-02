@@ -1,0 +1,6 @@
+X0010
+Symulatory promieniuj¹ce stosuje siê do badania:
+podatnoœci urz¹dzeñ
+emisyjnoœci urz¹dzeñ
+odpornoœci urz¹dzeñ
+t³umiennoœci ekranowania

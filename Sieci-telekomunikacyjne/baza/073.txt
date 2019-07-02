@@ -1,0 +1,6 @@
+X1000
+Jaki protokó³ nie wystêpuje w NGN?
+MGCP
+H.248
+SIP, SIP-T
+H.323

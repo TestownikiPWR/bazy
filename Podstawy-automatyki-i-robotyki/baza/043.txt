@@ -1,0 +1,5 @@
+﻿X0100
+Czy na podstawie znajomości odpowiedzi impulsowej możemy wyznaczyć model układu?
+tylko całkujący
+tak 
+nie

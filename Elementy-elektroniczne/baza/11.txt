@@ -1,0 +1,6 @@
+X0001
+Zakres nasycenia tranzystora MOSFET nazywamy zakresem: 
+a) bramkowym 
+b) diodowym 
+c) triodowym 
+d) pentodowym 

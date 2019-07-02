@@ -1,0 +1,6 @@
+X1000
+P³aszczyznê sprzegaj¹c¹ w badaniach wra¿liwoœci na poœrednie oddzia³ywanie wy³adowañ elektrostatycznych:
+³¹czy siê z ziemi¹ odniesienia przewodem zawieraj¹cym dwa rezystory po 470 kioomów
+uziemia siê
+³¹czy siê z ziemi¹ odniesienia przewodem zawieraj¹cym dwa rezystory po 100 kiloomów
+³¹czy siê z ziemi¹ odniesienia przewodem zawieraj¹cym rezystor 470 kiloomów

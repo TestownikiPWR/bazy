@@ -1,0 +1,3 @@
+X1
+92. Blad pomiaru to
+a) róznica miedzy wynikiem pomiaru a wartoscia prawdziwa

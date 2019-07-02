@@ -1,0 +1,6 @@
+X0001
+w cyfrowych wielokrotnych systemach telefonicznych(PDH) stosuje siê zwielokrotnienie:
+kodowe
+czêstotliwoœciowe
+Falowe
+z podzia³em czasu

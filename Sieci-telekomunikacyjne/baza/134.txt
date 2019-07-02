@@ -1,0 +1,6 @@
+X0001
+Ramka warstwy fizycznej na styku S ma:
+192bity
+144bity
+32bity
+48bitów

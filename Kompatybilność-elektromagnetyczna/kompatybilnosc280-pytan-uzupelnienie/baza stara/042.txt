@@ -1,0 +1,6 @@
+X0100
+Zak³ócenia zewnêtrzne wg. CISPR (Publ. 22) powinny byæ poni¿ej dopuszczalnych poziomów o:
+3 dB
+6 dB
+9 dB
+10 dB

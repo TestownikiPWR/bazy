@@ -1,0 +1,6 @@
+﻿X0100
+Robot IRB1400 to robot:
+Monolityczny prosty
+Monolityczny złożony
+Modułowy dymensyjny
+Modułowy prosty

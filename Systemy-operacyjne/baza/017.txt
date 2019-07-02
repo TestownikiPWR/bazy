@@ -1,0 +1,6 @@
+X0110
+W przypadku wykrycia blokad mo¿na tak¹ blokadê usun¹æ:
+poprzez dodanie nowych zasobów do systemu
+wyw³aszczenie zasobów bêd¹cych przyczyn¹ blokady
+zakooczenie procesów uwik³anych w blokady
+upakowanie pamiêci

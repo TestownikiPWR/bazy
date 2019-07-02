@@ -1,0 +1,5 @@
+X100
+Co oznacza skrót SS
+Slave Select
+Save Selected
+Slave Save

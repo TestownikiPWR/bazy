@@ -1,0 +1,6 @@
+X1110
+37. Zaznaczyæ w³aœciwoœci POAM z próbkowaniem naturalnym
+istnieje mo¿liwoœæ detekcji sygna³u przy pomocy FDP
+obwiednia widma sygna³u ma postaæ sin(x)/x
+moc sygna³u zale¿y od wspó³czynnika wype³nienia fali noœnej
+zadna z powyzszych

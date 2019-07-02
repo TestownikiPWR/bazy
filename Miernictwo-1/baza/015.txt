@@ -1,0 +1,6 @@
+X1000
+15. Stopieñ przetwarzania to:
+a) Zjawisko elementarne opisywane jednym równaniem matematycznym
+b) Model matematyczny przetwarzania w mierniku
+c) Przetwornik A/C
+d) Przetwornik stopniowo ca³kuj¹cy

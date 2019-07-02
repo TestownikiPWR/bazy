@@ -1,0 +1,6 @@
+X0100
+Co u¿ywa router, aby okreœliæ miejsce wysy³ania danych, które otrzymuje z sieci?
+tablica ARP
+tabela routingu 
+docelowy fizyczny adres komputera
+stó³ prze³¹czaj¹cy

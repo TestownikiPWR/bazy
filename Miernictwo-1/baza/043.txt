@@ -1,0 +1,6 @@
+X0010
+43. Mostek Wheastone`a realizuje:
+a) Pomiar metod¹ wychy³ow¹
+b) Pomiar impedancji metod¹ wychy³ow¹
+c) Pomiar rezystancji metod¹ zerow¹
+d) Pomiar impedancji metoda zerow¹

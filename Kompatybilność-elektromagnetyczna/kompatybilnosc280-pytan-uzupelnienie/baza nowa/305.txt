@@ -1,0 +1,6 @@
+X1000
+Oczko w a¿urowej p³ycie ziemi odniesienia na otwartym poligonie pomiarowym powinno byæ:
+mniejsza ni¿ 0.1 d³ugoœci fali odpowiadaj¹ca maksymalnej czêstotliwoœci pomiarowej
+wiêksza ni¿ 0.1 d³ugoœci fali promieniowanego pola odpowiadaj¹ca minimalnej czêstotliwoœci pomiarowej
+p³yta ziemi odniesienia powinna byæ wykonana z litej blachy
+p³yta ziemi odniesienia nie mo¿e byæ wykonana z siatki

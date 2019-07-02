@@ -1,0 +1,6 @@
+X0011
+Uklady FPGA i PLD to uklady:
+Programowalne maska
+Nieprogramowalne
+Programowalnie elektrycznie
+Kasowalnie elektrycznie

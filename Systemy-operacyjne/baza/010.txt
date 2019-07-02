@@ -1,0 +1,6 @@
+X1010
+Pamiêæ wirtualna:
+to stworzenie iluzji du¿ego obszaru pamiêci operacyjnej poprzez wykorzystanie w tablicy stron odwo³añ do obszarów pamiêci masowej
+to wszystkie urz¹dzenia pamiêci, które mog¹ byæ chwilowo montowane w komputerze (systemie operacyjnym)
+obs³ugiwana jest z wykorzystaniem pu³apki – b³¹d braku strony
+to wydzielony obszar pamiêci w przypadku implementacji tzw. maszyny wirtualnej

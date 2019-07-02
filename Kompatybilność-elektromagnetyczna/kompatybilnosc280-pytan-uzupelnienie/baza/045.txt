@@ -1,0 +1,6 @@
+X0001
+Wysokoœæ zawieszenia anten pomiarowych wg CISPR (Publ. 22) w trakcie pomiarów:
+jest sta³a i równa 1m
+nie ma znaczenia
+powinna zmieniaæ siê od 0,5 do 1,5 m
+powinna zmieniaæ siê od 1 do 4 m

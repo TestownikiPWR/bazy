@@ -1,0 +1,6 @@
+X1000
+42. W cyfrowych omomierzach du¿ych rezystancji wykorzystuje siê:
+a) ród³o napiêcia u wzorcowy rezystor
+b) ród³o pr¹dowe i wzorcowy rezystor
+c) ród³o napiêcia i nieliniowy wskaŸnik magnetoelektryczny
+d) ród³o pr¹dowe i nieliniowe wskaŸnik magnetoelektryczny

@@ -1,0 +1,7 @@
+X00100
+Ile dodatkowych bitów nale¿y po¿yczyæ od maski podsieci / 26 w celu utworzenia podsieci dla ³¹czy WAN wymagaj¹cych tylko 2 u¿ytecznych adresów?
+2
+3
+4 
+5
+6

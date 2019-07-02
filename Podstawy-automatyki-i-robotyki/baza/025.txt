@@ -1,0 +1,6 @@
+﻿X0001
+Pętla histerezy:
+Występuje w każdym systemie dynamicznym
+Jest elementem regulatorów PID
+Oznacza ujemne sprzężenie zwrotne w układzie automatycznej regulacji
+Opisuje regulator dwustanowy

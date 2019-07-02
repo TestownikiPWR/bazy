@@ -1,0 +1,6 @@
+X1010
+Protokól transmisyjny warstwy drugiej to:
+LAP-D
+DQDB
+HDLC
+X.25

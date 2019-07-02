@@ -1,0 +1,6 @@
+X1000
+14. Ton o danej czêstotliwoœci maskuje tony o czêstotliwoœciach:
+ Wiêkszych ni¿ czêstotliwoœæ tonu maskuj¹cego
+ Mniejszych ni¿ czêstotliwoœæ tonu maskuj¹cego
+ Wiêkszych lub mniejszych ni¿ czêstotliwoœæ tonu maskuj¹cego w zale¿noœci od poziomu
+ Maskuje tylko tony o czêstotliwoœciach le¿¹cych w w¹skim paœmie wokó³ tonu maskuj¹cego

@@ -1,0 +1,6 @@
+X0001
+Przepustowoœæ portu szeregowego wynosi:
+ 65 kb/s
+ 70 kb/s
+ 100 kb/s
+ 115 kb/s

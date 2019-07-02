@@ -1,0 +1,6 @@
+X1000
+59. Poprawka otwartego koñca falowodu powoduje:
+ Wzrost masy akustycznej
+ Wzrost podatnoœci akustycznej
+ Wzrost rezystancji akustycznej
+ Wzrost czêstotliwoœci rezonansowej

@@ -1,0 +1,6 @@
+X1000
+Uszeregowaæ modulacje pod wzglêdnem sprawnoœci energetycznej:
+ASK>PSK>QAM>FSK
+FSK>QAM>PSK>ASK
+PSK>ASK>FSK>QAM
+QAM>PSK>ASK>FSK

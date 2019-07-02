@@ -1,0 +1,6 @@
+X1000
+52. Woltomierze cyfrowe mierz¹ napiêcie przemienne:
+a) bezpoœrednio z napiêciowym przetwornikiem A/C
+b) poœrednio z pr¹dowym przetwornikiem C/A
+c) Bezpoœrednio z blokiem przetwarzania U/I
+d) Poœrednio z blokiem przetwarzania I/U

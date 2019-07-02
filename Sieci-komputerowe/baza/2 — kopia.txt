@@ -1,0 +1,7 @@
+X00101
+Administrator sieci aktualizuje sieæ ma³ych firm, aby nadawaæ wysoki priorytet ruchowi aplikacji w czasie rzeczywistym. Jakie dwa typy us³ug sieciowych próbuje administrator sieci? (Wybierz dwa.)
+SNMP
+wiadomoœci b³yskawiczne
+g³os
+FTP
+wideo

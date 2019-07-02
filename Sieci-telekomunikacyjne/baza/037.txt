@@ -1,0 +1,6 @@
+X0100
+Czêstotliwoœæ podnoœnej chrominancji odbiornika kolorowego wynosi:
+0,6 MHz
+3,57 MHz
+8,5 MHz
+1,3 MHz

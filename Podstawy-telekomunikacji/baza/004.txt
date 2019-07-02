@@ -1,0 +1,6 @@
+X1010
+Przy próbkowaniu naturalnym, kszta³t przebiegu zmodulowanego odtwarza przebieg moduluj¹cy: (Wybierz co najmniej jedn¹ odpowiedŸ)
+ka¿dym impulsem w czasie
+w dziedzinie czêstotliwoœci
+w dziedzinie czasu 
+ka¿dym powtórzeniem widma sygna³u moduluj¹cego

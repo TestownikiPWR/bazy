@@ -1,0 +1,6 @@
+X0101
+Je¿eli mamy kod cykliczny (n,k) to: 
+Wielomian informacyjny jest stopnia k. 
+syndrom jest wielomianem stopnia n-k-1 
+syndrom jest wielomianem stopnia n-k bitów 
+wielomian informacyjny jest stopnia k-1.

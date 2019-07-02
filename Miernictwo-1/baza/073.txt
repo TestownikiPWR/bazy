@@ -1,0 +1,6 @@
+X0001
+73. Cecha charakterystyczna elektronicznych mierników analogowych jest
+a) elektroniczne wyswietlanie i analogiczne przetwarzanie wyniku
+b) mozliwosc przekazywania wyniku pomiaru do uzytkownika
+c) wykorzystywanie zjawiska elektromagnetycznego
+d) przetwarzanie elektrycznego nosnika informacji

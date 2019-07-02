@@ -1,0 +1,6 @@
+X0100
+Czym jest funkcja auto-MDIX na prze³¹czniku?
+automatyczna konfiguracja interfejsu dla pracy 10/100/1000 Mb / s
+automatyczna konfiguracja interfejsu dla prostego lub krzy¿owego po³¹czenia kablowego Ethernet 
+automatyczna konfiguracja operacji pe³nego dupleksu za poœrednictwem pojedynczego kabla miedzianego lub optycznego Ethernet
+mo¿liwoœæ w³¹czenia lub wy³¹czenia interfejsu prze³¹cznika w przypadku wykrycia aktywnego po³¹czenia

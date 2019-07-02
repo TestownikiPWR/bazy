@@ -1,0 +1,6 @@
+X0010
+D³ugoœæ lini w konfiguracji punkt-punkt na styku S jest ograniczona
+t³umiennosci¹ <6dB dla czêstotliwoœci 96kHz
+t³umiennoœci¹ <6dB dla czêstotliwoœci 192kHz
+opóŸnoœci¹
+napiêciem zasilania

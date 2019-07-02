@@ -1,0 +1,6 @@
+X0100
+Jaki jest adres podsieci dla adresu 2001: DB8: BC15: A: 12AB :: 1/64?
+2001: DB8: BC15 :: 0
+2001: DB8: BC15: A :: 0 
+2001: DB8: BC15: A: 1: 1
+2001: DB8: BC15: A: 12: 0

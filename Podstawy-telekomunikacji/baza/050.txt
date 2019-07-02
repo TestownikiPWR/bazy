@@ -1,0 +1,6 @@
+X0001
+Uk³ady zastêpcze elementu szumi¹cego w postaci Ÿród³a Norton'a lub Thevenin'a zawieraj¹ po³¹czone odpowiednio:
+(konduktancjê i Ÿród³o pr¹dowe szeregowo) lub (konduktancjê i Ÿród³o napiêciowe równolegle)
+(rezystancjê i Ÿród³o pr¹dowe równolegle) lub (rezystancje i Ÿród³o napiêciowe równolegle) 
+(Ÿród³o pr¹dowe równoleg³e z konduktancj¹) lub (Ÿród³o napiêciowe szeregowo z rezystancj¹)
+(rezystancjê w szereg ze Ÿród³em napiêciowym) lub (rezystancja równolegle ze Ÿród³em pr¹dowym)

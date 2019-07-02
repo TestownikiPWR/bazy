@@ -1,0 +1,7 @@
+X10100
+Jakie s¹ dwie cechy fizycznej topologii sieci gwiazd? (Wybierz dwa.)
+£atwo jest rozwi¹zaæ problem. 
+Urz¹dzenia koñcowe s¹ po³¹czone razem przez magistralê.
+£atwo jest dodawaæ i usuwaæ urz¹dzenia koñcowe. 
+Wszystkie urz¹dzenia koñcowe s¹ po³¹czone ze sob¹ ³añcuchem.
+Ka¿dy system koñcowy jest pod³¹czony do odpowiedniego s¹siada

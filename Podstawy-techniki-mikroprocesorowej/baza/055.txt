@@ -1,0 +1,5 @@
+X100
+AVR jest przedstawicielem architektury:
+8-bitowej lub 16 (sa tez 32 ale wtedy nazywaj¹ siê AVR32)
+tylko 8 bitowej
+tylko 16 bitowej

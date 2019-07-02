@@ -1,0 +1,6 @@
+X0001
+Przy normalnej pracy tyrystora miêdzy stanem blokowania a stanem przewodzenia wystêpuje: 
+a) stan zaworowy 
+b) stan nasycenia 
+c) obszar uszkodzeo obwodu bramkowego 
+d) obszar ujemnej rezystancji dynamicznej 

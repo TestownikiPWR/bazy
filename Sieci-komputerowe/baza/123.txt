@@ -1,0 +1,8 @@
+X010001
+Jakie dwa sk³adniki s¹ niezbêdne, aby klient bezprzewodowy móg³ zostaæ zainstalowany w sieci WLAN? (Wybierz dwa.)
+g³oska bezdŸwiêczna
+bezprzewodowa karta NIC 
+niestandardowy adapter
+kabel z przeplotem
+bezprzewodowy most
+oprogramowanie klienta bezprzewodowego 

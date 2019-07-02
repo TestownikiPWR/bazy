@@ -1,0 +1,6 @@
+X0100
+Administratorowi serwisu powiedziano, ¿e konkretna sieæ w tej witrynie musi obs³ugiwaæ 126 hostów. Która maska podsieci bêdzie zawiera³a wymagan¹ liczbê bitów hosta? 
+255.255.255.0 
+255.255.255.128 
+255.255.255.224 
+255.255.255.240 

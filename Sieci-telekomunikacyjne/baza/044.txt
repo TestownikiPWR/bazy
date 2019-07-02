@@ -1,0 +1,6 @@
+X0100
+Z prawem sumowania kolorów, dowolny kolor mo¿e byæ otrzymany w wyniku:
+mieszania trzech kolorów
+dodania trzech kolorów, spe³niaj¹cy warunek ,¿e dodanie dowolnych dwóch z tej trójki nie daje koloru trzeciego
+tonacji koloru bia³ego i czarnego
+mieszania RGB

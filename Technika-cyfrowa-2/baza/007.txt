@@ -1,0 +1,6 @@
+X0111
+Struktura ukladu GAL16V8 pozwala na utworzenie:
+Licznika asynchronicznego 
+Ukladu kombinacyjnego
+Licznika synchronicznego
+Rejestru

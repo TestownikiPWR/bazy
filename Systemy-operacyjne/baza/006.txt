@@ -1,0 +1,6 @@
+X0101
+Typy plików:
+s¹ wykorzystywane we wszystkich systemach operacyjnych
+wykorzysytwane s¹ w systemach Microsoft
+s¹ rozpoznawane w UNIX poprzez odpowiedni¹ konfiguracjê flag zwi¹zanych uprawnieniami
+w MS DOS i Windows s¹ trzy - .exe, .com, .bat

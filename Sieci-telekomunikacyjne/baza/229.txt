@@ -1,0 +1,3 @@
+X1
+Do czego s³u¿y styk S i T
+S³u¿y do po³¹czenia terminali abonenckich z sieci¹ ISDN

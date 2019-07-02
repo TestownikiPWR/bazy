@@ -1,0 +1,6 @@
+X0010
+50. Pobór mocy metod¹ absorpcyjn¹ pozwala wyznaczyæ:
+a) Moc poch³aniana przez Ÿród³o
+b) Moc oddawan¹ przez miernik
+c) Rezystancjê dopasowania energetycznego odbiornika
+d) Absorpcjê mocy biernej w odbiorniku

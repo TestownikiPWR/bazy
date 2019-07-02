@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie jest prawdziwe w odniesieniu do interfejsu skonfigurowanego za pomoc¹ polecenia adresu IPv6?
+Przekazywanie ruchu IPv6 jest w³¹czone w interfejsie.
+Lokalny adres IPv6 ³¹cza jest automatycznie konfigurowany w interfejsie. 
+Adres IPv6 globalnego pojedynczego adresu IP jest dynamicznie konfigurowany w interfejsie.
+Wszelkie adresy IPv4 przypisane do interfejsu s¹ zastêpowane adresem IPv6.

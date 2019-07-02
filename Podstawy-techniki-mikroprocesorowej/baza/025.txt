@@ -1,0 +1,6 @@
+X0110
+Jakie identyfikatory mog¹ wyst¹piæ na magistrali CAN?
+8 bitowe
+11 bitowe
+29 bitowe
+32 bitowe

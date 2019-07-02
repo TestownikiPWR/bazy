@@ -1,0 +1,6 @@
+X1000
+Algorytm piekarni jest rozwi¹zaniem:
+problemu sekcji krytycznej
+uk³adu producent-konsument
+problemu czytelników i pisarzy
+problemu posilaj¹cych siê filozofów

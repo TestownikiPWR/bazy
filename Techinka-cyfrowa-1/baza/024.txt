@@ -1,0 +1,6 @@
+X0101
+[img]024.png[/img]
+aktywne stanem niskim
+aktywne sygna³em wysokim
+wejœciem asynchronicznym
+wejœciem synchronicznym

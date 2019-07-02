@@ -1,0 +1,4 @@
+X11
+ Które rezonatory nadaj¹ siê do taktowania ³¹cza CAN?
+Okr¹g³e. Supported Baud-rates:125 kbps/250 kbps/500 kbps (Standard for most automotive applications)/1000 kbps (1 mbps)
+Dok³adnie takie wartoœci mo¿emy uzyskaæ tylko przy okr¹g³ych kwarcach, vide tabelka.

@@ -1,0 +1,7 @@
+X1100
+28. Cechy sygna³u z dwuwartoœciowym kluczowaniem fazy BPSK
+musi byæ odbierana koherentnie
+zachowuje ci¹g³oœæ fazy na styku segmentów
+nie musi byæ odbierana koherentnie
+nie zachowuje ci¹g³oœci fazy na styku segmentów
+

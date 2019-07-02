@@ -1,0 +1,6 @@
+X0001
+Schottky w 1918 roku przewidzia³ szumy fluktuacyjne pr¹dów:
+w przewodnikach
+w opornikach
+w z³¹czu metal – pó³przewodnik – metal
+w diodzie pró¿niowej

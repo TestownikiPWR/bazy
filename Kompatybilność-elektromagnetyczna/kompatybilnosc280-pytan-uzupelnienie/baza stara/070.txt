@@ -1,0 +1,6 @@
+X0111
+Zaleca siê wykonywanie pomiarów pól zak³ócaj¹cych w odleg³oœciach:
+1m
+3m
+10m
+30m

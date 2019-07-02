@@ -1,0 +1,8 @@
+X010000
+Ile hostów mo¿na adresowaæ w sieci z mask¹ 255.255.255.248? 
+2 
+6 
+8 
+14 
+16 
+254 

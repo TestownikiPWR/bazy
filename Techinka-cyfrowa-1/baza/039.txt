@@ -1,0 +1,6 @@
+X0110
+[img]039.png[/img]
+f(x1,x2,x3)=TT(1,4,5,6)
+[img]039b.png[/img]
+f(x1,x2,x3)=TT(0,2,3,7)
+[img]039d.png[/img]

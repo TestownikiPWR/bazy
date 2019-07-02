@@ -1,0 +1,7 @@
+X00010
+Ile bitów trzeba by by³o po¿yczyæ, gdyby administrator sieci otrzyma³ schemat adresowania IP 172.16.0.0/16 i nie potrzebowa³ wiêcej ni¿ 16 podsieci z tak¹ sam¹ liczb¹ hostów?
+10
+12
+2
+4 
+8

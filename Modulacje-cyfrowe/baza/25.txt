@@ -1,0 +1,5 @@
+X111
+25. Jakie cechy ró¿ni¹ dwa sygna³y zmodulowane tym samym ci¹giem mod. Jeden QPSK a drugi OQPSK
+czêstotliwoœæ zmiany fazy zmodulowanego sygna³u
+maksymalna wartoœæ skoku fazy na styku segmentu
+szybkoœæ symbolowa transmisji

@@ -1,0 +1,6 @@
+X1000
+Jak du¿e oczka mo¿e mieæ siatka, która jest jako ziemia odniesienia na poligonie:
+mniejsza od 1/10 d³ugoœci fali przy mierzonej najwiêkszej czêstotliwoœci
+wiêksza od 1/10 d³ugoœci fali przy mierzonej najwiêkszej czêstotliwoœci
+nie mo¿e byæ siatka
+mniejsza od 1/20 d³ugoœci fali przy mierzonej najwiêkszej czêstotliwoœci

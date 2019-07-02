@@ -1,0 +1,6 @@
+X1000
+W sieci szkolnej uczniowie surfuj¹ po Internecie, przeszukuj¹ bazê danych biblioteki i uczestnicz¹ w konferencji audio ze swoj¹ siostrzan¹ szko³¹ w Japonii. Jeœli ruch sieciowy ma priorytet przy QoS, w jaki sposób ruch zostanie sklasyfikowany od najwy¿szego priorytetu do najni¿szego priorytetu?
+konferencja audio, baza danych, HTTP 
+baza danych, HTTP, konferencja audio
+konferencja audio, HTTP, baza danych
+baza danych, konferencja audio, HTTP

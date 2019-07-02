@@ -1,0 +1,6 @@
+X1000
+66. Wybór metody pomiaru czêstotliwoœci zale¿y od
+a) czêstotliwoœci badanego sygna³u
+b) czêstotliwoœci mierzonej i czêstotliwoœci granicznej miernika
+c) zakresu czêstoœciomierza
+d) wartoœci miêdzy szczytowej badanego sygna³u

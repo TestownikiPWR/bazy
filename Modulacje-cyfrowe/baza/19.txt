@@ -1,0 +1,5 @@
+X100
+19. Jak mo¿na porównaæ miêdzy sob¹ modulacje BPSK i 2-ASK pod wzglêdem energetycznym?
+EœrBPSK=Eœr2-ASK
+EœrBPSK>Eœr2-ASK
+EœrBPSK<Eœr2-ASK

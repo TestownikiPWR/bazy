@@ -1,0 +1,6 @@
+X0100
+Który protokó³ jest podobny pod wieloma wzglêdami do HTTP?
+ H.323
+ SIP 
+ T.120
+ H.245

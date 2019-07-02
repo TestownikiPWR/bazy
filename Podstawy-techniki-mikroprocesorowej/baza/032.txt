@@ -1,0 +1,5 @@
+X100
+Ilu bitowe s¹ procesory Cortex
+32-bitowe
+16-bitowe
+8-bitowe

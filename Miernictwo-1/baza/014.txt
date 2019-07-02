@@ -1,0 +1,6 @@
+X0001
+14. Ostatecznym wynikiem pomiaru jest:
+a) Liczba odczytana z miernika
+b) B³¹d pomiaru
+c) Wartoœæ prawdziwa mierzonej wartoœci
+d) Przedzia³ zawieraj¹cy wartoœæ prawdziwa

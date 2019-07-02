@@ -1,0 +1,5 @@
+X010
+Wielowarstwowe perceptrony:
+nie mają żadnej warstwy ukrytej
+mają co najmniej jedną warstwę ukrytą
+mają co najmniej kilka warstw ukrytych

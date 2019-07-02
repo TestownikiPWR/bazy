@@ -1,0 +1,5 @@
+X010
+Minimalizacjê b³êdu kwantowania mo¿na zapewniæ poprzez odpowiedni dobór poziomów kawntowania (granic przedzia³ów) oraz wartoœci reprezentuj¹cych dany przedzia³. Dzieje siê tak:
+czasami
+zawsze
+nigdy

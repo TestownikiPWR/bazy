@@ -1,0 +1,6 @@
+X0010
+Od czego zale¿y max czêstotliwoœæ na polgionie pomiarowym:
+Od gruboœæi ziemi odniesienia.
+Od wiglotnosæi powietrza.
+Od wielkoœci oczek siatki na ziemi odniesienia.
+Od u¿ytych p³yt ferrytowych.

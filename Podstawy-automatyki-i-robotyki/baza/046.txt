@@ -1,0 +1,6 @@
+﻿X0001
+Odpowiedź skokowa stabilnego systemu liniowego:
+maleje do zera
+zawsze rośnie lecz nie szybciej niż wykładniczo
+nie wiadomo zależy to od warunku początkowego
+ustala się na stałej wartości

@@ -1,0 +1,6 @@
+X0110
+W ukladzie BiCMOS:
+Stopien wyjsciowy jest wykonany w technologii CMOS
+Stopien wyjsciowy jest wykonany w technologii TTL
+Stopien wejsciowy jest wykonany w technologii CMOS
+Stopien wejsciowy jest wykonany w technologii TTL

@@ -1,0 +1,6 @@
+X0010
+24. Amplituda uk³adu drgañ w³asnych z t³umieniem maleje w funkcji czasu:
+ Liniowo
+ Proporcjonalnie do kwadratu czasu
+ Wyk³adniczo
+ Logarytmicznie

@@ -1,0 +1,10 @@
+X11110000
+Przyporz¹dkuj natê¿enia (pasmo 900Mhz) do krajów:
+Szwajcaria - 0,07W/m2,
+Polska - 0,1 W/m2,
+USA - 6W/m2,
+Anglia - 33W m2 ,
+Szwajcaria - 1W m/2,
+Polska - 0.07W/m2,
+USA - 4W/m2,
+Anglia - 0,1W/m2

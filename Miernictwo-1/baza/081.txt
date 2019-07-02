@@ -1,0 +1,6 @@
+X1000
+81. W omomierzach duzych rezystancji stosuje sie:
+a) rezystancje wzorcowa i zródlo napiecia stalego
+b) rezystancje wzorcowa i zródlo pradu stalego
+c) zródlo pradu stalego i strukture woltomierza
+d) zródlo napiecia stalego i strukture amperomierza

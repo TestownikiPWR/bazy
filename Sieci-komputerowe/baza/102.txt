@@ -1,0 +1,6 @@
+X0010
+W sieci korzystaj¹cej z IPv4, jaki przedrostek najlepiej pasowa³by do podsieci zawieraj¹cej 100 hostów?
+/ 23
+/ 24
+/ 25 
+/ 26

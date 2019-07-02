@@ -1,0 +1,6 @@
+X0010
+W standardzie MPEG-2:
+stosowana modulacja  AM
+stosowana modulacja  FM
+stosowana modulacja QPSK
+stosowana modulacja  QAM

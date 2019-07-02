@@ -1,0 +1,6 @@
+X0010
+[img]009.jpg[/img]
+AND
+NAND
+OR
+NOR

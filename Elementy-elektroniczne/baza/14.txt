@@ -1,0 +1,6 @@
+X1000
+Triodowy tyrystor blokuj¹cy wstecznie oznaczamy skrótem: 
+a) SCR 
+b) RCT 
+c) LTT 
+d) GTO 

@@ -1,0 +1,6 @@
+X1000
+Sektoryzacja komórki stosowana jest w celu
+ zwiêkszenia pojemnoœci komórki i sieci
+ zmniejszenia pojemnoœci komórki i sieci
+ zmniejszenia pojemnoœæ komórki i zwiêkszenia pojemnoœci sieci
+ zwiêkszenia pojemnoœci komórki i zmniejszenia pojemnoœci sieci  

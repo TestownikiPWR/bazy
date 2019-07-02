@@ -1,0 +1,6 @@
+X0100
+Jednostk¹ masy akustycznej jest:
+kg
+kg/m^2
+kg/m^4
+Rejl

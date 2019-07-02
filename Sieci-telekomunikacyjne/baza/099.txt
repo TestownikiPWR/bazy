@@ -1,0 +1,6 @@
+X0010
+Grupa IETF SIMPLE pracuje na d wprowadzaniem rozszerzenia do protoko³u:
+ TCP
+ UDP
+ SIP 
+ TELNET

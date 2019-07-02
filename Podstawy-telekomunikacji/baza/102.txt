@@ -1,0 +1,6 @@
+X0010
+Transmisja cyfrowa zajmuje 200kHz pasmo (szerokoœæ g³ównego listka funkcji Sa), dla impulsów o szerokoœci [µs]:
+10
+2pi
+100
+1

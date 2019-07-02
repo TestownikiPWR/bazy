@@ -1,0 +1,6 @@
+X1000
+Co oznacza 802.3 ?
+IEEE LAN ETHERNET, dostêp CSMA/CD
+Tylko IEEE LAN ETHERNET,
+Tylko dostêp CSMA/CD
+Ultra DMA

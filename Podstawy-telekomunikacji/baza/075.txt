@@ -1,0 +1,6 @@
+X1000
+Dla kwantowania nierównomiernego z krzyw¹ kompresji typu A, w modulacji PCM:
+A = 87,6 
+A = 67,6
+A = 32,4
+A = 97,6

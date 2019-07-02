@@ -1,0 +1,6 @@
+X0001
+Z ilu pozycji sk³ada sie syndrom dla kodu (n,n-1)
+2
+0
+ma inna wartosc
+1

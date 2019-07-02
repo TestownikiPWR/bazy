@@ -1,0 +1,6 @@
+X0001
+Co jest kluczow¹ cech¹ modelu sieci peer-to-peer? 
+sieæ bezprzewodowa 
+serwisy spo³ecznoœciowe bez Internetu 
+drukowanie w sieci przy u¿yciu serwera druku 
+udostêpnianie zasobów bez dedykowanego serwera 

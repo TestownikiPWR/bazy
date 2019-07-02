@@ -1,0 +1,6 @@
+X0110
+Integraln¹ czêœci¹ urz¹dzenia sprzêgaj¹co -separuj¹cego jest:
+przewód testowy
+kondensator
+filtr wsteczny
+generator impulsów testuj¹cych 

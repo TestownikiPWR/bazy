@@ -1,0 +1,6 @@
+X0001
+34. W³aœciwoœci elektrycznej cewki rzeczywistej opisane s¹ przez:
+a) Rezystancjê i wspó³czynnik strat
+b) Rezystancjê i dobroæ
+c) Indukcyjnoœæ i wspó³czynnik strat
+d) Indukcyjnoœæ i dobroæ

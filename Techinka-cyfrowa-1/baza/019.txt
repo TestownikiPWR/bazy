@@ -1,0 +1,6 @@
+X0100
+W automacie Mealy’ego stan wyjœæ jest funkcj¹
+stanu wejœæ
+stanu wejœæ i stanu wewnêtrznego
+stanu wewnêtrznego
+stanu wyjœæ

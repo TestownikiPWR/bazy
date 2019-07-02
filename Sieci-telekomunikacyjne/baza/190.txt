@@ -1,0 +1,6 @@
+X1000
+Koncepcja sieci NGN zak³ada
+realizacjê us³ug w oparciu o komunikacje pakietów
+wprowadzenie trybu komutacji komórek
+utworzenie jednej klasy us³ug dla transmisji g³osu oraz danych
+po³¹czenie ró¿nych sieci we wspóln¹ sieæ komutacji kana³ów

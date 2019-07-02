@@ -1,0 +1,6 @@
+X1000
+W systemie priorytetów w dostêpie do kana³u D istotna jest
+kolejnoœæ zg³oszeñ terminali i prorytet
+liczba bitów które chce nadac terminal
+odlegoœæ terminala TE1 od Terminala NT
+klasa i poziom priorytetu terminala

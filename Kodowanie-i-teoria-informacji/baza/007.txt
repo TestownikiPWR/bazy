@@ -1,0 +1,6 @@
+X0010
+Do dekodowania kodów splotowych stosujemy:
+macierz kontroln¹ H
+metodê polowania na b³êdy?
+algorytm Viterbiego
+tablicê dekoduj¹c¹

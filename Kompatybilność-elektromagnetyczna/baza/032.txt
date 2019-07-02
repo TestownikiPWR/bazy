@@ -1,0 +1,6 @@
+X1100
+Niewiele Ÿróde³ zak³óceñ promieniowanych mo¿na zaobserwowaæ na czêstotliwoœciach:
+< 10kHz
+10kHz - 30MHz
+30 - 300MHz
+300 - 1000MHz

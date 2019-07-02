@@ -1,0 +1,6 @@
+X1000
+44. Sygna³y okresowe opisane s¹ wzorem:
+a) x(t)=x(t+kT)
+b) x=max(x(t))
+c) x(t)=Xsin(?t+?)
+d) X=min(x(t))

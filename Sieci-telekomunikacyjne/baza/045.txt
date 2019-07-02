@@ -1,0 +1,6 @@
+X0001
+W wyniku specjalnego doboru czêstotliwoœci podnoœnej chrominancji w standardzie PAL:
+pr¹¿ki sygna³u luminancji pokrywaj¹ siê z pr¹¿kami sygna³u ró¿nicowego Uv
+pr¹¿ki sygna³u luminancji pokrywaj¹ siê z pr¹¿kami sygna³u ró¿nicowego Uu
+pr¹¿ki obu sygna³ów ró¿nicowych pokrywaj¹ siê ale nie pokrywaj¹ siê z pr¹¿kami sygna³u luminancji
+pr¹¿ki ¿adnego z sygna³ów ró¿nicowych ani sygna³u luminancji nie pokrywaj¹ siê

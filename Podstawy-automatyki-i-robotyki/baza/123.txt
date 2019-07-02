@@ -1,0 +1,5 @@
+﻿X010
+Przy skokowej zmianie wartości zadanej, uchyb regulacji zostanie sprowadzony do zera w układzie regulacji z regulatorem:
+proporcjonalnym (czyli typu P)
+proporcjonalno-całkującym (typu PI)
+dwustawnym

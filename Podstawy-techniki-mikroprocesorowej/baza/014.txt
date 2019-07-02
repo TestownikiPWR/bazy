@@ -1,0 +1,6 @@
+X0001
+ Znacznik Z jest wyzerowany (Z=0). Oznacza to, ¿e ostatnia operacja da³a wynik…
+ dodatni
+ ujemny
+ zerowy
+ niezerowy

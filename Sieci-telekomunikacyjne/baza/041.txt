@@ -1,0 +1,6 @@
+X0001
+W standardzie PAL stosuje siê:
+modulacjê czêstotliwoœci dwóch niezale¿nych podnoœnych chrominancji
+modulacjê czêstotliwoœci ze zmian¹ co liniê moduluj¹cego sygna³u ró¿nicowego
+kwadraturow¹ modulacjê amplitudy podnoœnej ze sta³¹ w ka¿dej linii faz¹ sk³adowej ortogonalnej
+kwadraturow¹ modulacjê amplitudy podnoœnej ze zmian¹ co liniê fazy sk³adowej ortogonalnej

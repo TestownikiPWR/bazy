@@ -1,0 +1,6 @@
+X0010
+Pracê tranzystora jako wzmacniacza zapewnia polaryzacja z³¹cz: 
+a) emiterowego w kierunku przewodzenia i kolektorowego w kierunku przewodzenia 
+b) emiterowego w kierunku zaporowym i kolektorowego w kierunku przewodzenia 
+c) emiterowego w kierunku przewodzenia i kolektorowego w kierunku zaporowym 
+d) emiterowego w kierunku zaporowym i kolektorowego w kierunku zaporowym 

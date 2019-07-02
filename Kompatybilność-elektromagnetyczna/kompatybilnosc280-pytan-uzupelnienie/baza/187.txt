@@ -1,0 +1,8 @@
+X100101
+O CE czy (wybierz trzy): 
+w unii wymagane jest to oznaczenie na urz¹dzeniach, 
+w unii nie jest wymagane to oznaczenie na urz¹dzeniach, 
+nanosi siê je po wprowadzeniu do sprzeda¿y urz¹dzenia, 
+nanosi siê je przed wprowadzeniem do sprzeda¿y urz¹dzenia, 
+jest nanoszone przez dystrybutora lub kogoœ tam, 
+jest nanoszone przez producenta lub jego przedstawiciela lub importera

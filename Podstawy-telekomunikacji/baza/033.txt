@@ -1,0 +1,6 @@
+X0001
+Szumy fluktuacyjne to:
+szum 1/f, szum impulsowy, cieplny, procesy przejœciowe przy komutacji
+szum cieplny, szum œrutowy, szum atmosferyczny, zak³ócenia kosmiczne
+szumy przemys³owe, szumy kosmiczne, szum cieplny, szum œrutowy
+szum cieplny, szum œrutowy, szum 1/f, szum impulsowy

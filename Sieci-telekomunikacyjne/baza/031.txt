@@ -1,0 +1,6 @@
+X0001
+Sygna³y ró¿nicowe w standardzie MPEG-2 s¹ nadawane:
+zawsze z tak¹ sam¹ rozdzielczoœci¹ jak sygna³ luminancji
+zawsze z rozdzielczoœci¹ o po³owê mniejsz¹ ni¿ sygna³ luminancji
+zawsze z rozdzielczoœci¹ czterokrotnie mniejsz¹ ni¿ sygna³ luminancji
+z rozdzielczoœci¹ tak¹ sam¹ jak sygna³ luminancji lub zmniejszon¹ (dwu lib czterokrotnie)

@@ -1,0 +1,6 @@
+X0100
+Klamra pojemnoœciowa s³u¿y do sprzêgniêcia udaru testowego z:
+torami œwiat³owodowymi
+z przewodem zasilaj¹cym badanego urz¹dzenia
+przewodem interfejsowym badanego urz¹dzenia
+przewodem antenowym badanego urz¹dzenia

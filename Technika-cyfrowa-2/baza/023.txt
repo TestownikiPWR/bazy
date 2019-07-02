@@ -1,0 +1,6 @@
+X1010
+Bramka Schmitta:
+Ma 2 rózne progi przelaczania
+To zawsze bramka NAND
+Sluzy do poprawy sygnalów cyfrowych
+To zawsze bramka NOR

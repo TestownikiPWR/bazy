@@ -1,0 +1,7 @@
+X1000
+Klient ustanawia sesjê TCP z serwerem. W jaki sposób okreœla siê numer potwierdzenia w segmencie odpowiedzi dla klienta?
+Pole liczby potwierdzeñ jest modyfikowane przez dodanie 1 do losowo wybranego pocz¹tkowego numeru sekwencji w odpowiedzi na klienta. 
+Numer potwierdzenia jest ustawiony na 11, aby wskazaæ pakiet potwierdzenia i pakiet synchronizacji z powrotem do klienta.
+
+Pole numeru potwierdzenia wykorzystuje losowy numer portu Ÿród³owego w odpowiedzi na klienta.
+Numer potwierdzenia jest ustawiony na 1, aby oznaczaæ pakiet potwierdzenia z powrotem do klienta.

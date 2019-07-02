@@ -1,0 +1,5 @@
+X100
+Wielowarstwowe perceptrony:
+są sieciami jednokierunkowymi
+nie mogą być użyte do klasyfikacji
+nie mogą mieć kilku wejść

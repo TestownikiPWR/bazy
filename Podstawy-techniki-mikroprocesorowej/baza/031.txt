@@ -1,0 +1,5 @@
+X100
+31. Ilu bitowe s¹ procesory AVR
+8-bitowe
+32-bitowe
+16-bitowe

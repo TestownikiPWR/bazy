@@ -1,0 +1,6 @@
+X1000
+Impuls pr¹du powstaj¹cy podczas wy³adowania elektrostatycznego charakteryzuje siê czasem narastania:
+Rzêdu nanosekund
+Powy¿ej nanosekund
+Rzêdu mikrosekund
+Poni¿ej mikrosekund

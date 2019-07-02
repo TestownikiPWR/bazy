@@ -1,0 +1,6 @@
+X1110
+31. Zaznaczyæ prawdziwe stwierdzenia wskazuj¹ce zalety modulacji jednowstêgowej SSB-SC w porównaniu z modulacja AZM z pe³nym widmem
+oszczêdnoœæ wykorzystania pasma transmisji
+efektywniejsze wykorzystanie mocy nadajnika
+wiêkszy zysk odniesiony mod. Jednowstêgowe
+mniejszy zysk odniesiony mod. Jednowstêgowe

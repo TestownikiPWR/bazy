@@ -1,0 +1,6 @@
+X0010
+Technik sieci bada po³¹czenie sieciowe z komputera do zdalnego hosta pod adresem 10.1.1.5. Które polecenie wydane na komputerze zwróci technikowi pe³n¹ œcie¿kê do zdalnego hosta?
+trace 10.1.1.5
+traceroute 10.1.1.5
+tracert 10.1.1.5 
+ping 10.1.1.5

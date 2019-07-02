@@ -1,0 +1,6 @@
+X0010
+Klamra pojemnoœciowa s³u¿y do sprzêgniêcia udaru testowego z:
+nie jest wykorzystywana w badaniach wra¿liwoœci urz¹dzeñ
+z przewodem zasilaj¹cym BU
+przewodem interfejsowym BU
+przewodem antenowym BU

@@ -1,0 +1,6 @@
+X0010
+Ile bitów stanowi pojedynczy szeœciok¹t IPv6: 10CD :?
+4
+8
+16 
+32

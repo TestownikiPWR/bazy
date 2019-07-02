@@ -1,0 +1,6 @@
+X1000
+9. Koherentny demodulator korelacyjny M-wartoœciowej modulacji ASK zawiera co najmniej:
+jeden kana³ z uk³adem korelatorów
+dwa kana³y z uk³adem korelatorów
+trzy kana³y z uk³adem korelatorów
+cztery kana³ z uk³adem korelatorów

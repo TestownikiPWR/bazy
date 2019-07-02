@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie dotyczy maskowania podsieci o zmiennej d³ugoœci? 
+Ka¿da podsieæ ma ten sam rozmiar. 
+Rozmiar ka¿dej podsieci mo¿e byæ ró¿ny, w zale¿noœci od wymagañ. 
+Podsieci mog¹ byæ podsieci tylko jeden dodatkowy czas. 
+Bity s¹ zwracane, a nie po¿yczane, w celu utworzenia dodatkowych podsieci. 

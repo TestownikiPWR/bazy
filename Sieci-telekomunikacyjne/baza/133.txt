@@ -1,0 +1,6 @@
+X1000
+Wiolacja - za³amanie kodu na styku S
+zamiana kolejnych bitów w s³owie kodowym
+wygaszenie sumy binarnej ramki
+przesuniêcie bitów miêdzy ramkami
+kodowanie dwóch kolejnych zer symbolami o tej samej polaryzacji

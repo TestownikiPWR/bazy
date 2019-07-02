@@ -1,0 +1,6 @@
+X0010
+Proces stochastyczny opisywany przez H(w,t) przy ustalonym t jest (gdzie w to omega)
+przedzia³em ufnoœci
+dystrybuant¹ zmiennej losowej
+zmienn¹ losow¹ 
+liczb¹

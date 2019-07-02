@@ -1,0 +1,6 @@
+X0100
+67. Impedancja wejsciowa woltomierza napiec zmiennych maleje z czestotliwoscia gdyz
+a) maleje reaktancja wejsciowa woltomierza
+b) maleje rezystancja wejsciowa woltomierza
+c) maleje impedancja doprowadzen napiecia
+d) maleje impedancja wyjsciowa przetwornika napiecia

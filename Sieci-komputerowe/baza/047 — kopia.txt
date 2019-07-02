@@ -1,0 +1,6 @@
+X0010
+Czym charakteryzuje siê podwarstwa LLC? 
+Zapewnia wymagane logiczne adresowanie, które identyfikuje urz¹dzenie. 
+Zapewnia rozgraniczenie danych zgodnie z fizycznymi wymaganiami sygnalizacyjnymi medium. 
+Umieszcza informacje w ramce, umo¿liwiaj¹c wielu protoko³om warstwy 3 korzystanie z tego samego interfejsu sieciowego i mediów. 
+Definiuje procesy oprogramowania, które zapewniaj¹ us³ugi dla warstwy fizycznej. 

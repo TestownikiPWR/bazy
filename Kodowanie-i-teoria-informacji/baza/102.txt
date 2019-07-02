@@ -1,0 +1,6 @@
+X0111
+Wska¿, które stwierdzenia dotycz¹ce wierszy macierzy generuj¹cej G kodu cyklicznego s¹ prawdziwe: 
+sumuj¹ siê do wektora zerowego 
+s¹ liniowo niezale¿ne 
+s¹ to wektory bazowe 
+s¹ to s³owa kodowe.

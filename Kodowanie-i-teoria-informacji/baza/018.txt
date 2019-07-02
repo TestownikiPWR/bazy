@@ -1,0 +1,6 @@
+X0001
+Ile wynosi waga Hamminga ci¹gu: 4310012, którego elementy pochodz¹ z cia³a CG(5)?
+2
+3
+4
+5

@@ -1,0 +1,6 @@
+X1000
+Liczba bitów s³owa kodowego w systemie PCM-30 wynosi:
+8
+6
+7
+10

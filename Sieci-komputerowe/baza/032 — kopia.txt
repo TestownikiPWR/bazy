@@ -1,0 +1,7 @@
+X00010
+46. Ile poprawnych adresów hosta jest dostêpnych w podsieci IPv4 skonfigurowanej z mask¹ / 26? 
+254 
+190 
+192 
+62 
+64 

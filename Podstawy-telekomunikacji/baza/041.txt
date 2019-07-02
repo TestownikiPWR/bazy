@@ -1,0 +1,6 @@
+X0011
+Wspó³czynnik F szumów czwórnika okreœla iloraz stosunku: (Wybierz co najmniej jedn¹ odpowiedŸ)
+równowa¿nych SEM szumów na wejœciu i wyjœciu
+sygna³ / szum na wyjœciu i wejœciu
+ca³kowitej mocy szumów na dopasowanym obci¹¿eniu do mocy szumów na wyjœciu wzmacniacza idealnego
+sygna³ / szum na wejœciu i wyjœciu

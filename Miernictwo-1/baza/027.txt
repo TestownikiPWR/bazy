@@ -1,0 +1,6 @@
+X0010
+27. W transmisji asynchronicznej:
+a) nadajnik i odbiornik informowane s¹ o momencie przesy³ania danych
+b) nadajnik i odbiornik informuj¹ o momencie przes³ania danych
+c) nadajnik informuje odbiornik o momencie nadania danych
+d) nadajnik informuje odbiornik o momencie odbioru danych

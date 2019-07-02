@@ -1,0 +1,6 @@
+X1000
+W cyfrowych systemach telefonicznych z komutacj¹ kana³ów standardowo wykorzystuje siê kana³ o przeupustowoœci:
+64 KB/s
+8 Kb/s
+16 kB/s
+64 kb/s

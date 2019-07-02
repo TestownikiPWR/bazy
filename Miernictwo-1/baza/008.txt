@@ -1,0 +1,8 @@
+X001000
+8. W bezpoœrednich metodach pomiarowych:
+a) Wynik pomiaru podawany jest bezpoœrednio
+b) Wynik pomiaru zale¿y bezpoœrednio od wartosci wzorca
+c) Wielkoœæ porównywana i wzorcowa s¹ tego samego rodzaju
+d) Wielkoœæ porównywana i mierzona s¹ tego samego rodzaju
+e) Wynik pomiaru zale¿y bezpoœrednio od wychylenia przyrzadu
+f) Wielkoœæ porównywana i mierzona s¹ tego samego typu

@@ -1,0 +1,6 @@
+X0100
+RPC umo¿liwia:
+zdalna pracê na odleg³ym komputerze
+zdalne wywo³anie procedury
+pobranie programu z odleg³ego serwera
+wspó³dzielenie plików 

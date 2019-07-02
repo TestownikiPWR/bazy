@@ -1,0 +1,6 @@
+X0001
+65. Wspó³czynnik zawartoœci harmonicznej okreœla
+a) h-t¹ czêstotliwoœæ sygna³u
+b) okresowoœæ sygna³u harmonicznego
+c) harmonicznoœæ sygna³u okresowego
+d) zniekszta³cenie sygna³u harmonicznego

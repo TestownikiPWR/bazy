@@ -1,0 +1,4 @@
+X11
+najpopularniejsze od wielu lat mikrokontrolery nale¿¹ do architektury: 
+ARM
+CORTEX

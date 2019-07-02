@@ -1,0 +1,6 @@
+X0010
+Co siê dzieje, gdy prze³¹cznik otrzymuje ramkê, a obliczona wartoœæ CRC jest inna ni¿ wartoœæ w polu FCS?
+Prze³¹cznik umieszcza now¹ wartoœæ CRC w polu FCS i przesy³a ramkê dalej.
+Prze³¹cznik informuje o Ÿródle z³ej ramki.
+Prze³¹cznik opuszcza ramkê. 
+Prze³¹cznik zalewa ramkê wszystkim portom poza portem, przez który przyby³a ramka, aby powiadomiæ hosty o b³êdzie.

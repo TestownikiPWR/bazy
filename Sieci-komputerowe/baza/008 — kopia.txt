@@ -1,0 +1,6 @@
+X1000
+Które stwierdzenie dotyczy operacji DHCP?
+Gdy urz¹dzenie skonfigurowane do uruchamiania rozruchów DHCP, klient rozg³asza komunikat DHCPDISCOVER, aby zidentyfikowaæ wszystkie dostêpne serwery DHCP w sieci. 
+Klient musi czekaæ na wygaœniêcie dzier¿awy, zanim wyœle kolejn¹ wiadomoœæ DHCPREOUEST.
+Komunikat DHCPDISCOVER zawiera adres IP i podsieci masK do przypisania, adres IP serwera DNS i adres IP bramy domyœlnej.
+Jeœli klient otrzymuje kilka komunikatów DHCPOFFER z ró¿nych serwerów, wysy³a wiadomoœæ emisji pojedynczej DHCPREOUEST na serwer, z którego wybiera informacje o adresie IP.

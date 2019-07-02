@@ -1,0 +1,6 @@
+X0001
+Procedura synchronizacji ramki na styku S wykorzystuje
+sprzê¿enie zwrotne
+wiolacjê (z³amanie kodu)
+polaryzacje przewodów
+nadziewanie bitami

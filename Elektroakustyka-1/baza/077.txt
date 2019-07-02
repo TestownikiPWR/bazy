@@ -1,0 +1,6 @@
+X0010
+77. Charakterystyka kierunkowoœci t³oka w nieskoñczenie wielkiej odgrodzie jest:
+ Dookólna
+ Ósemkowa
+ Dookólna w zakresie ma³ych czêstotliwoœci i jednokierunkowa w zakresie du¿ych czêstotliwoœci
+ Jednokierunkowa w zakresie ma³ych czêstotliwoœci i dookólna w zakresie ma³ych czêstotliwoœci

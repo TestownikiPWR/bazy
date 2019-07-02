@@ -1,0 +1,6 @@
+X0010
+Technik konfiguruje router, aby umo¿liwiæ wszystkie formy dostêpu do zarz¹dzania. W ramach ka¿dego innego rodzaju dostêpu technik próbuje wpisaæ login polecenia. Który tryb konfiguracji nale¿y wprowadziæ, aby wykonaæ to zadanie?
+tryb wykonawczy u¿ytkownika
+globalny tryb konfiguracji
+dowolny tryb konfiguracji linii 
+uprzywilejowany tryb EXEC

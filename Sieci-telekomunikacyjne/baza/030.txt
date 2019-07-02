@@ -1,0 +1,6 @@
+X0001
+W standardzie MPEG-2 obrazy typu B to obrazy
+oryginalne, dla których nie stosuje siê prognozowania
+obrazy prognozowane wy³¹cznie na podstawie obrazów typu P
+obrazy prognozowane wy³¹cznie na podstawie obrazów typu I
+obrazy prognozowane na podstawie obrazów typu I i P lub P i P

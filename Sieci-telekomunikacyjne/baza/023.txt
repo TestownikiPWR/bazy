@@ -1,0 +1,6 @@
+X0001
+Impuls synchronizacji pionowej:
+wystêpuje bezpoœrednio po impulsie wygaszania pionowego
+trwa przez piêæ linii w ka¿dym pó³obrazie
+trwa przez dwadzieœcia piêæ linii w ka¿dym pó³obrazie
+jest podzielony na impulsy pó³liniowe

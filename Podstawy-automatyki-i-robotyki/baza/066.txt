@@ -1,0 +1,6 @@
+﻿X0001
+Stacjonarny system dynamiczny:
+Spełnia zasadę superpozycji
+Jest stabilny
+Posiada ujemne sprzężenie zwrotne
+Może być opisywany równaniem różniczkowym 

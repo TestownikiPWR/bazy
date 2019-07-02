@@ -1,0 +1,6 @@
+X1010
+W przypadku modelu ci¹g³ego pamiêci planista d³ugoterminowy
+ma za zadanie wyszukanie ci¹g³ego obszaru w pamiêci operacyjnej spe³niaj¹cego wymagania pamiêciowe procesu
+tworzy tzw. tablicê stron,
+stosuje np. algorytm „najlepiej pasuj¹cy obszar”
+³aduje programy do górnego obszaru pamiêci operacyjnej 

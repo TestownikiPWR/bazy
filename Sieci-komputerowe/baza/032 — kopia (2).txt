@@ -1,0 +1,6 @@
+X0001
+Jaki jest mechanizm TCP stosowany w unikaniu przeci¹¿enia? 
+trójstronny uœcisk d³oni 
+para gniazd 
+dwustronny uœcisk d³oni 
+okno przesuwne 

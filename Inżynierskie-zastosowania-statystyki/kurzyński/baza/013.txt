@@ -1,0 +1,6 @@
+ X0001
+ Przykładem naiwnego klasyfikatora bayesowskiego jest algorytm:
+ najbliższy sąsiad
+ k najbliższych sąsiadów
+ najbliższa średnia
+ najmniejszy przedział

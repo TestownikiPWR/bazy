@@ -1,0 +1,7 @@
+X00100
+Który adres IPv4 mo¿na pingowaæ, aby przetestowaæ wewnêtrzne dzia³anie TCP / IP hosta?
+0.0.0.0
+0.0.0.1
+127.0.0.1 
+192.168.1.1
+255.255.255.255

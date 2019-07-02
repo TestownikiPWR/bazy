@@ -1,0 +1,6 @@
+X1100
+Prawa grupowe do pliku
+stosowane s¹ w UNIX
+s¹ odmian¹ wykazu dostêpów
+okreœlaj¹ z jakich wêz³ów sieci dostêpna jest dana replika pliku
+udzielaj¹ uprawnieñ dla grupy u¿ytkowników na zasadzie „wszystko albo nic” 

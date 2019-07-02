@@ -1,0 +1,6 @@
+X1100
+Co oznacza „big endian”?
+decyduje o kolejnoœci bajtów w pamiêci
+bardziej znacz¹cy bajt jest pod ni¿szym adresem
+zwrot pochodzi z programu „Boso przez œwiat” 
+bardziej znacz¹cy bajt jest pod wy¿szym adresem

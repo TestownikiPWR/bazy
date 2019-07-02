@@ -1,0 +1,6 @@
+X0010
+Dopuszczalne poziomy zak³óceñ przewodzonych do œrodowiska (wg norm europejskich) okreœlane s¹ dla wartoœci:
+szczytowej
+œredniej
+quaziszczytowej
+skutecznej

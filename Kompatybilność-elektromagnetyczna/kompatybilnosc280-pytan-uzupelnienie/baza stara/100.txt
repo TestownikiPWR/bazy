@@ -1,0 +1,6 @@
+X0001
+Sonda z pojedynczo obci¹¿on¹ anten¹ ramow¹ wmontowan¹ w doln¹ p³ytê symulatora równoleg³op³ytowego umo¿liwia pomiar:
+pola elektrycznego
+pola elektrycznego i pola magnetycznego
+gêstoœci strumieni mocy
+pola magnetycznego

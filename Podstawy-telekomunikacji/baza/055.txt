@@ -1,0 +1,6 @@
+X0101
+W schemacie blokowym modulatora PCM wystêpuj¹ w kolejnoœci (FDP - filtr dolnoprzepustowy):
+Ÿród³o sygna³u – kwantyzator – koder – uk³ad próbkuj¹cy – FDP
+Ÿród³o sygna³u {–} FDP {–} kompresor – uk³ad próbkuj¹cy {–} kwantyzator – koder
+Ÿród³o sygna³u – uk³ad próbkuj¹cy {–} FDP {–} koder – kwantyzator
+Ÿród³o sygna³u {–} FDP – uk³ad próbkuj¹cy {–} kwantyzator – koder

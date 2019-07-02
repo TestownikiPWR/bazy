@@ -1,0 +1,6 @@
+X0010
+Zaburzenia przewodzone przenikaj¹ do obwodu uk³adu zakócanego wówczas gdy:
+zaburzenia nie s¹ symetryczne
+sieæ sztuczna nie jest po³¹czona p³yt¹ sztucznej ziemi
+zaburzenia s¹ symetryczne
+istenie sprzê¿enie pojemnoœciowe ze Ÿród³em zak³óceñ

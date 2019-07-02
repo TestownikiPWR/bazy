@@ -1,0 +1,6 @@
+X1000
+Czêstotliwoœæ modów drgañ rezonatora Helmholtza:
+maleje gdy roœnie d³ugoœæ szyjki i maleje pole przekroju oraz objêtoœæ komory
+roœnie gdy roœnie d³ugoœæ szyjki i maleje pole przekroju i objêtoœæ komory
+maleje gdy roœnie pole przekroju szyjki i roœnie pole przekroju i objêtoœæ komory
+roœnie gdy maleje pole przekroju szyjki i maleje pole przekroju i objêtoœæ komory

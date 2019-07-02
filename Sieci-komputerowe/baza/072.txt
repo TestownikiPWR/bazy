@@ -1,0 +1,6 @@
+X0001
+Jaki rodzaj zabezpieczeñ bezprzewodowych korzysta z dynamicznych kluczy szyfrowania za ka¿dym razem, gdy klient kojarzy siê z AP?
+EAP
+PSK
+WEP
+WPA 

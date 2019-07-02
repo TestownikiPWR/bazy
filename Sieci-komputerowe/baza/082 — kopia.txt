@@ -1,0 +1,6 @@
+X0001
+Co zawiera zwiastun ramki ³¹cza danych?
+adres logiczny
+adres fizyczny
+dane
+wykrywanie b³êdów

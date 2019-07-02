@@ -1,0 +1,6 @@
+X0001
+32. Na impedancjê wejœciowa woltomierza napiêæ przemiennych sk³ada siê:
+a) Indukcyjnoœæ i rezystancja doprowadzeñ
+b) Rezystancja i pojemnoœæ doprowadzeñ
+c) Indukcyjnoœæ i rezystancja woltomierza
+d) Rezystancja i pojemnoœæ woltomierza

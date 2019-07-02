@@ -1,0 +1,6 @@
+X0010
+Komputer uzyskuje swój adres IP z serwera DHCP. Jeœli komputer zostanie usuniêty z sieci w celu naprawy, co stanie siê z konfiguracj¹ adresu IP? 
+Konfiguracja jest trwa³a i nic siê nie zmienia. 
+Dzier¿awa adresu jest automatycznie odnawiana do momentu zwrócenia komputera. 
+Adres jest zwracany do puli w celu ponownego u¿ycia po wygaœniêciu dzier¿awy. 
+Konfiguracja jest utrzymywana przez serwer do ponownego wydania po zwróceniu komputera. 

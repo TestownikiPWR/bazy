@@ -1,0 +1,6 @@
+X0100
+Uzupe³nij zdanie. Tranzystor jednoz³¹czowy jest …………… elementem prze³¹czaj¹cym dzia³aj¹cym na zasadzie modulacji konduktywnoœci pó³przewodnika. 
+a) dwuzaciskowym bipolarnym 
+b) trójzaciskowym bipolarnym 
+c) dwuzaciskowym polowym 
+d) trójzaciskowym polowym 

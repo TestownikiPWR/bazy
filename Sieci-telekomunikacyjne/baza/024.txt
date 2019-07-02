@@ -1,0 +1,6 @@
+X0010
+Impuls synchronizacji pionowej:
+trwa przez piêæ linii w ka¿dym pó³obrazie
+trwa przez 25 linii w ka¿dym pó³obrazie
+jest poprzedzony impulsami wyrównawczymi	
+wystêpuje bezpoœrednio po impulsie wygaszania pionowego

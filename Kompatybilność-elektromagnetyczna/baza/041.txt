@@ -1,0 +1,6 @@
+X0110 
+Pomiary pola zak³óceñ wg. CISPR (Publ. 22) wykonuje siê w odleg³oœci:
+10 m - klasa A
+30 m - klasa A
+10 m - klasa B
+30 m - klasa B

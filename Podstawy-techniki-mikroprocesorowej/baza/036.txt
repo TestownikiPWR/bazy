@@ -1,0 +1,3 @@
+X1100
+Pytanie o Watchdoga 
+W du¿ym uproszczeniu - program sam co jakiœ czas resetuje wewnêtrzny timer,co oznacza, ¿e ca³y czas nasz kod siê wykonuje. Jeœli program w którymœ punkcie utknie lub za d³ugo bêdzie wykonywa³, to przepe³nienie siê timera watchdog spowoduje reset mikrokontrolera

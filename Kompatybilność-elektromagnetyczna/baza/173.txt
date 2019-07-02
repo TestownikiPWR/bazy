@@ -1,0 +1,6 @@
+X0100
+Do jakiej czêstotliwoœci dzia³aj¹ (filtruj¹) pierœcienie ferrytowe:
+500MHz  
+1500MHz (taka odpowiedŸ wynika³aby z wykresów)
+4000MHz 
+5000MHz

@@ -1,0 +1,6 @@
+X0010
+W przedzialowym estymatorze wartosci oczekiwanej wybrano poziom ufnosci \Beta = 0.95. Jakie jest prawdopodobienstwo ze przedzial ufnosci przykryje nieznana wartosc oczekiwana?
+Co najmniej 0.95
+Co najwyzej 0.05
+Co najwyzej 0.95
+Dokladnie 0.05 

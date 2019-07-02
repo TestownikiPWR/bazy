@@ -1,0 +1,7 @@
+X11000
+Które dwie us³ugi lub protoko³y wykorzystuj¹ preferowany protokó³ UDP do szybkiej transmisji i niskich kosztów? (Wybierz dwa)
+VoIP 
+DNS 
+HTTP
+FTP
+POP3

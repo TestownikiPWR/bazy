@@ -1,0 +1,6 @@
+X0001
+Czy kodowanie splotowe nazywamy kodowaniem z pamiêci¹?
+Tak, poniewa¿ koder pamiêta wysy³ane symbole.    
+Nie, bo nie ma potrzaby pamiêtaæ nadanych symboli gdy¿ i tak nie ma mo¿liwoœci ich retransmisji z powodu braku kana³u zwrotnego.    
+Nie! Koder splotowy nie ma pamiêci.    
+Tak, bo symbole kodowe na wyjœciu kodera zale¿¹ nie tylko od symboli aktualnie wchodz¹cych na koder, ale równie¿ od stanu kodera. 

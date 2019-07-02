@@ -1,0 +1,6 @@
+X0001
+Czêstotliwoœci 1 kHz odpowiada d³ugoœæ fali:
+300 m
+30 m
+3 m
+300 km

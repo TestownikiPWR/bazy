@@ -1,0 +1,6 @@
+X0100
+9. Kompensacyjna metoda pomiarowa wykorzystuje:
+a) Kompensacjê temperaturow¹ wzorca
+b) Wzorzec regulowany
+c) Kompensacjê temperaturow¹ detektora
+d) Wzorzec sta³y

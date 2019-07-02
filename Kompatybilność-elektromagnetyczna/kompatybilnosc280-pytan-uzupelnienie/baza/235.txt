@@ -1,0 +1,6 @@
+X1100
+Jakie miêdzynarodowe modele odnoœnie ESD:
+HBM (Human Body Model),
+CDM (charged device model),
+MM (machine model),
+DDTB (Digital deviation triple band) ,

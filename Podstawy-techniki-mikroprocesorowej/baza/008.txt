@@ -1,0 +1,6 @@
+X1000
+Najpopularniejsze i najtañsze mikrokontrolery nale¿¹ do architektury…
+8-bitowej
+16-bitowej
+32-bitowej
+64-bitowe

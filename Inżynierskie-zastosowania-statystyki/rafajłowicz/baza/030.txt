@@ -1,0 +1,6 @@
+X0001
+Jezeli wartosci pewnej zmiennej losowej mierzone sa w metrach, to wspolczynnik EX/sqrt(VarX) mierzony jest w:
+[img]011A.png[/img]
+[img]011B.png[/img]
+[img]011C.png[/img]
+jest liczba bezwymiarowa

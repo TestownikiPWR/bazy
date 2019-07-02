@@ -1,0 +1,6 @@
+X0010
+Pole magnetyczne Ziemi ma wartoœæ z przedzia³u
+-10 do 14 A/m
+58 do 80 A/m
+16 do 58 A/m
+6 do 16 A/m

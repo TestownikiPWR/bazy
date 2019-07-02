@@ -1,0 +1,6 @@
+X1000
+Zdolnoœæ korekcyjna kodu o parametrach (n,k) zale¿y od: 
+minimalnej odleg³oœci w zbiorze s³ów kodowych 
+d³ugoœci ci¹gów kodowych
+jest równa n-k 
+maksymalnej odleg³oœci w zbiorze s³ów kodowych

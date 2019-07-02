@@ -1,0 +1,6 @@
+X0001
+Generator udarowy 10/700 ns mo¿e byæ sprzêgany z BU poprzez:
+transformator pr¹dowy
+kondensator sprzêgaj¹cy 33 nF
+kondensator sprzêgaj¹cy 16uF
+przewód testowy

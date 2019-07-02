@@ -1,0 +1,6 @@
+X0110
+Na czas dostêpu do informacji na dysku ma wp³yw:
+rozmiar ramek w pamiêci operacyjnej
+czas transmisji
+czas przeszukania i co za tym idzie odpowiedni algorytm
+szybkoœd procesora

@@ -1,0 +1,6 @@
+X1000
+85. Mala rozdzielczosc przetwornikÛw A/C w oscyloskopach cyfrowych
+a) èjest zwiazana z duza czestotliwoscia prÛbkowania i niska rozdzielczoscia LCD
+b) jest zwiazana z malymi rozmiarami i niskim kosztem tych oscyloskopÛw
+c) èwynika z ograniczen stawianych przez mikroprocesor sterujacy oscyloskopem
+d) ènie ma zanczenia, gdyz jest kompensowana przez dodatkowy przetwornik C/A

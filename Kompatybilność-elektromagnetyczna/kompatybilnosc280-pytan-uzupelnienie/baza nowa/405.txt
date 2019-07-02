@@ -1,0 +1,6 @@
+X0001
+Maksymalna wysokoœæ zawieszenia anteny pomiarowej podczas pomiaru zaburzeñ promieniowanych
+wynosi 4m
+zmienia siê od 1m do 4m
+zmienia siê od 2m do 6m
+wynosi 6m

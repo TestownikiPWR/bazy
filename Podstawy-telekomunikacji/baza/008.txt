@@ -1,0 +1,6 @@
+X0100
+Pasmo zajmowane przez sygna³y zmodulowane PCM jest szersze od pasma systemów analogowych:
+(9-10) razy
+(7-8) razy
+(2-4) razy
+(16-18) razy

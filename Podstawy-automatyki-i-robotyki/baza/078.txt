@@ -1,0 +1,6 @@
+﻿X0100
+Pomiar temperatury czujnikiem Pt100 w zakresie (0-400)°C wykorzystano przetwornik pomiarowy w standardzie (4-20)mA. Wykonano pomiar tego prądu i uzyskano wynik 12.00 mA stąd wynika, że:
+100 °C
+200 °C
+300 °C
+400 °C

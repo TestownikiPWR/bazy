@@ -1,0 +1,6 @@
+X1001
+Domena ochrony to:
+zbiór par <nazwa_obiektu, zbiór_praw>
+zbiór trójek <nazwa_obiektu, zbiór_praw, priorytet>
+zbiór informacji o w³aœcicielach obiektów
+to np. tryb monitora i u¿ytkownika 

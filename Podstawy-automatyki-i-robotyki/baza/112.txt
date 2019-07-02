@@ -1,0 +1,5 @@
+﻿X001
+Jeśli wszystkie nastawy regulatora o transmitancji G(s)=(Kp+Ki/Ts+KdTs) są różne od zera i ograniczone to realizuje on algorytm:
+P
+PI
+PID

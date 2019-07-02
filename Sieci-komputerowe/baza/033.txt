@@ -1,0 +1,7 @@
+X01001
+Administrator sieci w³¹cza us³ugi na nowo zainstalowanym serwerze. Które z dwóch stwierdzeñ opisuj¹, w jaki sposób us³ugi s¹ u¿ywane na serwerze? (Wybierz dwa.)
+Dane wysy³ane z us³ug¹ korzystaj¹c¹ z protoko³u TCP s¹ odbierane w kolejnoœci wys³ania danych.
+Port jest uwa¿any za otwarty, jeœli ma przypisan¹ do niego aktywn¹ aplikacjê serwera. 
+Pojedynczy serwer mo¿e mieæ dwie us³ugi przypisane do tego samego numeru portu.
+Pojedynczy serwer nie mo¿e mieæ wielu us³ug uruchomionych w tym samym czasie.
+Zabezpieczenia serwera mo¿na poprawiæ, zamykaj¹c porty powi¹zane z nieu¿ywanymi us³ugami. 

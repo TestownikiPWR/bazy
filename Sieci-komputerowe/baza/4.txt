@@ -1,0 +1,6 @@
+X0010
+Który adres na komputerze nie ulega zmianie, nawet jeœli komputer zostanie przeniesiony do innej sieci?
+adres IP
+domyœlny adres bramy
+Adres MAC 
+adres logiczny

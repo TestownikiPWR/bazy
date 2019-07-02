@@ -1,0 +1,6 @@
+X1000
+Amplitudy impulsów pola magnetycznego powstaj¹ce podczas wybuchu j¹drowego na wysokoœci 100km siêgaj¹:
+100/377kA/m,
+500/377kA/m,
+50/377kA/m,
+25/377kA/m,

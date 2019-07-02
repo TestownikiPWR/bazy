@@ -1,0 +1,6 @@
+X1000
+Co to jet SWI?
+Software Interupt - programowe wywolanie obslugi przerwan
+Software In - programowe wywolanie obslugi przerwan
+Soft In - - programowe wywolanie obslugi przerwan
+Soft Interupt - programowe wywolanie obslugi przerwan

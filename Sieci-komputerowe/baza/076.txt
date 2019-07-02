@@ -1,0 +1,7 @@
+X01001
+Które dwa komponenty s¹ konfigurowane za pomoc¹ oprogramowania, aby komputer móg³ uczestniczyæ w œrodowisku sieciowym? (Wybierz dwa.)
+Adres MAC
+Adres IP
+j¹dro
+muszla
+maska podsieci

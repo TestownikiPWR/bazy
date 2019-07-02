@@ -1,0 +1,5 @@
+X010
+Jakiej minimalnej liczby przekaźników elektromagnetycznych musimy użyć, zrealizować iloczyn logiczny dwóch zmiennych:
+1
+2
+4

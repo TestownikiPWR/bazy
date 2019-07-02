@@ -1,0 +1,7 @@
+X01010
+Firma ma adres sieciowy 192.168.1.64 z mask¹ podsieci 255.255.255.192. Firma chce utworzyæ dwie podsieci,które bêd¹ zawieraæ odpowiednio 10 hostów i 18 hostów. Które dwie sieci to osi¹gn¹? (Wybierz dwa.)
+192.168.1.16/28
+192.168.1.64/27
+192.168.1.128/27
+192.168.1.96/28
+192.168.1.192/28

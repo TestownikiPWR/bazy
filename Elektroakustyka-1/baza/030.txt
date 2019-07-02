@@ -1,0 +1,6 @@
+X0100
+30. Szum ró¿owy ma gêstoœæ widmow¹ mocy:
+ Sta³¹ w funkcji czêstotliwoœci
+ Zmieniaj¹c¹ siê odwrotnie proporcjonalnie do czêstotliwoœci
+ Zmieniaj¹c¹ siê odwrotnie proporcjonalnie do kwadratu czêstotliwoœci
+ Zmieniaj¹c¹ siê odwrotnie proporcjonalnie do czwartej potêgi czêstotliwoœci

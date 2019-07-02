@@ -1,0 +1,6 @@
+X1000
+Czy wspó³czynnik korelacji pary zmiennych losowych mo¿e byæ ujemny?
+tak
+nie
+tylko wtedy, gdy obie zmienne maj¹ ujemne wartoœci
+tylko wtedy, gdy jedna jest > 0, a druga < 0

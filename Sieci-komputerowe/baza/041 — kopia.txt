@@ -1,0 +1,7 @@
+X01010
+W jakich dwóch sytuacjach UDP by³by preferowanym protoko³em transportowym nad TCP? (Wybierz dwa.) 
+gdy aplikacje musz¹ zagwarantowaæ, ¿e pakiet dotrze nienaruszony, po kolei i niepowik³any 
+kiedy potrzebny jest szybszy mechanizm dostarczania  
+gdy koszty ogólne dostawy nie s¹ problemem 
+gdy aplikacje nie musz¹ gwarantowaæ dostarczenia danych 
+gdy numery portów docelowych s¹ dynamiczne 

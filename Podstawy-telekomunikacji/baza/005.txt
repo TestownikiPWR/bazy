@@ -1,0 +1,6 @@
+X1010
+Próbkowanie chwilowe powoduje, ¿e przebieg zmodulowany PAM ma: (Wybierz co najmniej jedn¹ odpowiedŸ)
+chwilowe amplitudy impulsów, które odtwarzaj¹ przebieg moduluj¹cy w czasie
+odkszta³cone wierzcho³ki impulsów w czasie
+odkszta³cone powtórzenia widma sygna³u moduluj¹cego
+widmo, które odtwarza kszta³t funkcji Sa pojedynczego impulsu próbuj¹cego

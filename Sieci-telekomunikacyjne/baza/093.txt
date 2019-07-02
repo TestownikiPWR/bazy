@@ -1,0 +1,6 @@
+X0100
+Strefa numeryczna to:
+ obszar, w którym numery abonenckie s¹ objête systemem numeracji jawnej
+ obszar, w którym numery abonenckie s¹ objête systemem numeracji skrytej
+ obszar, w którym numery abonenckie s¹ objête systemem numeracji jawnej i któremu w krajowej sieci telefonicznej przyporz¹dkowano okreœlony wskaŸnik miêdzynarodowy
+ obszar, w obrêbie którego abonenci realizuj¹ w sposób automatyczny po³aczenia strefowe, wybieraj¹ numer strefowy NST

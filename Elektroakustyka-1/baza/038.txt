@@ -1,0 +1,6 @@
+X0010
+38. Zamkniêta komora (wnêka) pe³ni rolê:
+ Rezystancji akustycznej
+ Masy akustycznej
+ Podatnoœci akustycznej
+ Transformatora impedancji akustycznej

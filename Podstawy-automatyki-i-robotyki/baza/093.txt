@@ -1,0 +1,5 @@
+X010
+Nazwa regulatora dwustawnego lub dwupołożeniowego pochodzi stąd, że:
+można mu wprowadzić dwie wartości zadane
+jego wyjście może znajdować się tylko w jednym z dwóch stanów
+może stabilizować wielkość sterowaną tylko na dwóch poziomach

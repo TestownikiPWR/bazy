@@ -1,0 +1,6 @@
+X1000
+Dla detektorów zdefiniowanych w CISPR 16 prawd¹ jest ¿e:
+detektor quasi-szczytowy nigdy nie daje wy¿szego odczytu ni¿ detekror szczytowy,
+detektor quasi-szczytowy nie daje wy¿szego odczytu ni¿ detektor wartoœci œredniej,
+detektor quasi-szczytowy jest powszechnie u¿ywany, gdy pomiar jest szybszy ni¿ za pomoc¹ in...,
+detektor quasi-szczytowy jest powszechnie u¿ywany gdy¿ ma go ka¿dy analizator wydma,

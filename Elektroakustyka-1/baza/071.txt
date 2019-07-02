@@ -1,0 +1,6 @@
+X0001
+71. D³ugoœæ fali akustycznej :
+ Nie zale¿y od czêstotliwoœci
+ Jest proporcjonalna do czêstotliwoœci
+ Jest proporcjonalna do kwadratu czêstotliwoœci
+ Jest odwrotnie proporcjonalna do czêstotliwoœci

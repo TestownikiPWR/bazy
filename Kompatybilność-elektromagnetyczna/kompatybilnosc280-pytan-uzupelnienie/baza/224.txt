@@ -1,0 +1,6 @@
+X0010
+Ile wynosi impedancja w swobodnej przestrzeni?
+150 om
+nieokreœlona
+377 om
+400 om

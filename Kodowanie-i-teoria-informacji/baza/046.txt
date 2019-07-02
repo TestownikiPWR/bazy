@@ -1,0 +1,6 @@
+X1000
+Do szyfrów teoretycznie nieprze³amywalnych mo¿na zaliczyæ szyfrowanie:
+Z kluczem jednorazowym
+IDEA
+DES
+RSA

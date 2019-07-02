@@ -1,0 +1,5 @@
+﻿X1000
+Robot typu kartezjański to robot o konfiguracji odcinka regionalnego:
+PPP
+OOO
+OPO

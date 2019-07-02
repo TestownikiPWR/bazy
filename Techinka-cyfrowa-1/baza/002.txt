@@ -1,0 +1,6 @@
+X0100
+Efektor 8 sygna³ów binarnych to
+bit
+bajt
+kilobajt
+kilobit

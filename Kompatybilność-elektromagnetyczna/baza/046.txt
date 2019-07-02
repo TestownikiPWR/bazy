@@ -1,0 +1,6 @@
+X0010
+Polaryzacja anten pomiarowych podczas badañ powinna byæ:
+pionowa
+pozioma
+zmieniana
+ko³owa

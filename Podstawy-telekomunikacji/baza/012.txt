@@ -1,0 +1,6 @@
+X1000
+Dla k = 5 elementowego kodu binarnego, liczba M równych przedzia³ów kwantowania modulacji PCM wynosi
+32 (M=2^k)
+64
+16
+256

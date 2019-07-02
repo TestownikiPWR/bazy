@@ -1,0 +1,6 @@
+X0100
+39. Rozszerzenie zakresu amperomierza uzyskuje siê przez:
+a) Szeregowe w³¹czenie rezystora wzorcowego
+b) Równoleg³e w³¹cznie rezystora wzorcowego
+c) Przemno¿enie skali pomiarowej przez zdefiniowany
+d) Podzielenie skali pomiarowej przez zdefiniowany wspó³czynnik

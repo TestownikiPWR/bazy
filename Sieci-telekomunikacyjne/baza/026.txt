@@ -1,0 +1,6 @@
+X0010
+Podnoœna chrominancji w standardzie PAL spe³nia zale¿noœæ (fH – czêstotliwoœæ odchylania poziomego)
+n fH
+n fH/2
+(n-1/4)fH + f0, gdzie f0 = 25Hz
+nie zale¿y od czêstotliwoœci odchylania poziomego

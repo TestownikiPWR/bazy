@@ -1,0 +1,6 @@
+X0001
+Po zastosowaniu do routera, które polecenie pomog³oby w z³agodzeniu ataków has³em typu brute-force na router? 
+exec-timeout 30 
+us³uga szyfrowania hase³ 
+banner motd $ Max nieudane logowania = 5 $ 
+blok logowania - dla 60 prób 5 w ci¹gu 60 

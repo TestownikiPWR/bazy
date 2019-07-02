@@ -1,0 +1,6 @@
+X0001
+W ogniwie fotowoltaicznym przy braku obci¹¿enia zale¿noœd mocy pr¹du od natê¿enia oœwietlenia jest: 
+liniowa 
+ekspotencjalna 
+kwadratowa 
+logarytmiczna

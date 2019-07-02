@@ -1,0 +1,6 @@
+X0001
+Wysokoœæ umieszczenia badanego urz¹dzenia na poligonie pomiarowym podczas pomiaru zaburzeñ promieniowanych:
+nie jest definiowana 
+wynosi 1,5 m 
+zale¿y od warunków eksploatacji urz¹dzenia i jest stawiane na ziemi odniesienia 
+zale¿y od rozmiarów badanego urz¹dzenia

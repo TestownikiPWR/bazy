@@ -1,0 +1,6 @@
+X0001
+Odpornoœci urz¹dzeñ na zak³ócenia promieniowane powstaj¹ce podczas wy³adowañ elektrostatycznych bada siê symuluj¹c wy³adowania do:
+przewodów interfejsowych
+wnêtrza urz¹dzenia 
+przewodów zasilaj¹cych
+elementów urz¹dzenia dotykanych przez obs³ugê

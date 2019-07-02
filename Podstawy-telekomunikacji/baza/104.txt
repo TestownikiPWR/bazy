@@ -1,0 +1,6 @@
+X0100
+128-poziomów w kwantyzacji transmisji cyfrowej uzyskamy dla symbolu binarnego o d³ugoœci:
+9
+7
+4
+8

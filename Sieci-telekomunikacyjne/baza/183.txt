@@ -1,0 +1,8 @@
+X101001
+Punkty elastycznoœci sieci (maj¹ dwie strony po³¹czone w sposób pó³sta³y):
+- skrzynka kablowa lub s³upek kablowy
+- studnie kablowe
+- szafa kablowa
+- studnie podszafowe
+- mufy kablowe
+- prze³¹cznica g³ówna

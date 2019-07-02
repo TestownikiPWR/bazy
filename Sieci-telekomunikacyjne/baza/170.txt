@@ -1,0 +1,6 @@
+X0011
+Co nie ogranicza zasiegu petli abonenckiej na styku U
+t³umiennoœæ toru
+rezystancja pêtli (ze wzglêdu na zdalne zasilanie)
+wp³ywy zewnêtrzne (przeniki, szumy, impulsy)
+mo¿liwosci ruchowe centrali/ISDN

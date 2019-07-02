@@ -1,0 +1,6 @@
+X1000
+Co nie jest elementem okablowania œwiat³owodowego ?
+SUK
+ONU (optyczna jednostka sieciow
+OLT (zakoñczenie linii optycznej)
+ODN (optyczna sieæ dystrybucyjn

@@ -1,0 +1,6 @@
+X0100
+47. Miernik odcinka czasu posiada strukture czestotliwosciowa i dodatkowy blok:
+a) Uk³adu wejœciowego
+b) Dzielnika czêstotliwoœci
+c) Uk³adu sterowania bramk¹(PYTANIE DO OPRACOWANIA!)
+d) Licznika

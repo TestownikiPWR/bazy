@@ -1,0 +1,5 @@
+﻿X0010
+W układzie regulacji sygnał błędu:
+może wynosić zero
+zawsze wynosi zero
+nigdy nie wynosi zero

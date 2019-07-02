@@ -1,0 +1,6 @@
+﻿X0001
+Resolwer to urządzenie służące do:
+Dekodowania informacji zapisanej w postaci magnetycznej
+Pomiaru przyspieszenia robota
+Uzyskania informacji na temat prędkości i kierunku obrotu koła
+Uzyskania informacji na temat położenia kątowego przegubu obrotowego

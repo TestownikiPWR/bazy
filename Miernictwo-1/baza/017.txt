@@ -1,0 +1,6 @@
+X0100
+17. Czujnikiem nazywamy:
+a) Element pozostaj¹cy poza obudow¹ miernika
+b) Przetwornik maj¹cy bezpoœredni kontakt z wielkoœci¹ mierzon¹
+c) Element przetwarzaj¹cy wielkoœæ wejœciow¹
+d) Sztuczn¹ sieæ neuronów czuciowych

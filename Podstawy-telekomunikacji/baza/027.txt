@@ -1,0 +1,6 @@
+X0010
+Jak wykazuj¹ badania statystyczne w ka¿dej sekundzie na ca³ym obszarze œwiata zdarza siê oko³o 100 wy³adowañ, pochodz¹cych od:
+500 burz, ka¿dej obejmuj¹cej œrednio 20-500 km2
+1000 burz, ka¿dej obejmuj¹cej œrednio 10-100 km2
+1000 burz, ka¿dej obejmuj¹cej œrednio 20-200 km2 
+2000 burz, ka¿dej obejmuj¹cej œrednio 0-300 km2

@@ -1,0 +1,7 @@
+X1101
+Architektura RISC charakteryzuje siê…
+ma³¹ liczb¹ trybów adresowania
+krótk¹ list¹ rozkazów
+wiêkszoœæ rozkazów mo¿e pracowaæ na pamiêci
+du¿¹ liczb¹ rejestrów roboczych
+

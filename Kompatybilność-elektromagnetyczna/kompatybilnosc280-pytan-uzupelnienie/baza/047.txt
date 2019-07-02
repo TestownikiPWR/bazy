@@ -1,0 +1,6 @@
+X1000
+Oczko w a¿urowej p³ycie ziemi odniesienia powinno byæ:
+mniejsze ni¿ 3 cm
+wiêksze ni¿ 3 cm
+dowolne
+p³yta nie mo¿e mieæ oczek

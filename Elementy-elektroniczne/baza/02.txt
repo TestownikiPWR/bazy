@@ -1,0 +1,6 @@
+X1000
+Wraz ze wzrostem temperatury w pó³przewodniku : 
+a) rezystancja maleje 
+b) rezystancja nie zmienia siê 
+c) rezystancja roœnie wyk³adniczo 
+d) rezystancja roœnie liniowo 

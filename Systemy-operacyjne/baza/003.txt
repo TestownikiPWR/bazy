@@ -1,0 +1,6 @@
+X1100
+Semantyka spójnoœci:
+okreœla, w przypadku jednoczesnego dostêpu do pliku, kiedy widoczne bêd¹ dla innych procesów zmiany w pliku wniesione przez dany proces
+to np. semantyka sesji plikowej
+podaje jak unikaæ blokad zasobów jakimi s¹ pliki
+to sposób reprezetnacji struktury katalogowej

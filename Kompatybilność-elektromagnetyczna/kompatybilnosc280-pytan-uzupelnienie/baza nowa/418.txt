@@ -1,0 +1,6 @@
+X1000
+Jaka jest dolna i górna granica natê¿enia pola elektrycznego strefy zagro¿enia w paœmie mikrofal?
+dolna : 20V/m, górna: 60V/m
+dolna : 20V/m, górna: 240V/m
+dolna : 3V/m, górna: 10V/m
+dolna : 7V/m, górna: 20V/m

@@ -1,0 +1,7 @@
+X01100
+[img]5.jpg[/img]:
+Filtr nadpr¹dowy,
+Filtr zak³óceñ symetrycznych,
+Filtr zak³óceñ ró¿nicowych,
+Filtr zak³óceñ asymetrycznych,
+Filtr zbyt du¿ej masy,

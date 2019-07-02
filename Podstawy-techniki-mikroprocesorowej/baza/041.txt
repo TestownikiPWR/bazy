@@ -1,0 +1,6 @@
+X1000
+Ile bajtów ma INT
+W zale¿noœci od systemu na którym pracujemy, na ró¿nych architekturach mo¿e mieæ inn¹ wartoœæ.
+8-bajtów
+16-bajtów
+32-bajty

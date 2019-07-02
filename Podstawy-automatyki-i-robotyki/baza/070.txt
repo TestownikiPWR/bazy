@@ -1,0 +1,4 @@
+﻿X0100
+Charakterystyki częstotliwościowe układu dynamicznego [pokazują/] pozwalają bezpośrednio określić:
+wzmocnienie i przesunięcie fazowe w funkcji częstotliwości
+zależność przesunięcia fazowego i wzmocnienia od pulsacji

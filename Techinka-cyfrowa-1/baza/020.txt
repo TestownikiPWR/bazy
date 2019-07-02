@@ -1,0 +1,6 @@
+X0010
+W automacie Moore’a stan wyjœæ jest funkcj¹
+stanu wejœæ
+stanu wejœæ i stanu wewnêtrznego
+stanu wewnêtrznego
+stanu wyjœæ

@@ -1,0 +1,6 @@
+X1010
+Funkcja charakterystyczna dla przerzutnika T jest równa
+Q’=Q/T+/QT
+Q’=T
+[img]026a.png[/img]
+Q’=/T

@@ -1,0 +1,6 @@
+X0010
+Dlaczego administrator sieci korzysta z narzêdzia tracert?
+w celu okreœlenia aktywnych po³¹czeñ TCP na komputerze
+aby sprawdziæ informacje o nazwie DNS na serwerze DNS
+okreœliæ, gdzie pakiet zosta³ utracony lub opóŸniony w sieci 
+aby wyœwietliæ adres IP, domyœln¹ bramkê i adres serwera DNS dla komputera

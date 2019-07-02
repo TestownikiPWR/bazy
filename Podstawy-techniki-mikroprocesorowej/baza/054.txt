@@ -1,0 +1,5 @@
+X100
+ortex jest przedstawicielem architektury:
+32-bitowej
+16-bitowej
+8-bitowej

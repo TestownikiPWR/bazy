@@ -1,0 +1,6 @@
+X1011
+Generator impulsów testowych zgodnych z wymaganiami CCITT K-17 wytwarza impulsy:
+impulsy unipolarne o polaryzacji ujemnej
+o postaci gasn¹cej fali oscylacyjnej
+impulsy unipolarne o polaryzacji dodatniej
+impulsy unipolarne o polaryzacji ujemnej i dodatniej

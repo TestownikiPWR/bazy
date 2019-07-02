@@ -1,0 +1,6 @@
+X0001
+Szum œrutowy spowodowany dyskretnym charakterem noœników ³adunku wystêpuje w:
+stratnych elementach L, C
+induktorach z ferromagnetykiem
+rezystorach
+elektronicznych elementach czynnych

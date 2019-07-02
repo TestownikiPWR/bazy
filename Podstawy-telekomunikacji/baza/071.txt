@@ -1,0 +1,6 @@
+X0100
+Jak zale¿y pasmo od czêstotliwoœci w FM: 
+proporcjonalne 
+odwrotnie proporcjonalne
+nie zale¿y
+logarytmicznie

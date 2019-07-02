@@ -1,0 +1,6 @@
+X0010
+35. W mostkach czteroga³êŸnych stosuje siê wzorce:
+a) Jeden sta³y i jeden regulowany
+b) Dwa sta³e i jeden regulowany
+c) Dwa sta³e i dwa regulowane
+d) Trzy sta³e i dwa regulowane

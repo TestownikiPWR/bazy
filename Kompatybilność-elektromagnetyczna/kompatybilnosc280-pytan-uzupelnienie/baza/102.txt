@@ -1,0 +1,6 @@
+X0100
+Sonda z ma³¹ elektrycznie podwójnie obci¹¿on¹ anten¹ ramow¹ wmontowan¹ w doln¹ p³ytê symulatora równoleg³op³ytowego umo¿liwia:
+tylko pomiar pola magnetycznego
+niezale¿ny pomiar natê¿enia pola elektrycznego i natê¿enia pola magnetycznego
+tylko pomiar gêstoœci strumienia mocy
+tylko pomiar pola elektrycznego

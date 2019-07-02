@@ -1,0 +1,6 @@
+X0010
+Akronimy nazw modulacji impulsowych: PAM, PPM i PWM, oznaczaj¹, odpowiednio modulacje:
+amplitudy, szerokoœci, po³o¿enia 
+po³o¿enia, szerokoœci, amplitudy 
+amplitudy, po³o¿enia, szerokoœci 
+szerokoœci, amplitudy, po³o¿enia

@@ -1,0 +1,6 @@
+X0100
+33. Amperomierze elektroniczne mier¿¹ pr¹d przemienny:
+a) Bezpoœrednio z blokiem przetwarzania U/I
+b) Poœrednio z blokiem przetwarzania I/U
+c) Bezpoœrednio z blokiem przetwarzania AC/DC
+d) Poœrednio z blokiem przetwarzania DC/AC

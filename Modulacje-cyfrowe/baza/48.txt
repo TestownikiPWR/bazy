@@ -1,0 +1,6 @@
+X0100
+48. Najwy¿szy wspó³czynnik skutecznoœci wykorzystania pasma, przy ustalonym stosunku (S/N) na wejœciu demodulatora, ustalonej szybkoœci transmisji Rs oraz okreœlonej jakoœci transmisji P(e) , bêdzie mia³a modulacja:
+PSK
+PAM
+QAM
+FSK

@@ -1,0 +1,6 @@
+X0101
+Na etapie kompilacji:
+zawsze otrzymujemy kod relokowalny
+mo¿emy otrzymaæ kod nierelokowalny
+nag³ówki bibliotek maj¹ kod nierelokowalny
+kompilowany jest tak¿e kod bibliotek statycznych

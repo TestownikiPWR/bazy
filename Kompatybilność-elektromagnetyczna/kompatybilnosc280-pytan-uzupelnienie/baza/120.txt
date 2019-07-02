@@ -1,0 +1,6 @@
+X1000
+Najczêœciej stosowanymi w pomiarach pola elektromagnetycznego w strefie Fresnela sondami s¹:
+sondy szerokopasmowe
+sondy w¹skopasmowe
+sondy w¹skopasmowe strojone
+sondy o regulowanej szerokoœci pasma

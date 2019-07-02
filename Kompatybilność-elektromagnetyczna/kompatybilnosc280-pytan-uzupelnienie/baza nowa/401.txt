@@ -1,0 +1,7 @@
+X00100
+Najmniej odporne na wy³adowania elektrostatyczne s¹ pó³przeowdnikowe struktury i tranzystory typu:
+Diody Schottkyego
+Tranzystory bipolarne
+MOS (Metal-Oxide-Semiconductor)
+Rezystory cienko- i grubowarstwowe
+TTL(Transistor-Transiostor Logic)

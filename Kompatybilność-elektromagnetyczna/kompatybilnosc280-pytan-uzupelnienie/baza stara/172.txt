@@ -1,0 +1,6 @@
+X0100
+Generator impulsów testowych zgodnych z wymaganiami CCITT K-17  umo¿liwia badanie urz¹dzeñ telekomunikacyjnych do³¹czonych do:
+Lini asymetrycznej
+Lini symetrycznej
+Interefejsu
+Zasilania

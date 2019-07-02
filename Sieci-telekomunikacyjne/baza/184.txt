@@ -1,0 +1,8 @@
+X111000
+Elementy sta³e sieci (nie bêd¹ce punktami elastycznoœci sieci)
+- studnie kablowe
+- studnie podszafowe
+- mufy kablowe
+- skrzynka kablowa lub s³upek kablowy
+- szafa kablowa
+- prze³¹cznica g³ówna

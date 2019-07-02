@@ -1,0 +1,6 @@
+X0100
+Jakie protoko³y s³u¿¹ do kodowania sygna³u audio ?
+ T. 12x
+ G. 7xx
+ H. 32x
+ H. 36x

@@ -1,0 +1,6 @@
+X1000
+Sieci sztuczne stosuje siê do pomiarów napiêcia zak³óceñ w zakresie czêstotliwoœci:
+10kHz - 300MHz
+0Hz - 300MHz
+30MHz - 300MHz
+10kHz - 1GHz

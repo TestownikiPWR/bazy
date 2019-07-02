@@ -1,0 +1,6 @@
+X1001
+Czym ró¿ni siê algorytm Viterbiego miêkkodecyzyjny od twardodecyzyjnego?
+Tym, ¿e w miêkkodecyzyjnym pod uwagê brany jest wspó³czynnik wiarygodnoœci odebranej wartoœci bitu.
+Niczym, pojêcie ma za zadanie odró¿nienie tylko technologii wykonania dekodera.
+nie ma takiego pojêcia.
+Droga przez kratê stanu ustalana jest na podstawie maksymalizacji prawdopodobieñstwa æei¿ki, a nie minimalizacji d³ugoœci drogi.

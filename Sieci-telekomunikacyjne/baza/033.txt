@@ -1,0 +1,6 @@
+X1000
+W standardzie PAL stosuje siê d³ugoœæ sygna³u burst:
+2,1 mikro sek
+3,3 mikro sek
+16 mikro sek
+35,7 mikro sek

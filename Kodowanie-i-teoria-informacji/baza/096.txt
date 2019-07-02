@@ -1,0 +1,6 @@
+X1000
+Proszê uzupe³niæ zbiór s³ów kodowych [01010, 00000, 11110] kodu (5,2) o brakuj¹ce s³owo:
+10100 
+01010
+10101 
+11111

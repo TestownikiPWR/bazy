@@ -1,0 +1,6 @@
+X0100
+Kwantowanie idealne (tj. bez b³êdów numerycznych) jest procesem:
+zawsze nieodwracalnym
+generalnie nieodwracalnym
+generalnie odwracalnym
+zawsze odwracalnym 

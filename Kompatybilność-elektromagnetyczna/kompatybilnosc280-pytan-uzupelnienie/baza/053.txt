@@ -1,0 +1,6 @@
+X1000
+Ochronê przed elektrycznoœci¹ statyczn¹ w przypadku urz¹dzeñ z materia³ów nieprzewodz¹cych dokonuje siê:
+przez neutralizacjê
+przez uziemienie
+przez zerowanie
+przez filtrowanie zasilania

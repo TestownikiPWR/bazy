@@ -1,0 +1,6 @@
+X1000
+Na jakiej warstwie modelu ISO-OSI funkcjonuje sygnalizacja DSS1?
+funkcjonuje w warstwie sieciowej
+funkcjonuje w warstwie transportowej 
+funkcjonuje w warstwie ³¹cza danych
+funkcjonuje w warstwie fizycznej

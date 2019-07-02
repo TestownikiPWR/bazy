@@ -1,0 +1,5 @@
+X100
+ Magistrala trójsteruj¹ca
+magistrala danych|| magistrala steruj¹ca|| magistrala adresowa
+magistrala sieciowa || magistrala adresowa || magistrala steruj¹ca
+magistrala danych || magistrala adresowa|| magistrala sieciowa

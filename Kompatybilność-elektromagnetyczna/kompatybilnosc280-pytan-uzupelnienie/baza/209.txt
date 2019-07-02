@@ -1,0 +1,6 @@
+X0100
+Max natê¿enie pola dla GSM’mu w Polsce:
+1 V/m
+7 V/m
+20 V/m
+63 V/m

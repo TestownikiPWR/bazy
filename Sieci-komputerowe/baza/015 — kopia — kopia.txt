@@ -1,0 +1,6 @@
+X0100
+4. Dlaczego urz¹dzenie warstwy 3 wykonuje proces AND na docelowym adresie IP i masce podsieci?
+do identyfikacji adresu hosta i hosta docelowego;
+do identyfikacji adresu sieciowego hosta docelowego; 
+do identyfikacji wadliwych ramek;
+do identyfikacji adresu rozg³oszeniowego sieci docelowej;

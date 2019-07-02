@@ -1,0 +1,6 @@
+X0010
+Czêstotliwoœæ rezonansowa rezonatora Helmholtza jest tym wiêksza im:
+wiêksza d³ugoœæ szyjki, a mniejsza jej powierzchnia przekroju i objêtoœæ komory
+mniejsza d³ugoœæ szyjki, a wiêksza jej powierzchnia przekroju i objêtoœæ komory
+wiêksza powierzchnia przekroju szyjki, a mniejsza jej d³ugoœæ i objêtoœæ komory
+mniejsza powierzchnia przekroju szyjki, a wiêksza jej d³ugoœæ i objêtoœæ komory

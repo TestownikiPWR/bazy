@@ -1,0 +1,6 @@
+X0100
+Oznaczenia stref ochronnych- barwa t³a znaku ¿ó³ta, ma³e ko³o czerwone:
+Strefa poœrednia.
+Strefa zagro¿enia.
+Strefa niebezpieczna.
+Strefa bezpieczna.

@@ -1,0 +1,6 @@
+X0001
+74. W rezonatorze akustycznym z fal¹ p³ask¹ otwartym na obu koñcach:
+ Czêstotliwoœci rezonansowe nie s¹ harmoniczne wzglêdem czêstotliwoœci podstawowej
+ Czêstotliwoœci rezonansowe s¹ harmonicznymi czêstotliwoœci podstawowej wy³¹cznie rzêdów parzystych
+ Czêstotliwoœci rezonansowe s¹ harmonicznymi czêstotliwoœci podstawowej wy³¹cznie rzêdów nieparzystych
+ Czêstotliwoœci rezonansowe s¹ harmonicznymi czêstotliwoœci podstawowej rzêdów parzystych i nieparzystych

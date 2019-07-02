@@ -1,0 +1,6 @@
+X0001
+Najwiêksze wzmocnienie pr¹dowe zapewnia konfiguracja tranzystora w uk³adzie: 
+a) ¿adne z poni¿szych 
+b) OE (WE) 
+c) OB (WB) 
+d) OC (WC) 

@@ -1,0 +1,5 @@
+﻿X0100
+Każdy obiekt liniowy:
+jest obiektem z czasem ciągłym
+spełnia zasadę superpozycji
+jest stabilny

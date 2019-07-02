@@ -1,0 +1,5 @@
+X110
+26. Która modulacja charakteryzuje siê najwiêksz¹ wydajnoœci¹ widmowa
+8-PSK
+8 QAM
+¿adna z powy¿szych

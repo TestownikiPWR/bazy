@@ -1,0 +1,6 @@
+X1000
+Zgodnie z zaleceniem IEC napiêcie testuj¹ce wynosi w zale¿noœci od klasy:
+2kV - klasa 3
+20kV - klasa 1
+15kV - klasa 4
+10kV - klasa 2

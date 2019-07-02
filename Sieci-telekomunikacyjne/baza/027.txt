@@ -1,0 +1,6 @@
+X0010
+Ze wzglêdu na rodzaj modulacji noœnej wizji w systemach naziemnych, w odbiorniku nale¿y zastosowaæ:
+detektor aperiodyczny
+filtr deemfazy
+filtr ze zboczem Nyquista
+detektor czêstotliwoœci

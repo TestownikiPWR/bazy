@@ -1,0 +1,6 @@
+X1000
+80. Komórek rzêsatych wewnêtrznych dla osoby o zdrowym s³uchu jest oko³o:
+ 3500
+ 10000
+ 25000
+ 50000

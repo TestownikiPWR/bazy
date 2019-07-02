@@ -1,0 +1,6 @@
+X0001
+W wyniku działania algorytmu Viterbiego
+Uzyskujemy informację o ilości nadanych jedynek
+Uzyskujemy bloki słów kodowych na wyjściu modulatora
+Uzyskujemy estymator informacji nadanej
+Jesteśmy w stanie narysować kratę przejścia modulatora

@@ -1,0 +1,6 @@
+X1000
+W sieci ISDN realizowana jest:
+komutacja kana³ów i pakietów
+tylko komutacja kana³ów
+tylko komutacja pakietów
+nie ma ¿adnej komutacji

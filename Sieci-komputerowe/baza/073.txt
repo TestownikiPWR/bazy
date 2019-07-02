@@ -1,0 +1,6 @@
+X1000
+Jaki jest cel funkcji uwierzytelniania sieciowego?
+wymagaæ od u¿ytkowników udowodnienia, kim s¹ 
+aby okreœliæ, do których zasobów u¿ytkownik mo¿e uzyskaæ dostêp
+œledziæ dzia³ania u¿ytkownika
+w celu zapewnienia pytañ dotycz¹cych wyzwañ i odpowiedzi

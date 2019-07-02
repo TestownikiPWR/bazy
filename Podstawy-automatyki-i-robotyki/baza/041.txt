@@ -1,0 +1,5 @@
+﻿X0100
+Odpowiedź skokowa członu całkującego ma wartość:
+Stałą
+Rosnącą
+Malejącą

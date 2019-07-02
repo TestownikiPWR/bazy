@@ -1,0 +1,6 @@
+X0001
+63. W omomierzach ma³ych rezystancji stosuje siê
+a) wzorcowanie rezystancji wejœciowej i wyjœciowej
+b) wzorcowanie Ÿród³a napiêciowego i pr¹dowego
+c) separacjê rezystancji wejœciowej i wyjœciowej
+d) separacjê obwodu napiêciowego i pr¹dowego

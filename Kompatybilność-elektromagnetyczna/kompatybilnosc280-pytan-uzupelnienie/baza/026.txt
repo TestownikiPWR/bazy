@@ -1,0 +1,6 @@
+X1100
+Mechanizm generacji zak³óceñ przewodzonych jest zwi¹zany z:
+wystêpowaniem wy³adowañ ³ukowych
+gwa³towna zmiana przep³ywu pr¹du
+zmianami natê¿enia pola elektromagnetycznego
+stanami niustalonymi

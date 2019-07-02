@@ -1,0 +1,6 @@
+X1000
+Jakie polecenie mo¿e wydaæ administrator na routerze Cisco, aby wysy³aæ komunikaty debugowania do wierszy vty? 
+monitor terminalowy 
+logowanie rejestrowanie konsoli
+rejestrowanie buforowane
+synchroniczne

@@ -1,0 +1,6 @@
+X0010
+Administrator sieci musi monitorowaæ ruch sieciowy do iz serwerów w centrum danych. Które funkcje schematu adresowania IP nale¿y zastosowaæ do tych urz¹dzeñ?
+losowe adresy statyczne w celu poprawy bezpieczeñstwa
+adresy z ró¿nych podsieci dla nadmiarowoœci
+przewidywalne statyczne adresy IP dla ³atwiejszej identyfikacji 
+dynamiczne adresy, aby zmniejszyæ prawdopodobieñstwo duplikowania adresów

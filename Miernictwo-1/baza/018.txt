@@ -1,0 +1,6 @@
+X0010
+18. W analogowym bloku uzyskiwania wyniku pomiaru:
+a) Sygna³ jest dopasowany energetycznie
+b) Sygna³ jest dopasowany czasowo
+c) Sygna³ jest przetwarzany zgodnie z definicj¹ wielkoœci mierzonej
+d) Sygna³ jest przetwarzany proporcjonalnie do wartoœci skutecznej

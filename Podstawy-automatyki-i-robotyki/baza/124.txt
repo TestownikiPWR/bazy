@@ -1,0 +1,5 @@
+﻿X010
+Jeśli w regulatorze o transmitancji G(s)=Kp(1+1/Tis+Tds) czas różniczkowania jest zerowy, a pozostałe nastawy są dodatnie i ograniczone, to regulator realizuje algorytm:
+P
+PI
+PID

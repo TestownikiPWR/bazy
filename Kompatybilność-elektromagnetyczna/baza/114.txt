@@ -1,0 +1,6 @@
+X0001
+Badanie odpornoœci urz¹dzeñ elektronicznych na wy³adowania atmosferyczne metod¹ poœredni¹ polega na:
+wstrzykiwaniu impulsów napiêcia
+badaniu w symulatorze promieniuj¹cym
+badaniu w symulatorze równoleg³op³ytowym
+wstzrykiwaniu impulsów pr¹du

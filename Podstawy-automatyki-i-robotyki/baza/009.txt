@@ -1,0 +1,5 @@
+﻿X0100
+Podstawową strukturą w regulacji automatycznej jest:
+dodatnie sprzężenie zwrotne
+ujemne sprzężenie zwrotne
+struktura równoległa

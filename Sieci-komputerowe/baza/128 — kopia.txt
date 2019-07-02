@@ -1,0 +1,8 @@
+X001000
+Która technologia zapewnia rozwi¹zanie problemu z wyczerpywaniem adresów IPv4, umo¿liwiaj¹c wielu urz¹dzeniom wspó³u¿ytkowanie jednego publicznego adresu IP?
+ARP
+DNS
+NAT 
+SMB
+DHCP
+HTTP

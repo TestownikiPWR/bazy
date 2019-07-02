@@ -1,0 +1,6 @@
+X0010
+W którym systemie kodowania wystêpuje macierz generuj¹ca pó³nieskoñczona
+W kodowaniu cyklicznym
+W kodowaniu BCH
+W kodach splotowych
+Nie ma takiego pojêcia

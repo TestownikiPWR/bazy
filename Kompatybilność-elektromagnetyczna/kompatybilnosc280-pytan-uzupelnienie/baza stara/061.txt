@@ -1,0 +1,6 @@
+X0100
+Emisyjnoœæ sprzêtu jest to:
+wytwarzanie sygna³ów testowych
+wytwarzanie niepo¿¹danych pól elektromagnetycznych
+wytwarzanie po¿¹danych pól elektromagnetycznych
+odpornoœæ na zak³ócenia

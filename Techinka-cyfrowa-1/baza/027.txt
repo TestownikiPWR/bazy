@@ -1,0 +1,6 @@
+X0010
+Funkcja charakterystyczna dla przerzutnika JK jest równa
+Q’=J
+Q’=K
+Q’=Q/K +/QJ
+Q’=/K

@@ -1,0 +1,6 @@
+X0010
+Kod bifazowy na styku U zmienia szybkoœæ modulacji
+zwieksza dwukrotnie
+zwiêksza o 50%
+zmniejsza dwukrotnie
+nie zmienia

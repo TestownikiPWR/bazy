@@ -1,0 +1,6 @@
+X0001
+Do zalet programowalnego tranzystora jednoz³¹czowego w stosunku do nieprogramowalnego nie zaliczamy: 
+a) wiêksze napiêcie przebicia 
+b) mo¿liwoœd pracy przy ma³ych napiêciach 
+c) programowalne napiêcie prze³¹czaj¹ce 
+d) mniejsza amplituda sygna³u wyjœciowego 

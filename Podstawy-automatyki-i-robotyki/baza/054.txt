@@ -1,0 +1,5 @@
+﻿X0100
+Robot sferyczny ma regionalny odcinek łańcucha kinematycznego notowany jako:
+OPP
+OOP
+POP

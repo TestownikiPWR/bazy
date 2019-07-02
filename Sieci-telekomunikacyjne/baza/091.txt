@@ -1,0 +1,6 @@
+X0001
+Który poziom w sygnalizacji nr 7 obejmuje funkcje zwi¹zane z u¿ytkownikiem?
+ poziom nr 1 (kana³u)
+ poziom nr 2 (³¹cz
+ poziom nr 3 (sieci)
+ poziom nr 4 

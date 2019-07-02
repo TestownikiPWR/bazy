@@ -1,0 +1,7 @@
+X01000
+Komputer-host próbuje wydzier¿awiæ adres przez DHCP. Jaka wiadomoœæ jest wysy³ana przez serwer do klienta, wiedz¹c, ¿e jest w stanie korzystaæ z podanych informacji IP?
+DHCPDISCOVER
+DHCPOFFER 
+DHCPPREQUEST
+DHCPACK
+DHCPNACK

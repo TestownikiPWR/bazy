@@ -1,0 +1,6 @@
+X0010
+Tablicê dekodowania stosujemy do dekodowania korekcyjnego
+Wszystkich kodów
+Kodów z bitem parzystoœci
+Wszystkich kodów liniowych blokowych o odleg³oœci minimalnej wiêkszej ni¿ 2
+Wszystkich kodów liniowych blokowych o odleg³oœci minimalnej mniejszej ni¿ 3

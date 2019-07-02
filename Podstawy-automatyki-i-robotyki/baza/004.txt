@@ -1,0 +1,5 @@
+﻿X0100
+Czym mierzymy temperaturę?
+termoskopem
+termoelementem
+termotronem

@@ -1,0 +1,6 @@
+X1000
+Na styku U stoauje siê techniki transmisji:
+z eliminacj¹ echa
+z podzia³em kodowym
+z kompresja liniowa
+start-stopow¹

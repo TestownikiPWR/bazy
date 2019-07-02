@@ -1,0 +1,4 @@
+X01
+*** s³ów kodowych systematycznego rozdzienego kodu
+c(x)= Rg(x)[X^n-1]
+(x)=x^r*h(x) + Rg(x)*[x^r*h(x)]

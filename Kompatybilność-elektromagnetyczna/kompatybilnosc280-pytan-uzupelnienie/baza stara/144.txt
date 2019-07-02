@@ -1,0 +1,8 @@
+X110100
+Podstawowe œrodku ochrony EMC to: (wybierz 3)
+Ekranowanie
+Elementy przeciwprzepiêciowe
+Lutowanie zamiast przykrêcania
+Filtry
+Obudowy typu IP40
+Obudowy z pleksiglasu

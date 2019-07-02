@@ -1,0 +1,6 @@
+X1100
+32. Zaznaczyæ prawdziwe stwierdzenia dotycz¹ce odbiory sygna³ów cyfrowych z filtrem dolnoprzepustowym
+zwiêksza wiarygodnoœæ poprawnej decyzji
+w chwili próbkowania sygna³u poddawanego filtracji jego amplituda jest najwiêksza
+zmniejsza wiarygodnosc poprawnej decyzji
+zadne z powyzszych

@@ -1,0 +1,6 @@
+X0010
+75. Ton o danej czêstotliwoœci:
+ Maskuje tony o czêstotliwoœciach le¿¹cych w bezpoœrednim s¹siedztwie czêstotliwoœci tonu maskuj¹cego, natomiast niewiele wp³ywa na progi s³yszalnoœci tonów o czêstotliwoœciach znacznie ró¿ni¹cych siê od czêstotliwoœci tego tonu
+ Maskuje tony o czêstotliwoœciach mniejszych, natomiast niewiele wp³ywa na progi s³yszalnoœci tonów o czêstotliwoœciach wiêkszych 
+ Maskuje tony o czêstotliwoœciach wiêkszych, natomiast niewiele wp³ywa na progi s³yszalnoœci tonów o czêstotliwoœciach mniejszych
+ Maskuje wszystkie tony niezale¿nie od ich czêstotliwoœci

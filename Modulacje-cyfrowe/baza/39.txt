@@ -1,0 +1,5 @@
+X110
+39. od czego zale¿y zysk mod. w systemie z mod. czêstotliwoœci
+jest zale¿ny od pasma zajmowanego przez sygna³
+jest nieliniowo uzale¿niony od dewiacji sygna³u
+zadna z powyzszych

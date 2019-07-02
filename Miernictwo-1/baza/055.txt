@@ -1,0 +1,6 @@
+X0010
+55. Pomiar impedancji mostkiem czteroga³êŸnym pozwala na wyznaczanie:
+a) wartoœci skutecznej mierzonej wielkoœci
+b) wartoœci œredniej mierzonej wielkoœci
+c) czêœci rzeczywistej i urojonej mierzonej wielkoœci
+d) sk³adniowej sta³ej i zmiennej mierzonej wielkoœci

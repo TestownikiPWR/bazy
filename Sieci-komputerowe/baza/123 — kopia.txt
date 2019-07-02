@@ -1,0 +1,6 @@
+X0001
+Co siê dzieje, gdy czêœæ internetowej transmisji VoIP nie jest dostarczana do miejsca przeznaczenia?
+Komunikat o b³êdzie dostarczenia jest wysy³any do hosta Ÿród³owego.
+Czêœæ zgubionej transmisji VoIP jest ponownie wysy³ana.
+Ca³a transmisja zostanie ponownie wys³ana.
+Transmisja jest kontynuowana bez brakuj¹cej czêœci. 

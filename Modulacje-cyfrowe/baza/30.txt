@@ -1,0 +1,7 @@
+X1100
+30. Zaznaczyæ warunki niezbêdne do uzyskania ortogonalnoœci dwuwartoœciowej FSK
+zachowanie okreœlonego odstêpu czêstotliwoœci nominalnych sygna³u
+uzale¿nienie odstêpu czêstotliwoœci od szybkoœci transmisji
+brak uzale¿nienia odstêpu czêstotliwoœci od szybkoœci transmisji
+brak zachowania okreœlonego odstêpu czêstotliwoœci nominalnych sygna³u
+

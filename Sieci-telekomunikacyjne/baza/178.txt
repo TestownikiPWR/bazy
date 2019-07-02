@@ -1,0 +1,6 @@
+X0101
+Terminale abonenckie w sieci ISDN s¹:
+jednotorowe
+jednofunkcyjne
+asymetryczne
+wielofunkcyjne

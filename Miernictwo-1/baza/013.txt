@@ -1,0 +1,6 @@
+X0001
+13. Wp³yw b³êdów przypadkowych mo¿na zredukowaæ przez:
+a) Staranne wykonanie pomiarów
+b) wykonanie pojedynczego pomiaru i obliczenie b³êdu granicznego
+c) Wykonanie pojedynczego pomiaru i obliczenie b³êdu granicznego
+d) Okreœlenie serii pomiarów i obliczenie wartoœci œredniej

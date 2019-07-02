@@ -1,0 +1,6 @@
+X0010
+W najszerszym zakresie czêstotliwoœci do pomiarów kompatybilnoœci elektromagnetycznej sprzêtu mo¿e byæ wykorzystywane stanowisko:
+w komorze ekranowanej
+w komorze bezodbiciowej
+w swobodnej przestrzeni
+w komorze TEM

@@ -1,0 +1,3 @@
+X10
+Czym siê steruje dzia³aj¹cy PWM
+PWM to sterowanie sterowanie szerokoœci¹ impulsów, zazwyczaj s¹ one spiête z timerami i w³aœnie przez nie siê je kontroluje.

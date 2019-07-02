@@ -1,0 +1,8 @@
+X100000
+10. Wartoœæ b³êdu pomiaru:
+a) Nie jest znana
+b) Jest znana i równa róznicy miedzy wynikiem pomiaru i wartoscia prawdziwa
+c) Nie jest liczb¹
+d) Jest liczb¹ zapisywana jako przedzia³
+e) Jest liczb¹ obliczana jako przedzia³
+f) Jest znana i wynosi x-x0

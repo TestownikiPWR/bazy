@@ -1,0 +1,6 @@
+X1000
+Które stwierdzenie jest prawdziwe w odniesieniu do procesu klienta UDP podczas sesji z serwerem?
+Datagramy przychodz¹ce w innej kolejnoœci ni¿ ta, w której zosta³y wys³ane, nie s¹ porz¹dkowane. 
+Sesjê nale¿y ustaliæ przed wymian¹ datagramów.
+Trzyczêœciowy uœcisk d³oni ma miejsce przed rozpoczêciem transmisji danych.
+Serwery aplikacji musz¹ wykorzystywaæ numery portów powy¿ej 1024, aby móc obs³ugiwaæ protokó³ UDP.

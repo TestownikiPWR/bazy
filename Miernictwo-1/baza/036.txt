@@ -1,0 +1,6 @@
+X0100
+36. Do ró¿nic miêdzy mostkami do pomiaru kondensatorów i cewek nale¿y:
+a) Stosowanie innych wzorców sta³ych
+b) Stosowanie wzorców regulowanych w innej konfiguracji
+c) Stosowanie innych czêstotliwoœci pomiarowych
+d) Stosowanie wielkoœci pobudzaj¹cych w innych przedzia³ach czasu

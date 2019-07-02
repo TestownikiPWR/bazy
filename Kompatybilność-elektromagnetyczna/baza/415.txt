@@ -1,0 +1,8 @@
+X010011
+Które ze sformu³owañ poprawnie opisuje zjawisko powstawania i odza³ywania wy³adowañ typu LEMP? (wybierz trzy)
+Cz¹stki spadaj¹ce zyskuj¹ ³adunek dodatni, zaœ unosz¹ce siê - ³adunek ujemny
+Cz¹stki spadaj¹ce zyskuj¹ ³adunek ujemny, zaœ unosz¹ce siê - ³adunek dodatni. 
+Napiêcie zap³onu dla impulsu piorunowego jest rzêdu 1000V
+Piorunowe stany przejœciowe powstaj¹ tylko w wyniku bezpoœrednich wy³adowaæ typu LEMP
+Piorunowe stany przejœciowe postaj¹ zarówno w wyniku bezpoœrednij jak i poœrednich wy³¹dowañ typu LEMP
+Napiêcia za³onu dla impulsu piorunowego jest rzêdu 1000000V

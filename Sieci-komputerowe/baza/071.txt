@@ -1,0 +1,6 @@
+X0100
+Które pole w nag³ówku pakietu IPv4 zwykle pozostanie takie samo podczas transmisji?
+D³ugoœæ pakietu
+Adres docelowy 
+Oznacz
+Czas do ¿ycia

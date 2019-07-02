@@ -1,0 +1,6 @@
+X0001
+Parametry impulsu pola elektromagnetycznego wystêpuj¹cego w przestrzeni pomiarowej symulatora równoleg³op³ytowego zale¿¹ g³ównie od:
+rozmiarów symulatora
+wartoœci rezystancji obci¹¿aj¹cej symulator
+zastosowanych w symulatorze sond pomiarowych
+parametrów generatora pobudzaj¹cego

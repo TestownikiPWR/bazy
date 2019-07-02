@@ -1,0 +1,6 @@
+X0001
+V5.2: (OdpowiedŸ niepewna)
+to uniwersalny interfejs do pod³¹czania sieci dostêpowych do centrali
+to firmowy interfejs do pod³¹czania sieci dostêpowych do centrali
+jest interfejsem analogowego ³acza abonenckiego w sieci PSTN/1SDN
+opisuje koncepcjê nowego interfejsu sieci NGN

@@ -1,0 +1,7 @@
+X00101
+Podczas badania wra¿liwoœci urz¹dzeñ na wy³adowania elektrostatyczne metod¹ poœredni¹ stosuje siê wy³adowania do (wybierz dwie):
+przewodów zasilaj¹cych,
+przewodów interfejsowych,
+pionowej p³aszczyzny sprzêgaj¹cej,
+do obudowy urz¹dzenia,
+poziomej p³aszczyzny sprzêgaj¹cej,

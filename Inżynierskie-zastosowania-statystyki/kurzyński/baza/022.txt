@@ -1,0 +1,6 @@
+X0001
+Ryzyko średnie dla zero-jedynkowej funkcji strat, to:
+prawdopodobieństwo poprawnej klasyfikacji
+prawdopodobieństwo błędnej klasyfikacji
+średnie prawdopodobieństwo braku decyzji klasyfikatora
+prawdopodobieństwo popełnienia błędu średnio-kwadratowego

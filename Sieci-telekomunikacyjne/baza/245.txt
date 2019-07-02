@@ -1,0 +1,6 @@
+X0001
+OLT to:
+liniowy nadajnik optyczny
+optyczny dzielnik sygna³u
+optyczny zespó³ zarz¹dzania
+optyczne zakoñczenie liniowe

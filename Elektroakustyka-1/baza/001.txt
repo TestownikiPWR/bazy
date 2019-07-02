@@ -1,0 +1,6 @@
+X0100
+1. Stosunek sygna³u do szumu kwantyzacji dla n-bitowego kwantyzatora jest równy w przybli¿eniu:
+ SNR = 2n [dB]
+ SNR = 6n [dB]
+ SNR = 10n [dB]
+ SNR = 12n [dB]

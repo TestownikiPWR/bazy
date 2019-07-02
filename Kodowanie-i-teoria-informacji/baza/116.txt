@@ -1,0 +1,6 @@
+X1000
+Oblicz wartość funkcji Eulera dla liczby(13•7)
+72
+45
+28
+91

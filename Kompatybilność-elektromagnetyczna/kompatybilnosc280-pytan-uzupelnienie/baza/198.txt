@@ -1,0 +1,6 @@
+X0100
+Czas narostu impulsu EM po wybuchu nuklearnym:
+dziesi¹tki nanosekund
+czêœci dziesi¹te nanosekund
+dziesi¹tki mikrosekund
+czêœci dziesi¹te mikrosekund

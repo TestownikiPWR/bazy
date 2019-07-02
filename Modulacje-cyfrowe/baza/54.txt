@@ -1,0 +1,6 @@
+X1000
+52. Uszereguj w stopniu rosn¹cym modulacje wed³ug wydajnoœci widmowej(chyba):
+FSK, QAM, PSK, ASK
+QAM, PSK, ASK, FSK
+PSK, ASK, FSK, QAM,
+QAM, PSK, ASK, FSK

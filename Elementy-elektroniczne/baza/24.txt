@@ -1,0 +1,6 @@
+X0010
+Wy³¹czenie fototyrystora mo¿liwe jest dziêki: 
+a) zwiêkszeniu napiêcia anody 
+b) zwiêkszeniu pr¹du anodowego 
+c) zmianie biegunowoœci napiêcia zasilaj¹cego 
+d) zwiêkszeniu pr¹du bramki 

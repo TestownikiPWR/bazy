@@ -1,0 +1,5 @@
+﻿X0100
+Czy można wyznaczyć model uproszczony obiektu na podstawie jego wykresu odpowiedzi skokowej?
+nie
+tak
+tylko dla obiektu całkującego

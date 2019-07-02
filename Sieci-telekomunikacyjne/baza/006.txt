@@ -1,0 +1,6 @@
+X0010
+Fon jest to:
+poziom sygna³u, przy którym wystêpuj¹ minima energii widma akustycznego okreœlonego dŸwiêku
+ró¿nica pomiêdzy szczytowym poziomem sygna³u a œrednim poziomem sygna³u
+jednostka poziomu g³oœnoœci
+jedna z maksymalnych wartoœci energii widma dŸwiêku

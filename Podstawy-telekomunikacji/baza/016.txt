@@ -1,0 +1,6 @@
+X1000
+Szerokoœæ kana³u dla telefonii w systemie wielokrotnym:
+4 kHz
+9 kHz
+15 kHz
+3,4 kHz

@@ -1,0 +1,6 @@
+X1000
+65. Prêdkoœæ akustyczna:
+ Jest gradientem potencja³u akustycznego 
+ Jest dywergencj¹ potencja³u akustycznego
+ Jest rotacj¹ potencja³u akustycznego
+ Jest pochodn¹ potencja³u akustycznego po czasie

@@ -1,0 +1,6 @@
+X1000
+Planuj¹c wzrost sieci, gdzie w sieci powinny odbywaæ siê przechwytywania pakietów w celu oceny ruchu w sieci? 
+na jak najwiêkszej liczbie ró¿nych segmentów sieci  
+tylko na skraju sieci 
+miêdzy hostami a domyœln¹ bram¹ 
+tylko w najbardziej obci¹¿onym segmencie sieci 

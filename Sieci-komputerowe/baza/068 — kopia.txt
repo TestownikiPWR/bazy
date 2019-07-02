@@ -1,0 +1,7 @@
+X01100
+Jakie s¹ dwie us³ugi œwiadczone przez warstwê sieci OSI? (Wybierz dwa.) 
+wykonywanie wykrywania b³êdów 
+routing pakietów w kierunku miejsca docelowego 
+enkapsulacja PDU z warstwy transportowej 
+umieszczanie ramek na noœnikach 
+wykrywanie kolizji 

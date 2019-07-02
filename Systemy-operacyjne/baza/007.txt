@@ -1,0 +1,6 @@
+X1100
+Katalog urz¹dzenia:
+jest przechowywany na ka¿dym urz¹dzeniu pamiêci masowej
+zawiera informacje o plikach znajduj¹cych siê na danym urz¹dzeniu
+zawiera informacje o plikach znajdujacych sie na g³ównym dysku i innych urz¹dzeniach pamiêci masowej
+zawiera informacje o numerach przerwañ zainstalowanych urz¹dzeñ we-wy

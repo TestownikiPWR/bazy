@@ -1,0 +1,6 @@
+X0100
+Które klawisze dzia³aj¹ jako kombinacja klawiszy skrótu, która jest u¿ywana do przerwania procesu IOS?
+Ctrl-Shift-X
+Ctrl-Shift-6 
+Ctrl-Z
+Ctrl-C

@@ -1,0 +1,6 @@
+X0010
+Na styku S w kierunku NT-TE ramka jest wzglêdem ramki na kierunku TE-NT
+opóŸniona o 2 bity
+opóŸniona o 4 bity
+przyœpieszona o 2 bity
+nie ma przyœpieszenia alni opóŸnienia

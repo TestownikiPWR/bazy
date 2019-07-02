@@ -1,0 +1,6 @@
+X0010
+Do pomiarów pr¹dów zak³óceñ stosuje siê:
+cêgi absorpcyjne
+sieæ sztuczn¹
+transformator pr¹dowy
+anteny ramowe

@@ -1,0 +1,6 @@
+X0001
+Elementem którego cia³a prostego mo¿e byæ liczba 3? 
+CG(2) 
+CG(3) 
+CG(4) 
+CG(5)

@@ -1,0 +1,6 @@
+X0100
+Jak d³ugi jest czas negocjacji po³¹czenie w standardzie V.92?
+ 5 s
+ 10 s 
+ 20 s
+ 30 s

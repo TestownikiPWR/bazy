@@ -1,0 +1,6 @@
+X0110
+[img]3.jpg[/img]:
+B i C to filtry Ÿle t³umi¹ce zak³ócenia asymetryczne,
+A i D to nieprawid³owo zainstalowany filtr,
+D jest gorszym rozwi¹zaniem od C,
+B gorzej t³umi zak³ócenia ni¿ D,

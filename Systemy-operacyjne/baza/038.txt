@@ -1,0 +1,6 @@
+X1111
+Algorytm planisty krótkoterminowego wyw³aszczeniowy podejmuje decyzje, gdy któryœ z procesów:
+przechodzi od stanu aktywnoœci do stanu czekania
+przechodzi od stanu aktywnoœci do stanu gotowoœci
+przechodzi od stanu czekania do stanu gotowoœci
+koñczy dzia³anie

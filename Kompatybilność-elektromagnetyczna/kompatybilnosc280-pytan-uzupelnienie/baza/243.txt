@@ -1,0 +1,8 @@
+X111000
+[img]1.jpg[/img]:
+2 - warystor,
+3 - podwójna dioda zabezpieczajaca,
+1 - odgromnik,
+2 - surge arrester,
+3 - tyrystor,
+1 - warystor,

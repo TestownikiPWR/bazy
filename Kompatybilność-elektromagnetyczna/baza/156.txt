@@ -1,0 +1,7 @@
+X00110
+Generator udarowy 1,2/50 i 8/20 mikrosekund mo¿e byæ sprzêgany przewodami pod³¹czonymi do badanego urz¹dzenia poprzez: (wybierz dwa)
+Klamrê pojemnoœci¹
+Kondensator sprzêgaj¹cy
+Transformator pr¹dowy
+Cêgi elektromagnetyczne
+Cêgi absorpcyjne

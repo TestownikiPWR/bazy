@@ -1,0 +1,7 @@
+X00100
+Po wprowadzeniu zmian w konfiguracji administrator sieci wydaje polecenie running-config startup-config copy w prze³¹czniku Cisco. Jaki jest rezultat wydania tego polecenia?
+
+Nowa konfiguracja zostanie zapisana w pamiêci flash.
+Nowa konfiguracja zostanie za³adowana po ponownym uruchomieniu prze³¹cznika. 
+Obecny plik IOS zostanie zast¹piony nowo skonfigurowanym plikiem.
+Zmiany konfiguracji zostan¹ usuniête, a pierwotna konfiguracja zostanie przywrócona.

@@ -1,0 +1,6 @@
+X0100
+Modulacje impulsowe analogowe to:
+PAM, PWM, PDM, PFM
+PPM, PDM, PAM, PWM
+PAM, PCM, PDM, PWM
+DM, PAM, PPM, PWM

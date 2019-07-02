@@ -1,0 +1,8 @@
+X010100
+Je¿eli w polu bliskim Ÿród³a promieniowania elektromagnetycznego E/H>377 Ohm to (wybierz dwie): 
+mamy doczynienia ze sprzê¿eniem indukcyjnym
+mamy doczyczenia ze sprzê¿eniem pojemnoœciowym
+nie dominuje ¿adna sk³adowa pola EM
+dominuje pole elektryczne
+dominuje pole magnetyczne
+mamy doczynienia z fal¹ p³ask¹

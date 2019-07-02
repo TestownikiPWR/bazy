@@ -1,0 +1,6 @@
+﻿X0100
+Obiekt opisany równaniem różniczkowym y(t)=u’(t)*u(t) jest
+liniowy statyczny z czasem dyskretnym
+nieliniowy dynamiczny z czasem ciągłym
+nieliniowy statyczny z czasem dyskretnym
+liniowy dynamiczny z czasem ciągłym

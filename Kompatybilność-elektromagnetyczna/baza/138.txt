@@ -1,0 +1,6 @@
+X0110
+[img]6.jpg[/img]: Ktore z poni¿szych zdan poprawnie opisuja rysunek
+B gorzej t³umi zak³ócenia ni¿ D
+AiD przedstawiaj¹ nieprawid³owo zainstalowany filtr
+D jest gorszym rozwi¹zaniem ni¿ C
+BiC przedstawiaj¹ filtry Ÿle t³umi¹ce zak³óceniaasymetryczne

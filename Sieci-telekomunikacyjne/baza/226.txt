@@ -1,0 +1,3 @@
+X1
+Czy NGN charakteryzuje integracja czy separacja warstwy transportowej i sterowania
+odizolowanie warstwy transportowej od warstwy sterowania

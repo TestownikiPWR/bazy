@@ -1,0 +1,6 @@
+X0010
+Przy polaryzacji diody w kierunku przewodzenia dla ma³ych pr¹dów: 
+a) rezystancja z³¹cza RJ jest zaniedbywalnie ma³a 
+b) udzia³ rezystancji z³¹cza RJ i rezystancji pod³o¿a RB jest porównywalny 
+c) przewa¿a rezystancja z³¹cza RJ 
+d) przewa¿a rezystancja pod³o¿a RB 

@@ -1,0 +1,6 @@
+X0100
+Minimalne natê¿enie sygna³u UMTS w Polsce wynosi?
+1 W/m^2
+0,1 W/m^2
+0,01 W/m^2
+10 W/m^2

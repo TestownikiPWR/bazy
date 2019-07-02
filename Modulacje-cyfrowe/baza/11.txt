@@ -1,0 +1,5 @@
+X100
+11. Wzrost wartoœciowoœci M w systemie modulacji przy sta³ym stosunku S/N na wejœciu demodulatora powoduje:
+zwiêkszenie P(e)
+zmniejszenie P(e)
+wartoœæ P(e) nie zmieni sie

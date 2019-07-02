@@ -1,0 +1,6 @@
+X0010
+89. Pomiar mocy metoda absorbcyjna pozwala wyznaczyc
+a) moc pochlaniana przez zródlo
+b) moc oddawana przez miernik
+c) rezystancje dopasowania energetycznego odbiornika
+d) absorbcje mocy biernej w odbiorniku

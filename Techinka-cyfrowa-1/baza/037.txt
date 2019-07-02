@@ -1,0 +1,6 @@
+X1101
+[img]037.png[/img]
+dwójka licz¹ca
+dzielnik czêstotliwoœci przez 2
+dzielnik czêstotliwoœci przez 4
+licznik modulo 2

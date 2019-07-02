@@ -1,0 +1,6 @@
+﻿X0010
+Obiekt liniowy jest stabilny jeżeli:
+jego odpowiedź skokowa nie ma oscylacji
+jego sygnał wejściowy jest ograniczony
+jego odpowiedź impulsowa zanika do zera
+jego warunki początkowe są zerowe

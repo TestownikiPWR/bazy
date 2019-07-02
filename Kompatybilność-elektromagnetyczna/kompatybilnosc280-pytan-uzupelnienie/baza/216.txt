@@ -1,0 +1,6 @@
+X1000
+Ile wynosi minimalna wysokoœæ anteny na poligonie dla l=10m:
+1m
+2m
+1-4m
+2-6m

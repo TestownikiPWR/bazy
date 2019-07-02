@@ -1,0 +1,6 @@
+X1000
+Czym charakteryzuje siê DNS?
+Serwery DNS mog¹ buforowaæ ostatnie zapytania w celu zmniejszenia ruchu zapytañ DNS. 
+Serwery DNS s¹ zaprogramowane tak, aby odrzucaæ ¿¹dania t³umaczenia nazw, które nie znajduj¹ siê w ich strefie.
+Wszystkie serwery DNS musz¹ utrzymywaæ odwzorowania dla ca³ej struktury DNS.
+DNS opiera siê na topologii hub-and-spoke ze scentralizowanymi serwerami.

@@ -1,0 +1,3 @@
+﻿X1000
+W URA dla układu z obiektem stabilnym wzrost wzmocnienia powoduje: //Uchyb ustalony jest odwrotnie proporcjonalny do współczynnika wzmocnienia. Im lepsza (tj. większa) dokładność tym mniejszy uchyb ustalony. Wzrost wzmocnienia powoduje zmniejszenie uchybuwięc im większe wzmocnienie tym większa dokładność.
+polepszenie dokładności i pogorszenie zapasu stabilności 

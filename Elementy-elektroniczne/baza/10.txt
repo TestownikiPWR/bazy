@@ -1,0 +1,6 @@
+X1000
+W tranzystorze JFET typu N wzrost napiêcia UGS powoduje: 
+a) zmniejszenie pr¹du nasycenia drenu 
+b) zwiêkszenie pr¹du nasycenia drenu 
+c) wzrost pr¹du bramki 
+d) spadek pr¹du bramki 

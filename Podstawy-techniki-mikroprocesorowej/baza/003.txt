@@ -1,0 +1,6 @@
+X1010
+Pobór energii zwiêksza siê przy…
+wiêkszej czêstotliwoœci taktowania
+taktowaniu z wewnêtrznego generatora RC
+wy¿szym napiêciu zasilania
+wy³¹czaniu wewnêtrznych peryferii

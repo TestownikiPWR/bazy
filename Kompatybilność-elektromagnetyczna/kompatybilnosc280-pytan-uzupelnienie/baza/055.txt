@@ -1,0 +1,6 @@
+X1001
+Istotnymi parametrami (podawanymi przez normy) technicznymi symulatora ESD s¹:
+rezystancja wy³adowania
+indukcyjnoœæ rozproszona
+pojemnoœæ doprowadzeñ
+pojemnoœæ wy³adowania

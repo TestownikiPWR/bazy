@@ -1,0 +1,7 @@
+X00010
+Ramka jest przesy³ana z jednego urz¹dzenia sieciowego do drugiego. Dlaczego urz¹dzenie odbieraj¹ce sprawdza pole FCS w ramce?
+w celu okreœlenia fizycznego adresu urz¹dzenia wysy³aj¹cego
+w celu zweryfikowania informacji o protokole warstwy sieci
+aby porównaæ typ mediów interfejsu miêdzy koñcami wysy³ania i odbierania
+sprawdziæ ramkê pod k¹tem mo¿liwych b³êdów transmisji 
+aby sprawdziæ, czy docelowa ramka pasuje do adresu MAC urz¹dzenia odbieraj¹cego

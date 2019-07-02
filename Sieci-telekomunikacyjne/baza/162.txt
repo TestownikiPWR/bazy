@@ -1,0 +1,6 @@
+X0010
+W protokole LAP-D nie przewidziano typów ramki
+informacyjnej
+nadzorczej
+kontrolnej
+nienumerowanej

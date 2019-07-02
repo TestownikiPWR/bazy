@@ -1,0 +1,6 @@
+X1000
+Uklady ASIC to uklady:
+W których uzytkownik ma wplyw na strukture logiczna ukladu
+O strukturze niemodyfikowalnej po wyprodukowaniu
+Uklady  rodziny TTL
+Uklady rodziny ECL

@@ -1,0 +1,6 @@
+﻿X1000
+Obiekt opisany równaniem różniczkowym y(t)=u'(t) jest:
+liniowy dynamiczny z czasem ciągłym
+nieliniowy dynamiczny z czasem ciągłym
+nieliniowy statyczny z czasem dyskretnym
+liniowy statyczny z czasem dyskretnym

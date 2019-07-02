@@ -1,0 +1,6 @@
+X0010
+Ile wynosi maksymalne napiêcie w bezpoœrednim badaniu zaburzeñ (metoda stykowa):
+15kV
+20kV
+8kV
+4kV

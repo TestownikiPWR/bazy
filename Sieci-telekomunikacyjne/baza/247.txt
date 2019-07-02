@@ -1,0 +1,6 @@
+X0010
+W którym kablu sa tory niesymetryczne?
+czwórkowym
+parowym
+koncentrycznym
+stacyjnym

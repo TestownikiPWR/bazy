@@ -1,0 +1,6 @@
+X0010
+Wydaje siê, ¿e konkretna witryna telnet nie odpowiada na komputerze z systemem Windows 7. Jak¹ komendê mo¿e u¿yæ technik, aby wyœwietliæ wszystkie buforowane wpisy DNS dla tej strony internetowej?
+ipconfig / all
+Arp -a
+ipconfig / displaydns 
+nslookup

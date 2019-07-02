@@ -1,0 +1,6 @@
+X0010
+19. Komórek rzêsatych zewnêtrznych dla osoby o zdrowym s³uchu jest oko³o:
+ 3500
+ 10000
+ 25000
+ 50000

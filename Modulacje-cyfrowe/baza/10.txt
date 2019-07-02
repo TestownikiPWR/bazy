@@ -1,0 +1,5 @@
+X100
+10. Wzrost stosunku S/N na wejœciu demodulatora powoduje:
+zmniejszenie P(e)
+zwiekszenie P(e)
+wartosc P(e) nie zmieni sie

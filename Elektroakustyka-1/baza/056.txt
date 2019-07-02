@@ -1,0 +1,6 @@
+X1000
+56. Czêstotliwoœci drgañ w³asnych membrany ko³owej:
+ Nie s¹ harmoniczne wzglêdem czêstotliwoœci podstawowej
+ S¹ harmonicznymi czêstotliwoœci podstawowej wy³¹cznie rzêdów parzystych
+ S¹ harmonicznymi czêstotliwoœci podstawowej wy³¹cznie rzêdów nieparzystych
+ S¹ harmonicznymi czêstotliwoœci podstawowej wy³¹cznie rzêdów parzystych i nieparzystych

@@ -1,0 +1,6 @@
+X0010
+[img]4.jpg[/img]:
+Filtr nadpr¹dowy,
+Filtr zak³óceñ symetrycznych,
+Filtr zak³óceñ asymetrycznych,
+Filtr zak³óceñ ró¿nicowych,

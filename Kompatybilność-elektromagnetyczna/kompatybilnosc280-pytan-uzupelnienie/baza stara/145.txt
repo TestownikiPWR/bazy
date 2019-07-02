@@ -1,0 +1,6 @@
+X0010
+Skutecznoœæ filtru okreœla:
+T³umiennoœæ odbiciowa
+Progowe t³umienie napiêcia
+T³umiennoœæ wtr¹ceniowa
+Maksymalne napiêcie na wejœciu

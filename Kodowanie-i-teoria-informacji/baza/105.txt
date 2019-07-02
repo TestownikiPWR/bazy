@@ -1,0 +1,6 @@
+X0110
+Jakie s¹ cechy kodowania z korekcj¹ b³êdów w przód?
+¿¹da powtórzenia transmisji, jeœli iloœæ b³êdów przekroczy³a zdolnoœæ korekcyjn¹ kodu. 
+Do nadawanych s³ów informacyjnych dok³adamy jest nadmiar informacyjny umo¿liwiaj¹cy korekcjê b³êdów w dekoderze. 
+Koryguje b³êdy transmisji o ile jego dmin>2
+s³u¿y tylko i wy³¹cznie do detekcji b³êdów.

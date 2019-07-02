@@ -1,0 +1,6 @@
+X0100
+Moc strat na bramke w technologii CMOS
+Jest wieksza niz w TTL
+Jest okolo 3 rzedy mniejsza niz w TTL
+Jest porównywalna jak w TTL
+Jest niewiele mniejsza niz w TTL

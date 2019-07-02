@@ -1,0 +1,6 @@
+X0010
+Dostêp pierwotny ma strukturê
+23B+D
+12H+B
+30B+D
+16B+bD

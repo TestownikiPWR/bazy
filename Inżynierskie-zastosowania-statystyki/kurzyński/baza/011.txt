@@ -1,0 +1,3 @@
+X1
+Kiedy estymator jest asymptotycznie nieobci¹¿ony?
+Gdy estymator jest obci¹¿ony, a jego obci¹¿enie maleje do zera wraz ze wzrostem licznoœci próby

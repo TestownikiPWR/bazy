@@ -1,0 +1,6 @@
+X1000
+ System liczb motoroli        || jako oddzielenie
+% - binarnie|| $ - szesnastkowo|| ~  - ósemkowo ||sama liczba bez znaku - dec
+% - binarnie|| ~ - szesnastkowo|| $  - ósemkowo ||sama liczba bez znaku - dec
+$ - binarnie|| % - szesnastkowo|| ~  - ósemkowo ||sama liczba bez znaku - dec
+~ - binarnie|| $ - szesnastkowo|| %  - ósemkowo ||sama liczba bez znaku - dec

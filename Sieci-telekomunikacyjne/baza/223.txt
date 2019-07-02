@@ -1,0 +1,3 @@
+X1
+Rodzaje konfiguracji wyposa¿eñ abonenckich w ISDN
+punkt-punkt (gwiazd, krótka szyna pasywna, d³uga szyna pasywna

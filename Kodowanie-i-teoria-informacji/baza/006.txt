@@ -1,0 +1,6 @@
+X1010
+Do dekodowania korekcyjnego kodów cyklicznych mo¿na zastosowaæ:
+metodê polowania na b³êdy
+miêkkodecyzyjny algorytm Viterbiego 
+tablicê dekoduj¹c¹
+macierz kontroln¹

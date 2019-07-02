@@ -1,0 +1,6 @@
+X0101
+Jakoœæ modulacji cyfrowej okreœlaj¹:
+symbolowa stopa b³êdów; efektywnoœæ widmowa
+symbolowa stopa b³êdów; stosunek E/N
+przep³ywnoœæ binarna; stosunek E/N
+bitowa stopa b³êdów; stosunek E/N

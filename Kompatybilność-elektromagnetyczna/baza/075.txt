@@ -1,0 +1,6 @@
+X0010
+P³ytki drukowane z punktu widzenia zak³óceñ elektromagnetycznych powinny:
+mieæ dowolnie prowadzone œcie¿ki
+byæ zawsze specjalnie ekranowane
+byæ optycznie "nieprzeŸroczyste"
+mieæ wspóln¹ masê dla sygna³ów sta³opr¹dowych i linii sygna³owych

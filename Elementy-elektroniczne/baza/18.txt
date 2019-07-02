@@ -1,0 +1,6 @@
+X0100
+Wspó³czynnik wype³nienia FF ogniwa fotoelektrycznego definiowany jest jako: 
+a) bezwzglêdna ró¿nica miêdzy napiêciami nieobci¹¿onego i obci¹¿onego ogniwa fotoelektrycznego 
+b) stosunek mocy maksymalnej wydzielonej w obci¹¿eniu do maksymalnej mocy teoretycznej 
+c) stosunek pr¹du maksymalnego p³yn¹cego przez obci¹¿enie do pr¹du fotoelektrycznego 
+d) stosunek wytworzonej mocy elektrycznej do mocy padaj¹cego promieniowania 

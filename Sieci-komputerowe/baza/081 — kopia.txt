@@ -1,0 +1,6 @@
+X0100
+ W jaki sposób prze³¹cznik warstwy 3 ró¿ni siê od prze³¹cznika warstwy 2?
+Prze³¹cznik warstwy 3 obs³uguje sieci VLAN, ale prze³¹cznik warstwy 2 nie.
+Adres IP mo¿na przypisaæ do fizycznego portu prze³¹cznika warstwy 3. Jednak nie jest to obs³ugiwane w prze³¹cznikach warstwy 2. 
+Prze³¹cznik warstwy 3 utrzymuje tablicê adresów IP zamiast tabeli adresów MAC.
+Prze³¹cznik warstwy 3 uczy siê adresów MAC skojarzonych z ka¿dym z portów. Jednak prze³¹cznik warstwy 2 nie.

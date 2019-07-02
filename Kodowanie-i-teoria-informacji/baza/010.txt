@@ -1,0 +1,7 @@
+X00010
+Dany jest kod liniowy o parametrach (n, k), to syndrom bêdzie mia³ d³ugoœæ:
+n+k
+k
+n
+n-k
+n-k-1

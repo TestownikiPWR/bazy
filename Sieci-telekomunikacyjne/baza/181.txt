@@ -1,0 +1,6 @@
+X1111
+Co to jest w GSM-ie (Teorii komórek):
+Zespó³ komórek (Klastr – cluster) – zbiór N komórek s¹siaduj¹cych ze sob¹, w którym ka¿da ma inna czêstotliwoœæ lub grupê czêstotliwoœci (zbiór ten wyczerpuje dostêpne zasoby widmowe)
+Modu³em siatki – odleg³oœæ pomiêdzy œrodkami s¹siednich komórek
+Odleg³oœæ koordynacyjna – minimalna odleg³oœæ pomiêdzy œrodkami wspólnokana³owych komórek
+Promieñ komórki - to promieñ ko³a, w którym chcemy obs³ugiwaæ terminale ruchome z wymagan¹ jakoœci¹.

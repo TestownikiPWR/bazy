@@ -1,0 +1,6 @@
+X1000
+Jeœli pomno¿ymy macierz generuj¹c¹ G przez macierz kontroln¹ H^t, to otrzymamy: 
+macierz z³o¿onych z samych zer. 
+macierz z³o¿on¹ z samych jedynek.
+nie da siê pomno¿yæ. 
+syndrom.

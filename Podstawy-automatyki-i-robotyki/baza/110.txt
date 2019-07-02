@@ -1,0 +1,4 @@
+﻿X100
+Robot YuMi:
+robot złożony monolityczny
+robot złożony modułowy

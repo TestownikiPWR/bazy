@@ -1,0 +1,6 @@
+X0001
+Podstawow¹ grup¹ pierwotn¹ w systemie FDM jest grupa (…-kana³owa), zajmuj¹ca pasmo (…[kHz]):
+(5), (20)
+(10), (40)
+(6), (24)
+(12), (48)

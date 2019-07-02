@@ -1,0 +1,7 @@
+XX1000
+Trzech pracowników biurowych korzysta z sieci firmowej. Pierwszy pracownik korzysta z przegl¹darki internetowej, aby wyœwietliæ firmow¹ stronê internetow¹, aby przeczytaæ niektóre og³oszenia. Drugi pracownik
+uzyskuje dostêp do korporacyjnej bazy danych w celu wykonania niektórych transakcji finansowych. Trzeci pracownik bierze udzia³ w wa¿nej konferencji audio na ¿ywo z innymi pracownikami biurowymi w oddzia³ach. Jeœli w tej sieci wdro¿ono QoS, jakie bêd¹ priorytety od najwy¿szego do najni¿szego spoœród ró¿nych typów danych?
+konferencja audio, transakcje finansowe, strona internetowa 
+transakcje finansowe, strona internetowa, konferencja audio
+konferencja audio, strona internetowa, transakcje finansowe
+transakcje finansowe, konferencja audio, strona internetowa

@@ -1,0 +1,6 @@
+X0001
+78. Zwiekszenie zasiegu interfejsu RS-232C uzyskuje sie
+a) redukujac liczbe nadajników do jednego
+b) redukujac liczbe odbiorników do jednego
+c) stosujac ekspandery
+d) stosujac petle pradowa

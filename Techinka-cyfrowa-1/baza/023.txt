@@ -1,0 +1,6 @@
+X1011
+Przerzutnik to:
+uk³ad sekwencyjny
+uk³ad kombinacyjny
+automat elementarny o pamiêci jednego bitu
+automat Moore’a

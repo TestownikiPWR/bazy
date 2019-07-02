@@ -1,0 +1,6 @@
+X1100
+Prze³¹czanie kontekstu:
+wykonywane jest przez program koordynuj¹cy (dispatcher)
+polega na prze³¹czeniu siê do innego procesu (zapisanie bloku kontrolnego starego procesu i wczytanie bloku kontrolnego nowego)
+wykorzystywane jest w stronicowaniu na ¿¹danie w przypadku braku wolnych ramek
+polega na wyborze kolejnych danych ze spoolera

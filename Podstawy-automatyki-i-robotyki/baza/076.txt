@@ -1,0 +1,3 @@
+﻿X1000
+Podaj warunek konieczny i wystarczający stabilności asymptotycznej układu liniowego.
+Wszystkie pierwiastki równania charakterystycznego mają ujemną część rzeczywistą (leżą w lewej półpłaszczyźnie zmiennej zespolonej)

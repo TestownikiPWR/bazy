@@ -1,0 +1,7 @@
+X00100
+Host bezprzewodowy musi za¿¹daæ adresu IP. Jaki protokó³ by³by u¿ywany do przetwarzania ¿¹dania? 
+FTP 
+HTTP 
+DHCP 
+ICMP 
+SNMP 

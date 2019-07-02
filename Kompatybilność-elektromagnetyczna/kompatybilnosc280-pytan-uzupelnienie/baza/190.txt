@@ -1,0 +1,6 @@
+X1000
+Pojemnoœæ cz³owieka brana pod uwagê przy obliczeniach:
+150pF (80-500pF)
+1500mF
+300mF
+3000mF

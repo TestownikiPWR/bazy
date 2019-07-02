@@ -1,0 +1,8 @@
+X100100
+[img]10.jpg[/img]:
+element zwieraj¹cy
+filtr dolnoprzepustowy
+element ograniczaj¹cy
+surge arrester
+piorunochron
+warystor

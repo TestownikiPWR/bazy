@@ -1,0 +1,6 @@
+X0001
+Zmienna losowa X ma wartoœæ oczekiwan¹ 0 i wariancjê 1. Ile wynosi wariancja zmiennej losowej Y = X + 12?
+12
+10
+0.5
+1

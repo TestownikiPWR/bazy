@@ -1,0 +1,6 @@
+X0001
+Przep³ywnoœæ binarna systemu PCM-30 wynosi:
+8,448 Mb/s
+6,34 Mb/s
+1,544 Mb/s
+2,044 Mb/s

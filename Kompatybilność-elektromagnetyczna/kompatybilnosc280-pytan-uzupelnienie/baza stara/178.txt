@@ -1,0 +1,6 @@
+X1000
+Ziemie/p³ytê odniesienia (lub coœ podobnego) ³¹czymy :
+dwoma rezystorami 470k
+dwoma rezystorami 100k
+jednym rezystorem 470k lub 100k
+uziemiamy

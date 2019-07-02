@@ -1,0 +1,6 @@
+X0100
+Dopuszczalna quasiszczytowa wartoœc natê¿enia pola zak³óceñ w zakresie 230 - 1000MHz wg. CISPR (Publ.22) zawiera siê w przedziale:
+20-30 dB
+30-40 dB
+40-50 dB
+50-60 dB

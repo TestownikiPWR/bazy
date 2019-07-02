@@ -1,0 +1,6 @@
+X1000
+Jakie s¹ rodzaje systemów wielokrotnych?
+FDM, TDM, CDM, PDM, SDM, MIMO
+CDM, PAM, FDM, TDM, MIMO
+FDM, TDM, PDM, PCM
+TDM, FDM, PCM, SDM, PDM

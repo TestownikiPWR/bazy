@@ -1,0 +1,6 @@
+X1000
+Co robi¹ zak³ócenia dalekie:
+Ci¹g³y szum o znacznie ni¿szym poziomie ni¿ zak³ócenia lokalne
+Ci¹g³y szum o znacznie wy¿szym poziomie ni¿ zak³ócenia lokalne
+Ci¹g³y szum takim samym poziomie jak zak³ócenia lokalne
+Nie robi¹ nic

@@ -1,0 +1,5 @@
+﻿X0100
+Robot o dwóch modułach klasy IV i dwóch klasy V ma ile stopni swobody? // w=p1*(6-i1)+p2*(6-i2)+..., p - liczba modułów, i - klasa
+8
+6
+4

@@ -1,0 +1,6 @@
+X0010
+Tlumiennoœæ odniesienia g³oœnoœci:
+ okreŒla t³umienie ca³ego toru transmisyjnego
+ dla toru cyfrowego jest wiêksza ni¿ dla analogowego
+ charakteryzuje t³umienie dŸwiêków mowy przesy³anych przez badany czwórnik 
+ jest równa œredniej wa¿onej t³umiennoœci skroœnych czwórnika

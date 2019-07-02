@@ -1,0 +1,6 @@
+X0100
+Sieci sztuczne s¹ stosowane do pomiarów:
+natê¿enia pola zak³óceñ
+napiêcia zak³óceñ
+pr¹du zak³óceñ
+mocy zak³óceñ

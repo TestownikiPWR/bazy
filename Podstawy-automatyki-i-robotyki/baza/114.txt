@@ -1,0 +1,5 @@
+﻿X010
+Która z metod nawigacji dla AGV (Automated Guided Vehicle) jest stosowana w wózkach Elettric80?
+metoda sonarowa
+metoda laserowa
+metoda GPS

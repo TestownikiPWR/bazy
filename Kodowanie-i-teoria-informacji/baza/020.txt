@@ -1,0 +1,6 @@
+X1100
+Jak mo¿na obliczyæ minimaln¹ odleg³oœæ Hamminga w zbiorze s³ów kodowych?
+znajduj¹c s³owo kodowe w zbiorze s³ów kodowych o najmniejszej wadze Hamminga z pominiêciem s³owa z³o¿onego z samych zer. Waga Hamminga tego s³owa jest odleg³oœci¹ minimaln¹ w zbiorze s³ów kodowych
+sprawdzaj¹c odleg³oœci pomiêdzy wszystkimi s³owami kodowymi i wybieraj¹c odleg³oœæ najmniejsz¹
+znajduj¹c s³owo kodowe w zbiorze s³ów kodowych o najmniejszej wadze Hamminga. Waga Hamminga tego s³owa jest odleg³oœci¹ minimaln¹ w zbiorze s³ów kodowych
+znajduj¹c najmniejsz¹ liczbê wierszy macierzy generuj¹cej sumuj¹cej siê do zera

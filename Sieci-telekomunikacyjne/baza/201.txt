@@ -1,0 +1,6 @@
+X1000
+Efektywne korzystanie z sieci wymaga komutacji w rozproszonych sieciach telekomunikacyjnych o heterogonicznym charakterze wykonywanej przez prze³¹czanie
+komórek pakietów kana³ów
+obwodów central
+terminali sta³ych, ruchomych, sieci
+sieci dostêpowej, krêgos³upowej, urz¹dzeñ koñcowych

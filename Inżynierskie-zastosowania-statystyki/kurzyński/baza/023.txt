@@ -1,0 +1,6 @@
+X0010
+Esymator nieobciążony:
+Posiada zerową wariancję
+Jest zbieżny do estymowanego parametru
+Jego wartość oczekiwana jest równa estymowanemu parametrowi
+Jego realizacja jest równa estymowanemu parametrowi

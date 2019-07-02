@@ -1,0 +1,6 @@
+X0010
+Transformator pr¹dowy umo¿liwia pomiar pr¹du zak³óceñ dziêki:
+mo¿liwoœci pod³¹czenia sieci sztucznej typu V
+znajomoœci przek³adni transformatora w funkcji czêstotliwoœci ???
+mo¿liwoœci pod³¹czenia odbiornika pomiarowego
+mo¿liwoœci pod³¹czenia sieci sztucznej typu delta

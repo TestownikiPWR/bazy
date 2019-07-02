@@ -1,0 +1,6 @@
+X0100
+70. Pomiar mocy metoda absorbcyjna umozliwia okreslenie
+a) mocy czynnej i mocy biernej
+b) mocy czynnej i rezystnacji dopasowania
+c) mocy pozornej i mocy biernej
+d) mocy pozornej i rezystnacji dopasowania

@@ -1,0 +1,5 @@
+X100
+Pierwszy 4 bitowy procesor:
+Intel 4004 - 1971
+Intel 2002 - 1971
+Intel 8008 - 1972

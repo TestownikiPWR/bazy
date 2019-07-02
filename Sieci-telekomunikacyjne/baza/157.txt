@@ -1,0 +1,6 @@
+X0010
+Na styku S dostêpu podstawowego impulsy nadawane maja amplitudê
+1,5V
+150mV
+750mV
+3V

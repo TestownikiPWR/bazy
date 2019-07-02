@@ -1,0 +1,7 @@
+X10010
+Minimalizujemy rozpraszanie elektromagnetyczne w torach przemys³owych przez (wybierz dwa):
+ekranowanie torów kablowych,
+pupinizacjê torów kablowych,
+wstawianie filtrów górnoprzepustowych w tor kablowych,
+stosowanie transformatorów separuj¹cych w torach kablowych,
+symetryzacja torów kablowych,

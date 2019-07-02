@@ -1,0 +1,6 @@
+X1000
+Ziemiê odniesienia w pomiarach kompatybilnoœci stosuje siê w celu:
+standaryzacji impedancji i zapewnienia jednakowych warunków propagacji fal
+u³atwienia poruszania siê obs³udze
+eliminacji zak³óceñ
+uzyskania filtracji zak³óæeñ

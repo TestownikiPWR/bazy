@@ -1,0 +1,6 @@
+X1000
+23. Uk³ad o n stopniach swobody ma:
+ Dok³adnie n czêstotliwoœci w³asnych
+ N lub mniej czêstotliwoœci w³asnych
+ Wiêcej ni¿ n czêstotliwoœci w³asnych
+ Informacja o liczbie stopni swobody nie jest istotna dla wyznaczenia liczby czêstotliwoœci w³asnych

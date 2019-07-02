@@ -1,0 +1,6 @@
+X0100
+76. W rezonatorze zamkniêtym na jednym koñcu i otwartym na drugim:
+ Czêstotliwoœci w³asne wy¿szych rzêdów s¹ harmonicznymi czêstotliwoœci podstawowej zarówno parzystymi, jak i nieparzystymi
+ Czêstotliwoœci w³asne wy¿szych rzêdów s¹ wy³¹cznie nieparzystymi harmonicznymi czêstotliwoœci podstawowej
+ Czêstotliwoœci w³asne wy¿szych rzêdów s¹ wy³¹cznie parzystymi harmonicznymi czêstotliwoœci podstawowej
+ Czêstotliwoœci w³asne wy¿szych rzêdów nie s¹ harmoniczne w stosunku do czêstotliwoœci podstawowej

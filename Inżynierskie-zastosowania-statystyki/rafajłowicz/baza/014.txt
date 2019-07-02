@@ -1,0 +1,6 @@
+X0100
+Wartoœæ oczekiwana rozk³adu równomiernego na odcinku [0,1] wynosi
+-0.5
+0.5
+0
+1

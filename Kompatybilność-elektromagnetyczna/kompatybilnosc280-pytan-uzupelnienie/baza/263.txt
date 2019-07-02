@@ -1,0 +1,6 @@
+X1000
+15. Minimalna wysokoœæ zawieszenia anteny pomiarowej podczas pomiaru zaburzeñ promieniowanych z odleg³oœci 10 m:
+wynosi 1 m Wyk³ad strona 40,
+wynosi 2m,
+zmienia siê od 1 m do 4 m,
+zmienia siê od 2 m do 6 m,

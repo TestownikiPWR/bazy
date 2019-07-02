@@ -1,0 +1,6 @@
+X1000
+Impedancja sieci sztucznej w zakresie czêstotliwoœci 150kHz - 30MHz wynosi:
+50 Ohm
+jest funkcj¹ czêstotliwoœci
+150 Ohm
+1 MOhm

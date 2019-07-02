@@ -1,0 +1,6 @@
+X1010
+Architektura von Neumanna
+to wspólna pamiêæ danych i rozkazów
+to rozdzielona pamiêæ danych i rozkazów
+rozkazy mo¿na edytowaæ jak dane
+rozkazów nie mo¿na edytowaæ

@@ -1,0 +1,10 @@
+X11111111
+Czym siê charakteryzuje CISC:
+du¿a z³o¿onoœæ rozkazów (instrukcji)
+ma³a optymalizacja – niektóre rozkazy potrzebuj¹ du¿ej liczby cykli procesora do wykonania
+wystêpowanie z³o¿onych, specjalistycznych rozkazów
+du¿a liczba trybów adresowania
+do pamiêci mo¿e siê odwo³ywaæ bezpoœrednio du¿a liczba rozkazów
+mniejsza od RISC czêstotliwoœæ taktowania procesora
+powolne dzia³anie dekodera rozkazów
+Ka¿dy rozkaz mo¿e wykonaæ kilka operacji niskiego poziomu, jak na przyk³ad pobranie z pamiêci, operacjê arytmetyczn¹, albo zapisanie do pamiêci.

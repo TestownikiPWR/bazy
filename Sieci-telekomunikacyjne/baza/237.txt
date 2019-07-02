@@ -1,0 +1,6 @@
+X0010
+W cyfrowych sieciach telefinformatycznych prze³¹czanie informacji polega na prze³¹czaniu"
+komórek, protoko³ów, kana³ów
+³¹czy, pakietów, kana³ów
+datagramów, pakietów, kana³ów
+komórek, pakietów, kana³ów

@@ -1,0 +1,6 @@
+X0100
+Zmienne losowe X i Y sa niezalezne i obie maja rozklady normalne. Jaki rozklad ma zmienna losowa X + Y ?
+t-Studenta
+Normalny
+x^2 o dwóch stopniach swobody
+x^2 o jednym stopniu swobody

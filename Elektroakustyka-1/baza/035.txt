@@ -1,0 +1,6 @@
+X0100
+35. Charakterystyka kierunkowoœci Ÿród³a jest okreœlana:
+ W polu bliskim Ÿród³a
+ W polu dalekim
+ W polu bliskim dla ma³ych czêstotliwoœci (ka<<1), a w polu dalekim dla du¿ych czêstotliwoœci (ka>>1)
+ Nie zale¿y od tego czy pole jest bliskie czy dalekie

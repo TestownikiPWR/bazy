@@ -1,0 +1,6 @@
+X0010
+88. Sygna³em steruj¹cym bramk¹ miernika malych czêstotliwoœci jest:
+a) Sygna³ generatora wzorcowego
+b) Sygna³ licznika
+c) Sygna³ badany
+d) Sygna³ zak³óceñ

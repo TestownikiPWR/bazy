@@ -1,0 +1,6 @@
+X0010
+Minimalne wymiary p³aszczyzny odniesienia wg CISPR (Publ. 22) wynosz¹:
+0,8 x 0,8 m
+1 x 1 m
+2 x 2 m
+4 x 4 m

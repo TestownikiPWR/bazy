@@ -1,0 +1,6 @@
+X0110
+Linia INT0 mo¿e s³u¿yæ do… 
+ sterowania prac¹ licznika T0
+ wybudzania mikrokontrolera ze stanu uœpienia
+ generowaniu przerwañ zewnêtrznych
+ wyprowadzania na zewn¹trz … zegarowego

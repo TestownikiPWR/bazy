@@ -1,0 +1,6 @@
+X1000
+Który z liczników ma wiêksz¹ czêstotliwoœæ pracy:
+licznik synchroniczny
+licznik asynchroniczny
+s¹ jednakowo szybkie
+trudno powiedzieæ

@@ -1,0 +1,3 @@
+﻿X1000
+Transmitancja operatorowa to: //stosunek transformaty Laplace’a sygnału wyjścia do transformaty Laplace’a sygnału wejścia
+rodzaj opisu dynamiki 

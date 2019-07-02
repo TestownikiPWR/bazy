@@ -1,0 +1,7 @@
+X00010
+Co siê stanie, jeœli domyœlny adres bramy zostanie nieprawid³owo skonfigurowany na hoœcie?
+Host nie mo¿e komunikowaæ siê z innymi hostami w sieci lokalnej.
+Prze³¹cznik nie bêdzie przekazywa³ pakietów zainicjowanych przez hosta.
+Host bêdzie musia³ u¿yæ ARP, aby okreœliæ poprawny adres domyœlnej bramy.
+Host nie mo¿e komunikowaæ siê z hostami w innych sieciach. 
+Pingowanie z hosta do 127.0.0.1 nie powiedzie siê

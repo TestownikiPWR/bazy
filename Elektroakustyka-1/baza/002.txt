@@ -1,0 +1,6 @@
+X1000
+2. Prêdkoœæ dŸwiêku w gazach:
+ Jest proporcjonalna do pierwiastka kwadratowego z temperatury bezwzglêdnej
+ Jest proporcjonalna do temperatury bezwzglednej
+ Jest odwrotnie proporcjonalna do pierwiastka kwadratowego z temperatury bezwzglêdnej
+ Jest odwrotnie proporcjonalna do temperatury bezwzglêdnej

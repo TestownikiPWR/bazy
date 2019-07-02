@@ -1,0 +1,6 @@
+X0001
+Czy wektory bazowe przestrzeni musz¹ byæ ortogonalne 
+tak ponadto musza byæ linowo niezale¿ne 
+nie pod warunkiem ze jest ich wiecej ni¿ 2 
+tak 
+nie

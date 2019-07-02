@@ -1,0 +1,6 @@
+X0100
+3. Pomiarowi towarzyszy:
+a) zwiêkszanie entropii informacji
+b) przewa¿anie noœnika informacji
+c) transport informacji z odbiornika do Ÿród³a
+d) transport entropii z odbiornika do Ÿród³a

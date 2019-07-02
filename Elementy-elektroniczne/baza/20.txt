@@ -1,0 +1,6 @@
+X0001
+Które z poni¿szych stwierdzeo nie jest prawdziwe. Tranzystor FET w porównaniu z tranzystorem bipolarnym ma: 
+a) wiêksz¹ impedancjê wejœæ
+b) mniejsze zak³ócenia 
+c) gorsze w³aœciwoœci w zakresie wielkich czêstotliwoœci 
+d) du¿o gorsz¹ skalê integracji uk³adu scalonego 

@@ -1,0 +1,6 @@
+X0001
+50. Najwiêksz¹ szerokoœci pasma czêstotliwoœci, przy ustalonym stosunku S/n na wejœciu demodulatora, ustalonej szybkoœci transmisji Rs oraz okreœlonej jakoœci transmisji P(e) , bêd¹ zajmowa³y sygna³y:
+ASK
+PSK
+QAM
+FSK

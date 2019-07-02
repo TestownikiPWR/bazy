@@ -1,0 +1,6 @@
+X0001
+43. Jednostk¹ natê¿enia dŸwiêku jest:
+ W-m
+ W-m^2
+ W/m
+ W/m^2

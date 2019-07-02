@@ -1,0 +1,6 @@
+X0001
+22. Efektem zastosowania integratora w ca³kuj¹cych przetwornikach A/C jest:
+a) Krótszy czas przetwarzania i zró¿nicowanie zak³óceñ okresowych
+b) D³u¿szy czas przetwarzania i zró¿nicowanie zak³óceñ okresowych
+c) Krótszy czas przetwarzania i zredukowanie zak³óceñ okresowych
+d) D³u¿szy czas przetwarzania i zredukowanie zak³óceñ okresowych

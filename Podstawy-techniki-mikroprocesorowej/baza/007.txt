@@ -1,0 +1,6 @@
+X1000
+Cech¹ charakterystyczn¹ 8051 i œrodowiska Keil by³o umieszczenie programu monitora w pamiêci…
+CODE
+EPROM
+RAM
+DATA

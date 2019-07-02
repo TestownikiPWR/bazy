@@ -1,0 +1,6 @@
+X0010
+Na czym polega zwielokrotnienie falowe WDM
+ na równoczesnej transmisji wielu fal o ró¿nych d³ugoœciach w okreœlonych odstêpach czasu
+ na równoczesnej transmisji wielu fal o ró¿nych d³ugoœciach, ale ka¿da fala transmitowana jest oddzielnym w³óknem œwiat³owodowym
+ na równoczesnej transmisji wielu fal o ró¿nych d³ugoœciach przez jeden kana³ transmisyjny 
+ na transmisji jednej fali o sta³ej d³ugoœci, która jest powielana w urz¹dzeniach zwanych multiplekserami

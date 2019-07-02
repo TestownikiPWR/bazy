@@ -1,0 +1,6 @@
+﻿X0001
+Robot ma 2 przeguby 4 klasy i 3 przeguby 5 klasy. Jaka jest ruchliwość? // r=6*(n-1)-Σ(i*p), w - stopnie swobody, n - liczba ruchomych członów (par) łańcucha (w przypadku ruchliwości i manewrowości zwiększamy o 1), i - klasa, p - liczba połączeń (przegubów) i-tej klasy
+sześć
+pięć
+trzy
+siedem

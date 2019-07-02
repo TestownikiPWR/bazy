@@ -1,0 +1,6 @@
+X0010
+79. Zródlem bledu systematycznego pomiaru natezenia pradu stalego jest
+a) przeplyw pradu przez amperomierz
+b) przeplyw pradu przez woltomierz
+c) spadek napiecia na amperomierzu
+d) spadek napiecia na woltomierzu

@@ -1,0 +1,6 @@
+X1000
+Obecnie stosuje siê systemy wielokrotne:
+SDM, FDM, TDM, CDM 
+CDM, PAM, FDM, TDM
+FDM, TDM, PDM, PCM
+DM, FDM, PCM, SDM

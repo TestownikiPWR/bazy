@@ -1,0 +1,6 @@
+X1010
+Granica mo¿liwoœci (Eb/No [dB]) transmisji cyfrowych, z równania Shanona, wynosi:
+ln (2), dla Rs/W=0
+0, dla Rs/W=1
+- 1,6 dB, dla Rs/W=0
+1,6 dB, dla Rs/W=0

@@ -1,0 +1,6 @@
+X0100
+Wielomian generacyjny kodu cyklicznego protoko³u HDLC w kanale D jest okreœlony zaleznoœci¹ (liczby w potêgach):
+x8+x6+x4+x2
+x16+x12+x5+1
+x20+x16+x8+1
+x3+x2+x1+1

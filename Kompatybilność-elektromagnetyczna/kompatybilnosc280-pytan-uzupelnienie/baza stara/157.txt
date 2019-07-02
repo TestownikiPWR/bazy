@@ -1,0 +1,6 @@
+X0100
+Amplitudy impulsów pola elektrycznego Ziemi powstaj¹cych podczas wybuchu j¹drowego na du¿ej wysokoœci siêgaj¹:
+15 kV/m
+50 kV/m  (taka jest zalecana do obliczeñ wartoœæ, bo siêgaj¹ do 100kV/m)
+200 kV/m
+8 kV/m

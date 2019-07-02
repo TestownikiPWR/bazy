@@ -1,0 +1,6 @@
+X0010
+Bezpoœrednia metoda badania wra¿liwoœci urz¹dzeñ na ci¹g³e pole elektromagnetyczne polega na:
+Podaniu na wej. sygna³owe impulsu napiêciowego o postaci ci¹g³ej fali modulowanej tonem 1 kHz
+Umieszczeniem badanego urz¹dzenia w przestrzeni pomiarowej komory TEM pobudzanej gen. Fali ci¹g³ej
+Umieszczeniem badanego urz¹dzenia w przestrzeni pomiarowej symulatora równoleg³o p³ytowego
+Umieszczeniem badanego urz¹dzenia w przestrzeni pomiarowej komory GTEM pobudzanej gen. Impulsowym

@@ -1,0 +1,6 @@
+X0100
+D³ugoœæ przedzia³u ufnoœci w estymacji przedzia³owej
+zale¿y wprost proporcjonalnie od rozmiaru próby
+zale¿y odwrotnie proporcjonalnie od rozmiaru próby
+nie zale¿y od rozmiaru próby
+dla ma³ej próby (n<30) zale¿y wprost proporcjonalnie, dla du¿ej próby (n>30) odwrotnie proporcjonalnie

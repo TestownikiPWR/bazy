@@ -1,0 +1,7 @@
+X10100
+Podstawowymi parametrami impulsu elektromagnetycznego powstaj¹cego podczas wybuchu j¹drowego na du¿ej wysokoœci to (wybierz dwie)
+czas narastania impulsu<10ns, czas trwania impulsu <100ns
+E<10 kV/m, H<50A/m
+E<100 kV/m, H<300A/m
+E<40 kV/m, H<200A/m
+czas narastania impulsu<5ns, czas trwania impulsu <200ns

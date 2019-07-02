@@ -1,0 +1,6 @@
+X0001
+Jakie urz¹dzenie s³u¿y do pomiaru zak³óceñ przewodzonych wed³ug CISPR 16:
+analizator widma
+oscylator widma
+pikowoltomierz
+odbiornik pomiarowy

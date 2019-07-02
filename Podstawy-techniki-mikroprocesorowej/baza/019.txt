@@ -1,0 +1,6 @@
+X1110
+Do jakich zastosowañ nadaj¹ siê liczniki?
+A. Zliczanie czasu pomiêdzy zdarzeniami
+B. Zliczanie zewnêtrznych zdarzeñ
+C. Generowanie zdarzeñ w okreœlonych odstêpach czasu
+D. Generowanie zadanej liczby zdarzeñ

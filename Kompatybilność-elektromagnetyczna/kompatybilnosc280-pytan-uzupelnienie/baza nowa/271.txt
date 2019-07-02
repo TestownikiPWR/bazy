@@ -1,0 +1,6 @@
+X0010
+Badanie odpornoœci na zaburzenia elektromagnetyczne rozchodz¹ce siê drog¹ przewodow¹ prowadzone s¹ ze wzglêdu na:
+Ograniczenia pr¹dowe w kablach zasilaj¹cych urz¹dzenia,
+Detektor wartoœci œredniej,
+T³umione przebiegi sinusoidalne
+Zaburzenia przewodzone indukowane przez pola o czêstotliwoœci akustycznej,

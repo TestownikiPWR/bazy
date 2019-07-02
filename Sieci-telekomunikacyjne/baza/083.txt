@@ -1,0 +1,6 @@
+X0010
+Jaki protokó³ sygnalizacyjny wykorzystywany jest w kanale sygnalizacyjnym D?
+ TCP/IP
+ IPX
+ DSS1
+ HTTP

@@ -1,0 +1,6 @@
+X0010
+Bramka TTL zbudowana jest:
+Z tranzystorów unipolarnych
+Z tranzystorów unipolarnych i bipolarnych
+Z tranzystorów bipolarnych
+Tylko z elementów pasywnych

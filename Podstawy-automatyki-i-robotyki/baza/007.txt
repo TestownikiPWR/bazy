@@ -1,0 +1,5 @@
+﻿X1000
+Jak wykonywane są instrukcje w sterowniku PLC?
+krokowo
+cyklicznie >10min
+cyklicznie <100ms

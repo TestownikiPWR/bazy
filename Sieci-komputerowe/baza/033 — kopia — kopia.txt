@@ -1,0 +1,6 @@
+X0100
+U¿ytkownik otwiera trzy przegl¹darki na tym samym komputerze, aby uzyskaæ dostêp do strony www.cisco.com w celu wyszukania informacji o kursie certyfikacyjnym. Serwer sieciowy Cisco wysy³a datagram jako odpowiedŸ na ¿¹danie z jednej z przegl¹darek internetowych. Jakie informacje s¹ u¿ywane przez stos protoko³u TCP / IP na komputerze, aby okreœliæ, która z tych przegl¹darek powinna otrzymaæ odpowiedŸ? 
+docelowy adres IP
+numer portu docelowego  
+Ÿród³owy adres IP 
+numer portu Ÿród³owego 

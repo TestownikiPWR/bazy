@@ -1,0 +1,6 @@
+X0110
+Rejestr n-bitowy to:
+uk³ad kombinacyjny
+grupa n przerzutników o wspólnych sygna³ach steruj¹cych, s³u¿¹cych do przechowywania (pamiêtania) n wartoœci binarnych
+uk³ad sekwencyjny
+uk³ad synchroniczny

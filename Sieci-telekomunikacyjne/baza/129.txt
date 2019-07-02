@@ -1,0 +1,6 @@
+X0010
+D³ugoœæ mkrótkiej szyny pasywnej jest ograniczona przez:
+liczbê do³¹czonych terminali
+ró¿nicê t³umiennoœci toru miêdzy terminalem nadawczym i najbli¿szym zespo³em NT
+ró¿nicê opóŸnienia wygna³u z terminala najdalszego i najbli¿szego a zespo³em NT
+mo¿liwoœciami ruchowymi centrali i zakresu œwiadczonych us³ug

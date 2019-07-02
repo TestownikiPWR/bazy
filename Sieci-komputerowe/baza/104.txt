@@ -1,0 +1,6 @@
+X0100
+Jakie typy adresów stanowi¹ wiêkszoœæ adresów w przestrzeni bitowej / 8 bloku IPv4?
+adresy prywatne
+adresy publiczne 
+adresy multiemisji
+adresy eksperymentalne

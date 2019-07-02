@@ -1,0 +1,6 @@
+X0100
+7. Wzorzec pierwotny rezystancji zawiera:
+a) Z³¹cze Josephsona
+b) P³ytkê pó³przewodnikow¹ w sta³ym polu magnetycznym
+c) P³ytkê pó³przewodnikow¹ w sta³ym polu elektromagnetycznym
+d) Wzorzec kwantu

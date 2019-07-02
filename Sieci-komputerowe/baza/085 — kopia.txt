@@ -1,0 +1,7 @@
+X10100
+Które dwa stwierdzenia opisuj¹ w³aœciwoœci okablowania œwiat³owodowego? (Wybierz dwa.)
+Okablowanie œwiat³owodowe nie przewodzi pr¹du. 
+Okablowanie œwiat³owodowe ma wysok¹ utratê sygna³u.
+Okablowanie œwiat³owodowe jest przede wszystkim stosowane jako okablowanie szkieletowe. 
+Wielomodowe okablowanie œwiat³owodowe przenosi sygna³y z wielu urz¹dzeñ wysy³aj¹cych.
+Okablowanie œwiat³owodowe wykorzystuje diody LED do kabin jednomodowych i technologii laserowej do kabli wielomodowych 

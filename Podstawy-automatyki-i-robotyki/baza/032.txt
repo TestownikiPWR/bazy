@@ -1,0 +1,5 @@
+﻿X0100
+Człon proporcjonalny jest członem:
+pierwszego rzędu
+zerowego rzędu
+drugiego rzędu

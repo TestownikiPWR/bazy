@@ -1,0 +1,6 @@
+X1000
+83. Zadaniem ukladu wejsciowego miernika czestotliwosci jest
+a) èwytworzenie impulsÛw wyjsciowych o czestotliwosci takiej jak wejsciowa
+b) èwytworzenie impulsÛw wejsciowych o okresie takim jak wyjsciowy
+c) èpodzielenie czestotliwosci przez calkowita potege liczby 10
+d) èpomnozenie okresu przez calkowita potege liczby 10

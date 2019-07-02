@@ -1,0 +1,5 @@
+X100
+16. Wzrost szybkoœci transmisji przy zachowaniu szerokoœci pasma czêstotliwoœci sygna³u w kanale powoduje, ze wspó³czynnik wykorzystania pasma:
+roœnie
+maleje
+nie zmienia sie

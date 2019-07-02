@@ -1,0 +1,6 @@
+X0010
+Amplituda napiêcia w przypadku wybuchu nuklearnego na du¿ej wysokoœci wynosi:
+8 kV/m
+15 kV/m
+50 kV/m
+200 kV/m

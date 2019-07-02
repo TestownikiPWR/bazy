@@ -1,0 +1,6 @@
+X0010
+Które z poni¿szych organizacji maj¹ wp³yw na normalizacjê w zakresie telekomunikacji?
+ ITU, IEC
+ CENELEC, CCITT
+ ETSI, ITU
+ ETSI, IEC

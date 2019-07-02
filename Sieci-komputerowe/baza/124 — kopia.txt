@@ -1,0 +1,7 @@
+X01000
+W której kolejnoœci domyœlnej router bêdzie wyszukiwa³ informacje o konfiguracji startowej?
+NVRAM, RAM, TFTP
+NVRAM, TFTP, tryb ustawieñ 
+tryb konfiguracji, NVRAM, TFTP
+TFTP, ROM, NVRAM
+flash, ROM, tryb ustawieñ

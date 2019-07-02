@@ -1,0 +1,4 @@
+X10
+34. Jak¹ charakterystykê powinien mieæ uk³ad kompresji sygna³u analogowego log(y)=k ln(x)
+antysymetryczna y(-x)=-y(x)
+symetryczna y(-x)=-y(x)

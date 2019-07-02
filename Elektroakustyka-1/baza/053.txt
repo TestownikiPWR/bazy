@@ -1,0 +1,6 @@
+X0100
+53. Dla rezonansu  uk³adu z t³umieniem:
+ Czêstotliwoœæ rezonansu wychylenia jest zawsze wiêksza ni¿ czêstotliwoœæ rezonansu wychylenia uk³adu bez t³umienia o takiej samej masie i sztywnoœci
+ Czêstotliwoœæ rezonansu wychylenia jest zawsze mniejsza ni¿ czêstotliwoœæ rezonansu wychylenia uk³adu bez t³umienia o takiej samej masie i sztywnoœci
+ Czêstotliwoœæ rezonansu wychylenia jest taka sama jak czêstotliwoœæ rezonansu wychylenia uk³adu bez t³umienia o takiej samej masie i sztywnoœci
+ Czêstotliwoœæ rezonansu wychylenia mo¿e byæ mniejsza lub wiêksza ni¿ czêstotliwoœæ rezonansu wychylenia uk³adu bez t³umienia o takiej samej masie i sztywnoœci

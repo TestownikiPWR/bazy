@@ -1,0 +1,6 @@
+X1000
+Minimalna czêstotliwoœæ pomiaru zaburzeñ promieniowanych na otwartym poligonie pomiarowym:
+jest tym mniejsza im wiêksza jest œrednica oczka siatki metalowej, któr¹ wy³o¿ono obszar Elipsy Fresnela,
+jest tym mniejsza im mniejsza jest œrednica oczka siatki metalowej, któr¹ wy³o¿ono obszar Elipsy Fresnela,
+nie zale¿y od przewodnoœci blachy, ani œrednicy oczka siatki, którymi wyk³adany jest obszar Elipsy Fresnela,
+zale¿y od przewodnoœci blachy, któr¹ wy³o¿ono obszar Elipsy Fresnela,

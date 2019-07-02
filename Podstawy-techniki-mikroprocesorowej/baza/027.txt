@@ -1,0 +1,6 @@
+X1110
+Która wartoœæ jest zgodna z zapisem w standardzie Intel?
+00001111b
+12
+0Fh
+$F

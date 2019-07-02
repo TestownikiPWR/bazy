@@ -1,0 +1,6 @@
+X0001
+Które po³¹czenie zapewnia bezpieczn¹ sesjê CLI z szyfrowaniem urz¹dzenia sieciowego Cisco? 
+po³¹czenie z konsol¹ 
+po³¹czenie AUX 
+po³¹czenie Telnet 
+po³¹czenie SSH 

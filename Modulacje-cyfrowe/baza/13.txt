@@ -1,0 +1,5 @@
+X100
+13. Wraz ze wzrostem wartoœciowoœci M w przypadku modulacji M-PSK wspó³czynnik wykorzystania pasma (Rs/B):
+roœnie
+maleje
+nie zmienia sie

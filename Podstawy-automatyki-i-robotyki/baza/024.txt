@@ -1,0 +1,3 @@
+﻿X1000
+Jeżeli w URA zostanie zastosowany regulator który poszerzy pasmo przenoszenia to wpłynie to na:
+skrócenie czasu regulacji

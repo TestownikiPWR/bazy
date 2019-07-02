@@ -1,0 +1,6 @@
+X0100
+Fragmenty homogenicznych heterogenicznych sieci komunikacyjnych s¹ ³aczone miêdzy sob¹ za pomoc¹ wêz³ów tworzonych przez:
+most, huby, routery, multiplexery
+mosty, huby, routery prze³aczniki
+mosty, terminale, routery, multiplexery
+³aczniki, huby, multiplexery

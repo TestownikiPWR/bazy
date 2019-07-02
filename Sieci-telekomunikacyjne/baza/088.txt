@@ -1,0 +1,6 @@
+X0010
+Jak¹ wielkoœæ ma komórka ATM?
+ 33 oktety
+ 43 oktety
+ 53 oktety 
+ 63 oktety

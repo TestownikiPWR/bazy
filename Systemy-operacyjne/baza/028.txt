@@ -1,0 +1,6 @@
+X1100
+Algorytmem planowania czasu procesora jest:
+SJF
+FCFS
+LRU
+SCAN

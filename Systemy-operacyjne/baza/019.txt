@@ -1,0 +1,6 @@
+X0101
+Proces niezale¿ny:
+wspó³pracuje z innymi procesami poprzez wspó³dzielenie obszaru pamiêci operacyjnej
+jego dzia³anie zale¿y tylko od parametrów wejœciowych
+wspó³pracuje z innymi procesami wspó³dziel¹c zasoby plikowe 
+nie wspó³dzieli ¿adnych zasobów z innymi procesami

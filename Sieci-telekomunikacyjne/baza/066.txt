@@ -1,0 +1,5 @@
+X111
+Warstwy w NGN:
+transportowa (sieæ pakietowa, bramy medialne do innych sieci)
+steruj¹ca (sterowanie elementami warstwy transportowej, wspó³praca sygnalizacyjna z sieci¹ PSTN (SS7))
+aplikacji (us³ugi integruj¹ce g³os, dane, wideo, integracja rozwi¹zañ stacjonarnych i mobilnych, wspó³praca z sieci¹ IN (INAP))

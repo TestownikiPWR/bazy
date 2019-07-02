@@ -1,0 +1,6 @@
+X1100
+Uklad PAL16L8:
+To uklad kombinacyjny
+Ma 8 wyjsc
+Ma 16 wejsc
+Posiada przerzutnik D

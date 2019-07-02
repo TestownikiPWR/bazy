@@ -1,0 +1,7 @@
+X1000
+41. Co reprezentuje charakterystyka szumowa systemu transmisyjnego
+stosunek S/N na wyjœciu w funkcji S/N na wejœciu
+stosunek S/N na wejsciu w funkcji S/N na wyjsciu
+stosunek S/N na wyjœciu w funkcji S/N na wyjœciu
+stosunek S/N na wejœciu w funkcji S/N na wejœciu
+

@@ -1,0 +1,6 @@
+X1100
+Uklad GAL16V8:
+To uklad zawierajacy 8 makrokomórek logicznych
+Ma 8 wejsc dedykowanych oraz wejscia clk i oe
+Ma 16 wejsc
+Ma matryce programowalna 32x64

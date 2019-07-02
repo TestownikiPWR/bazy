@@ -1,0 +1,6 @@
+X0100
+41. Wskazania watomierza elektrodynamicznego jest proporcjonalne do:
+a) Iloczynu pola elektrycznego i magnetycznego
+b) Iloczynu pr¹dów w cewkach miernika
+c) Iloczynu napiêæ na kondensatorach miernika
+d) Iloczynu rezystancji i pr¹du miernika

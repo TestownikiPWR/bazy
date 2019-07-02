@@ -1,0 +1,6 @@
+X1100
+Dopasuj wzory na SAR (def. energetyczna i polowa):
+energetyczna: SAR = (cw*deltaT/R),
+polowa: SAR = q*E^2/p,
+energetyczna:SAR = q*E^2/p ,
+polowa- SAR = (cw*deltaT/R) ,

@@ -1,0 +1,5 @@
+X010
+Co potrzebuje kazdy procesor?
+wlasciciela
+wektor przerwan
+wektor wznowien

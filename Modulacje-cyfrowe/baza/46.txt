@@ -1,0 +1,6 @@
+X0100
+46. Konfiguracja geometryczna zbioru sygna³ów pokazanych na rysunku przedstawia sygna³y:
+A2-PSK
+2-PSK lub 2-ASK
+2-PAM
+2-PSK lub 2-FSK

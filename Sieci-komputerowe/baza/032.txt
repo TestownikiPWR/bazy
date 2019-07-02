@@ -1,0 +1,6 @@
+X0001
+Bior¹c pod uwagê adres binarny 11101100 00010001 00001100 00001010, jaki adres ma to reprezentuje w formacie dziesiêtnym z kropkami?
+234.17.10.9
+234.16.12.10
+236.17.12.6
+236.17.12.10 

@@ -1,0 +1,7 @@
+X10001
+Jakie dwie przyczyny powoduj¹, ¿e DHCP jest preferowan¹ metod¹ przydzielania adresów IP hostom w du¿ych sieciach? (Wybierz dwa.)
+Eliminuje wiêkszoœæ b³êdów konfiguracji adresu. 
+Zapewnia to, ¿e adresy s¹ stosowane tylko do urz¹dzeñ wymagaj¹cych sta³ego adresu.
+Gwarantuje, ¿e ka¿de urz¹dzenie, które potrzebuje adresu, dostanie je.
+Dostarcza adres tylko do urz¹dzeñ autoryzowanych do pod³¹czenia do sieci.
+Zmniejsza obci¹¿enie personelu obs³ugi sieci. 

@@ -1,0 +1,6 @@
+X0100
+Które stwierdzenie opisuje charakterystykê portów zarz¹dzania routerem Cisco?
+Port konsoli s³u¿y do zdalnego zarz¹dzania routerem.
+Port konsoli nie jest u¿ywany do przesy³ania pakietów. 
+Interfejsy szeregowe i DSL s¹ typami portów zarz¹dzania.
+Ka¿dy router Cisco ma wskaŸnik LED, który informuje o stanie portów zarz¹dzania.

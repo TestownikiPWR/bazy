@@ -1,0 +1,7 @@
+X10110
+Proszê wskazaæ, które z wymienionych zbiorów liczb mog¹ stanowiæ elementy cia³a prostego Galoisa:
+0,1
+1,2,3
+0,1,2
+0,1,2,3,4
+1,2,3,4,5

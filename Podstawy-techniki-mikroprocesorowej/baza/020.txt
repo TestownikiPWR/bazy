@@ -1,0 +1,6 @@
+X0010
+Do jakich zastosowañ nadaje siê uk³ad RTC?
+Zliczanie czasu pomiêdzy zdarzeniami
+Zliczanie zewnêtrznych zdarzeñ
+Generowanie zdarzeñ o okreœlonych odstêpach czasu
+Generowanie zadanej liczby zdarzeñ

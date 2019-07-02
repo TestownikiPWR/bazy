@@ -1,0 +1,6 @@
+X0100
+Który protokó³ obs³uguje szybkie dostarczanie mediów strumieniowych?
+Protokó³ kontroli transmisji
+Protokó³ transportu w czasie rzeczywistym 
+Bezpieczny protokó³ przesy³ania plików
+Wideo przez protokó³ internetowy

@@ -1,0 +1,6 @@
+X1000
+Realizacja estymatora to:
+Ocena
+Próba
+Miara
+Predykcja

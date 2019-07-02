@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj medium komunikacyjnego jest u¿ywany z bezprzewodowym po³¹czeniem LAN?
+fale radiowe 
+w³ókno
+mikrofalowe
+UTP

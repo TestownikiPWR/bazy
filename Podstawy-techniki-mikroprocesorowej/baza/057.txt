@@ -1,0 +1,6 @@
+X1000
+Porty w architekturze 8 bitowej s¹ wyposa¿one w: 
+8 pinów
+16 pinów
+12 pinów
+32 piny

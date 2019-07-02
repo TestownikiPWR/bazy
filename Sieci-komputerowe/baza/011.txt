@@ -1,0 +1,8 @@
+X110010
+Jakie s¹ trzy wa¿ne kwestie przy planowaniu struktury schematu adresowania IP? (Wybierz trzy.)
+Zapobieganie powielaniu adresów 
+zapewnianie i kontrolowanie dostêpu 
+dokumentowanie
+monitoringu sieci bezpieczeñstwa i adresów oszczêdzaj¹cych 
+wydajnoœæ 
+wdra¿anie nowych us³ug

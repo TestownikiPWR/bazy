@@ -1,0 +1,6 @@
+X0100
+70. Atrybutem dŸwiêku zwi¹zanym z jego struktur¹ harmoniczn¹ jest:
+ Wysokoœæ dŸwiêku
+ Barwa dŸwiêku
+ G³oœnoœæ dŸwiêku
+ Maskowanie dŸwiêku

@@ -1,0 +1,6 @@
+X0100
+Co mierzymy za pomoc¹ transformatora pr¹dowego:
+moc wypromieniowanych zak³óceñ
+pr¹d
+napiêcie
+temperature

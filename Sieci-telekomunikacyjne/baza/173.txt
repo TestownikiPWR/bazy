@@ -1,0 +1,6 @@
+X0010
+Na styku S w kanale echa E na kierunku NT-NE s¹ transmitowane bity
+z kana³u B1 z kierunku TE-NT
+z uk³adu kompensacji echa zespo³u NT
+z kana³u D z kierunku TE-NT
+z uk³adu kontroli parzystosci

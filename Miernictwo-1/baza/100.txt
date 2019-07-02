@@ -1,0 +1,4 @@
+X1
+100. Zwiekszenie zasiegu interfejsu RS-330C uzyskuje sie
+a) stosujac petle pradowa
+

@@ -1,0 +1,6 @@
+X0010
+W jakim zakresie czêstotliwoœci zawiera siê wiêkszoœæ aktualnie obowi¹zuj¹cych wymagañ EMC:
+od 30kHz do 3GHz
+od 10kHz do 3GHz
+od 9kHz do 3GHz
+od 19kHz do 3GHz

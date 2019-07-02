@@ -1,0 +1,3 @@
+X1
+Kiedy estymator jest nieobci¹¿ony?
+Gdy obci¹¿enie estymatora jest równe 0, czyli wartoœæ oczekiwana estymatora parametru jest równa wartoœci tego parametru.

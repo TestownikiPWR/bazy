@@ -1,0 +1,6 @@
+X0100
+Który z parametrów przegubu jest zmienny dla obrotowej pary kinematycznej (przegubu obrotowego) V klasy?
+kąt skrętu członu
+kąt konfiguracji
+odsunięcie członu
+długość członu

@@ -1,0 +1,8 @@
+X001000
+Do czego używana jest funkcja Eulera
+Do kodowania liniowego blokowego
+Żadna z pozostałych
+Do wyznaczenia wartości odwrotnych w ciele liczb skończonych
+Do kodowania liniowego splotowego
+Do niczego, to tylko pewna figura matematyczna
+Do ilości permutacji liczb pierwszych

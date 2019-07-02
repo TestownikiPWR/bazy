@@ -1,0 +1,5 @@
+﻿X0100
+Rozwiązanie prostego zadania kinematyki dla zadanego robota polega na wyznaczeniu:
+trajektorii punktu pracy
+współrzędnych zewnętrznych punktu pracy dla zadanego wektora współrzędnych naturalnych 
+wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych

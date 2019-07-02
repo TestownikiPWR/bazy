@@ -1,0 +1,6 @@
+X0010
+W sieciach œwiat³owodowych wykorzystuje siê fale o d³ugoœci:
+200-400 nm
+400-700nm
+700-1700 nm
+1700-2500 nm

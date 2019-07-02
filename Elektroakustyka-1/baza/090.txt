@@ -1,0 +1,6 @@
+X0010
+Dla dŸwiêków o czêstotliwoœciach le¿¹cych w odrêbie jednego pasma krytycznego:
+sumuj¹ siê energie
+sumuj¹ siê ciœnienia akustyczne
+sumuj¹ siê g³oœnoœci
+sumuj¹ siê wysokoœci

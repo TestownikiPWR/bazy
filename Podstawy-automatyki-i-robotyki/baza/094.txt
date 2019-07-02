@@ -1,0 +1,6 @@
+X0100
+Regulator Watta:
+wykorzystuje wzmacniacz operacyjny ua741
+wykorzystywał siłę odśrodkową
+wykorzystywam pole elektormagnetyczne
+posiada transmitancję elementu intercyjnego pierwszego rzędu

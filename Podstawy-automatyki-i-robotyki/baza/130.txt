@@ -1,0 +1,5 @@
+﻿X010
+Na czym polega programowanie elektromechanicznego sterownika przekaźnikowego?
+Na przygotowaniu programu na mikroprocesor
+Na realizacji poprzez lutowanie przewodów połączeń elektrycznych pomiędzy wyprowadzeniami przekaźników
+Na przygotowaniu papierowej lub plastykowej taśmy perforowanej z kodem programu

@@ -1,0 +1,6 @@
+X0100
+Oblicz wartoœæ oczekiwan¹ zmiennej losowej o gêstoœci danej przez (1)
+wartoœæ oczekiwana nie istnieje
+wartoœæ oczekiwana równa jest 0
+wartoœæ oczekiwana równa jest a do potêgi 2
+wartoœæ oczekiwana równa jest 1/a

@@ -1,0 +1,6 @@
+X0010
+Terminal u¿ytkownika TE1 mo¿e byæ oddalony od szyny styku S w zakresie:
+50-100m
+25-50m
+0-10m
+100-200m

@@ -1,0 +1,6 @@
+X1000
+Modulacje impulsowe maj¹ swoje odpowiedniki w modulacji fali ci¹g³ej, odpowiednio:
+PAM – AM, PPM – PM, PWM – FM
+PAM – PM, PPM – AM, PWM – FM
+PAM – DSB, PPM – FM, PWM – PM
+PAM – FM, PPM – PM, PWM – DCB-SC

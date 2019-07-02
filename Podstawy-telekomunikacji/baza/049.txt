@@ -1,0 +1,6 @@
+X0001
+Modulacje cyfrowe maj¹ nazwy skrócone-akronimy, które oznaczaj¹, odpowiednio modulacje:
+PCM kodowo-impulsow¹, FSK kluczowanie fazy, PSK kluczowanie czêstotliwoœci, ASK automatyczne skalowanie
+PCM kluczowanie fazy, FSK kluczowanie czêstotliwoœci, PSK kodowo - impulsow¹, ASK kluczowanie k¹ta
+PCM kluczowanie czêstotliwoœci, FSK kodowo -impulsow¹, PSK kluczowanie fazy, ASK kluczowanie
+PCM kodowo-impulsow¹, FSK kluczowanie czêstotliwoœci, PSK kluczowanie fazy, ASK kluczowanie amplitudy

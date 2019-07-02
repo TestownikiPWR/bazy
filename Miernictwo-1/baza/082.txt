@@ -1,0 +1,6 @@
+X1000
+82. W posrednich pomiarach mocy w obwodach pradu stalego wystarczy znac
+a) èrezystancje wejsciowa i wskazanie woltomierza
+b) èrezystancje przejsciowa i wskazanie amperomierza
+c) èrezystancje odbiornika mocy i wskazanie omomierza
+d) èrezystancje odbiornika mocy i wskazanie woltomierza 

@@ -1,0 +1,8 @@
+X010101
+Do minimalizacji rozpraszania elektromagnetycznego informacji stosujemy (wybierz trzy)
+kompensacjê pól elektromagnetycznych
+zmniejszanie poziomów emitowanej informacji
+generatory impulsowe
+ekranowanie i filtracjê
+generatory zak³óceñ
+szyfrowanie przesy³anej i przetwarzanej informacji

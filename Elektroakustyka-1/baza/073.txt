@@ -1,0 +1,6 @@
+X0001
+73. Ciœnienie akustyczne jest proporcjonalne do:
+ Gradientu potencja³u akustycznego 
+ Dywergencji potencja³u akustycznego
+ Rotacji potencja³u akustycznego
+ Pochodnej potencja³u akustycznego po czasie

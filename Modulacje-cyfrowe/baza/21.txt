@@ -1,0 +1,6 @@
+X1100
+21. Jakie zmiany wartoœci fazy mog¹ wysterowaæ na styku segmentu z modulacj¹ pi/4 QPSK?
+pi/4
+3/4*pi
+pi
+pi/2

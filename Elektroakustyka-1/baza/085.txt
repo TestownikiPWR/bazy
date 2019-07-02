@@ -1,0 +1,6 @@
+X1000
+Przy danej objêtoœci pomieszczenia optymalny czas pog³osu bêdzie najkrótszy dla :
+Sal wyk³adowych
+Teatrów 
+Teatrów muzycznych 
+Sal koncertowych

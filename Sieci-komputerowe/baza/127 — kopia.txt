@@ -1,0 +1,7 @@
+X10010
+Które z poni¿szych s¹ podstawowymi funkcjami routera? (Wybierz dwa.)
+prze³¹czanie pakietów
+mikrosegmentacja
+rozpoznawanie nazw domen
+wybór œcie¿ki 
+Kontrola przep³ywu

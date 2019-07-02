@@ -1,0 +1,6 @@
+X1010
+Trzaski radioelektryczne s¹ to zak³ócenia, które pojawiaj¹ siê nie czêsæiej ni¿ dwukrotnie w ci¹gu 2s i trwaj¹:
+do 100ms
+100-200ms
+do 200ms
+nie krócej ni¿ 200ms

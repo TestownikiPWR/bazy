@@ -1,0 +1,5 @@
+X010
+Założenia i prototyp pierwszego elektronicznego programowalnego sterownika logicznego powstał w firmie:
+Siemens (1972)
+General Motors (1968)
+Shell (1974)

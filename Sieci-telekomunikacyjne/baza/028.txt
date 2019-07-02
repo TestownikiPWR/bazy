@@ -1,0 +1,6 @@
+X0010
+W standardach B, G, D, K, I dla przekazu fonii stosuje siê:
+modulacjê czêstotliwoœci z dewiacj¹ +-15kHz
+dwuwstêgow¹ modulacjê amplitudy
+modulacjê czêstotliwoœci z dewiacj¹ +-50kHz
+modulacjê czêstotliwoœci z dewiacj¹ +-130kHz

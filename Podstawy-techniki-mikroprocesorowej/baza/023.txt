@@ -1,0 +1,6 @@
+X0010
+ Jakie jest dok³adne rozwiniêcie nazw magistrali SPI
+S¹d Pierwszej Instancji XDDD
+Space Packet Inspection
+Serial Peripheral Interface
+System Programming Interface

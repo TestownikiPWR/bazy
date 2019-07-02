@@ -1,0 +1,6 @@
+X0001
+Przewidziane na jeden kana³ w telefonii wielokrotnej pasmo czêstotliwoœci B w [kHz] wynosi:
+3,4
+9
+15
+4

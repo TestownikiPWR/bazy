@@ -1,0 +1,5 @@
+X100
+27. Która modulacja wymaga zapewnienia najwiêkszej Eb/g0 na wejœciu detektora, jeœli w ka¿dym przypadku stopa b³êdu bin powinna byæ taka sama
+8-PSK
+8 QAM
+BPSK

@@ -1,0 +1,4 @@
+﻿X1000
+Uchyb nadążania URA (układ regulacji automatycznej) w przypadku regulacji stałowartościowej możnasprowadzić dokładnie do zera przez:
+wprowadzenie członu całkującego 
+zwiększenie wzmocnienia 

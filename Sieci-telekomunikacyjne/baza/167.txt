@@ -1,0 +1,6 @@
+X0110
+Protokó³ komunikacyjny warstwy drugiej to
+RS323C
+HDLC
+LAP-D
+SAPI

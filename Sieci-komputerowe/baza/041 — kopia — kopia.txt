@@ -1,0 +1,6 @@
+X0010
+W jaki sposób jakoœæ us³ug pomaga sieci obs³ugiwaæ szeroki zakres aplikacji i us³ug? 
+ograniczaj¹c wp³yw awarii sieci 
+umo¿liwiaj¹c szybkie przywracanie po awarii sieci 
+zapewniaj¹c mechanizmy zarz¹dzania przeci¹¿onym ruchem sieciowym 
+poprzez umo¿liwienie rozwoju sieci w celu dostosowania jej do nowych u¿ytkowników 

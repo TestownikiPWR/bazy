@@ -1,0 +1,6 @@
+X0001
+Mocuj¹c do urz¹dzania zacisk uziemiaj¹cy:
+mo¿na go dowolnie umieœciæ,
+nale¿y go umieœciæ jak najdalej wejœcia sygna³owego,
+nale¿y zastosowaæ dwa zaciski uziemiaj¹ce jednej najbli¿ej drugi najdalej wejcia sygna³owego,
+nale¿y go umieœciæ jak najbli¿ej wejœcia sygna³owego,

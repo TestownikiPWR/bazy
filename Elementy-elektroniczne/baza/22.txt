@@ -1,0 +1,6 @@
+X1000
+W czasie normalnej pracy tyrystora punkt prze³¹czenia wystêpuje przy: 
+a) dodatnim napiêciu bramki 
+b) ujemnym napiêciu bramki 
+c) ujemnym napiêciu anody 
+d) dodatnim napiêciu katody 

@@ -1,0 +1,3 @@
+X1
+94. Czujnik wielkosci nieelektrycznej
+a) np. przetwornik majacy bezposredni kontakt z temperatura

@@ -1,0 +1,6 @@
+X0101
+Wprowadza siê nowe zakresy czêstotliwoœci [MHz], odpowiednio dla cyfrowej radiofonii / telewizji:
+88-108 / 470-862
+1452-1492 / 470-862
+1452 - 1492 / 66-640
+174-240 / 470-862

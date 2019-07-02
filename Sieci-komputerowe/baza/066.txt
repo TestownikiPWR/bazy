@@ -1,0 +1,6 @@
+X0001
+Dlaczego HTTP u¿ywa TCP jako protoko³u warstwy transportowej?
+aby zapewniæ najszybsz¹ mo¿liw¹ prêdkoœæ pobierania
+poniewa¿ HTTP to najlepszy protokó³
+poniewa¿ b³êdy transmisji mog¹ byæ ³atwo tolerowane
+poniewa¿ HTTP wymaga niezawodnej dostawy 

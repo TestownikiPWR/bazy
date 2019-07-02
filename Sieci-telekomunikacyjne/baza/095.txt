@@ -1,0 +1,6 @@
+X0001
+W celu wyrównania wahañ propagacji ³¹czy stosujemy:
+ regeneracjê
+ sprzê¿enie zwrotne
+ wprowadzenie echa
+ buforowanie

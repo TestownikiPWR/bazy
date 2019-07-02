@@ -1,0 +1,6 @@
+X1000
+Wzór na stopieñ protekcji systemu ps (chyba takie odpowiedzi):
+ps=Ed/Es > 1
+ps=Ed/Es = 1
+ps=Ed/Es < 1
+ps=Ed/Es <= 1

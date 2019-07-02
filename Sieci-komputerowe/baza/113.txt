@@ -1,0 +1,8 @@
+X101100
+Technik sieci mierzy transfer bitów w ramach sieci szkieletowej firmy dla aplikacji o znaczeniu krytycznym. Technik zauwa¿a, ¿e przepustowoœæ sieci jest mniejsza ni¿ oczekiwana przepustowoœæ. Jakie trzy czynniki mog¹ wp³yn¹æ na ró¿nice w wydajnoœci? (Wybierz trzy.)
+iloœæ ruchu, który aktualnie przekracza sieæ 
+wyrafinowanie metody enkapsulacji zastosowanej do danych
+rodzaj ruchu przekraczaj¹cego sieæ 
+opóŸnienie, które jest tworzone przez liczbê urz¹dzeñ sieciowych, przez które przechodz¹ dane 
+przepustowoœæ po³¹czenia WAN z Internetem
+niezawodnoœæ gigabitowej infrastruktury Ethernet szkieletu

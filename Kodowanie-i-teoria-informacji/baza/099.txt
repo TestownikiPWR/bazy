@@ -1,0 +1,6 @@
+X1000
+Na jakiej podstawie dekoder Viterbiego wybiera … przez kratê stanów?
+Porówuje tylko drogi doprowadzaj¹ce do wspólnych wêz³ów.
+Stosuje algorytm najkrótszych skoków.
+w ka¿dym kroku sekwencyjnie wybiera najkrótsz¹ drogê
+sprawdza wszystkie mo¿liwe drogi przejœcia przez kratê

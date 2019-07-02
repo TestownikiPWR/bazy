@@ -1,0 +1,4 @@
+X10
+43. Utrzymanie jakoœci transmisji gdy pogorszy sie jakoœæ sygna³u - co trzeba zrobiæ
+Zwiekszyæ moc
+Zmniejszyæ moc

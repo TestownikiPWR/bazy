@@ -1,0 +1,6 @@
+X0100
+Podczas badania wra¿liwoœci urz¹dzeñ na wy³adowania elektrostatyczne metod¹ bezpoœredni¹ stosuje siê wy³adowania do:
+Wnêtrza urz¹dzenia
+Miejsc urz¹dzenia, które mo¿e dotykaæ obs³uga
+Przewodów interfejsowych
+Przewodów zasilaj¹cych

@@ -1,0 +1,6 @@
+X1000
+Maszyna wirtualna:
+traktuje sprzêt i system operacyjny jakby by³y sprzêtem
+zarz¹dza wirtualnym buforem, tzw. spoolerem, zlokalizowanym we wspólnym pamiêci operacyjnej
+zapewnia jednolity interfejs sprzêtu 
+zarz¹dza wyborem procesów z kolejki procesów gotowych

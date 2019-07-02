@@ -1,0 +1,6 @@
+X0100
+Instrukcja SEQUENCE sluzy do opisu:
+Ukladu kombinacyjnego
+Ukladu sekwencyjnego
+Licznika synchronicznego
+Licznika asynchronicznego 

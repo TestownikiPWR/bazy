@@ -1,0 +1,6 @@
+X0001
+Maksymalne napiêcie do jakiego cz³owiek mo¿e siê na³adowaæ wynosi:
+10kV
+20kV
+30kV
+40kV

@@ -1,0 +1,6 @@
+X1001
+Atmosfera i jonosfera tworz¹ os³onê przed pozaziemskimi Ÿród³ami energii elektromagnetycznej oprócz zakresu:
+10exp(-3) do 10exp(-5)
+100kHz do 120MHz
+15MHz do 22,5MHz
+10MHz do 37,5GHz

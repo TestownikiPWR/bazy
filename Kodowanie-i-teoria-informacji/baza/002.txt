@@ -1,0 +1,6 @@
+X1000
+Kod równoleg³y jest:
+kodem liniowym blokowym
+kodem cyklicznym
+kodem splotowym
+szczególnym przypadkiem kodu Mac Donalda

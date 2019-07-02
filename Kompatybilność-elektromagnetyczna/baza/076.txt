@@ -1,0 +1,6 @@
+X1100
+Na p³ytkach drukowanych nale¿y:
+przeznaczaæ du¿e p³aszczyzny na masy
+oddzielnie prowadziæ masy sygna³ów analogowych i cyfrowych
+dowolnie rozmieszczaæ elementy analogowe i cyfrowe
+uziemiaæ wszystkie typy obwodów w jednym punkcie

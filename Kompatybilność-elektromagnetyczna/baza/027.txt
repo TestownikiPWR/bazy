@@ -1,0 +1,6 @@
+X0001
+Zak³ócenia przewodzone poch¹dz¹ce od odkurzacza maj¹ widmo:
+50kHz - 25MHz
+2 - 20MHz
+100kHz - 1MHz
+0,1 - 1MHz

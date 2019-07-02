@@ -1,0 +1,6 @@
+X0001
+34. Dla rezonansu wychylenia:
+ Ani czêstotliwoœæ rezonansu, ani ostroœæ krzywej rezonansowej nie zale¿¹ od t³umienia
+ Czêstotliwoœæ rezonansu nie zale¿y od t³umienia, a ostroœæ krzywej rezonansowej zale¿y
+ Czêstotliwoœæ rezonansu zale¿y od t³umienia, a ostroœæ krzywej rezonansowej nie zale¿y
+ Zarówno czêstotliwoœæ rezonansowa, jak i ostroœæ krzywej rezonansowej zale¿¹ od t³umienia

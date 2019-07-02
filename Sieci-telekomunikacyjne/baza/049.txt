@@ -1,0 +1,6 @@
+X0001
+iloœæ rozró¿nialnych poziomów sygna³u luminancji (gradacja):
+roœnie ze wzrostem prêdkoœci ruchu w obrazie
+roœnie ze wzrostem iloœci elementów w obrazie
+nie zalezy od prêdkoœci ruchu w obrazie
+maleje ze wzrostem prêdkoœci ruchu oraz iloœci elementów obrazu

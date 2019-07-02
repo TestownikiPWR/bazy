@@ -1,0 +1,5 @@
+﻿X1000
+Robot IRB 1400 jest robotem o konfiguracji:
+antropomorficznej
+sferycznej
+kartezjańskiej

@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj dupleksu w interfejsie radiowym stosowany jest w systemie GSM:
+czêstotliwoœciowy FDD
+czasowy TDD
+mieszany MDD
+kodowy CDD

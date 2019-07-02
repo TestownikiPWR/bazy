@@ -1,0 +1,6 @@
+X1101
+W systemach opartych o pracê wsadow¹:
+operator zast¹pi³ programistê
+zadania o tym samym charakterze by³y grupowane
+pojawi³ siê debugger oraz kompilator
+pojawi³ siê JCL (jêzyk obs³ugi kart steruj¹cych)

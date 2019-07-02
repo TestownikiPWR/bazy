@@ -1,0 +1,4 @@
+X10
+40. W jakim celu stosowana jest preemfaza i deemfaza przy modulacjach k¹towych
+poprawy S/N na wyjœciu odbiornika
+nie stosuje sie ich w modulacjach katowych

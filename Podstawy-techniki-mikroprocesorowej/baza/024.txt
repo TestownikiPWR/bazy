@@ -1,0 +1,6 @@
+X0001
+SPI obs³uguje linie…
+RxD, TxD
+CANH, CANL
+SDA, SCL 
+MISO, MOSI, SCK

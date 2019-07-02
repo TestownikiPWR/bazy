@@ -1,0 +1,6 @@
+X1001
+Zgodnie z IEC 60027 wartoœæ ‘1kiB’ powinna oznaczaæ
+A. 1024 bajty
+B. 10^3 bajtów
+C. 1000 bajtów
+D. 2^10 bajtów

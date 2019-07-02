@@ -1,0 +1,6 @@
+X0010
+Czy wspó³czynnik kowariancji pary zmiennych, mo¿e przyjmnowaæ wartoœci > 1?
+tylko dla dodatnich zmiennych
+tylko, gdy noœniki rozk³adów s¹ nieograniczone
+tak
+nie

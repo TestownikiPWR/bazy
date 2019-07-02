@@ -1,0 +1,7 @@
+X00100
+U¿ytkownik otrzymuje adres IP 192.168.0.1 od administratora sieci firmy. Znajomy u¿ytkownika w innej firmie otrzymuje ten sam adres IP na innym komputerze. W jaki sposób dwa komputery PC mog¹ korzystaæ z tego samego adresu IP i nadal docieraæ do Internetu, wysy³aæ i odbieraæ wiadomoœci e-mail oraz wyszukiwaæ w Internecie?
+Obaj u¿ytkownicy musz¹ korzystaæ z tego samego dostawcy us³ug internetowych.
+
+Dostawcy us³ug internetowych u¿ywaj¹ translacji adresów sieciowych do zmiany adresu IP u¿ytkownika na adres, który mo¿e byæ u¿ywany w Internecie. 
+Dostawcy us³ug internetowych u¿ywaj¹ us³ugi nazw domenowych do zmiany adresu IP u¿ytkownika na publiczny adres IP, który mo¿e byæ u¿ywany w Internecie.
+Obaj u¿ytkownicy musz¹ znajdowaæ siê w tej samej sieci.

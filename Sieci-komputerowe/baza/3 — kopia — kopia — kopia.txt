@@ -1,0 +1,6 @@
+X1000
+Które publicznie dostêpne zasoby opisuj¹ protoko³y, procesy i technologie w Internecie, ale nie podaj¹ szczegó³ów dotycz¹cych implementacji?
+ Proœba o komentarze *
+ Dokumenty badawcze IRTF
+ modele protoko³ów
+ Standardy IEEE

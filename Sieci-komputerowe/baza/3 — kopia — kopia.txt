@@ -1,0 +1,7 @@
+X00110
+Które dwa protoko³y dzia³aj¹ w warstwie internetowej? (Wybierz dwa)
+ARP
+BOOTP
+ICMP 
+IP 
+PPP

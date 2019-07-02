@@ -1,0 +1,6 @@
+X0010
+Co nale¿y skonfigurowaæ, aby umo¿liwiæ Cisco Express Forwarding (CEF) na wiêkszoœci urz¹dzeñ Cisco, które wykonuj¹ prze³¹czanie w warstwie 3?
+Rêcznie skonfiguruj adresy warstwy 2 nastêpnego skoku.
+Wydaj polecenie braku zamkniêcia na portach routowanych.
+Funkcja CEF jest domyœlnie w³¹czona, wiêc konfiguracja nie jest konieczna. 
+Rêcznie zmapuj adresy warstwy 2 na adresy warstwy 3, aby wype³niæ bazê danych przekazywania (FIB).

@@ -1,0 +1,7 @@
+X11000
+Jakie s¹ dwa sposoby wykorzystania przez TCP numerów sekwencji w segmencie? (Wybierz dwa.) 
+zidentyfikowaæ brakuj¹ce segmenty w miejscu docelowym 
+ponownie z³o¿yæ segmenty w zdalnej lokalizacji 
+okreœliæ kolejnoœæ przemieszczania siê segmentów od Ÿród³a do miejsca docelowego 
+ograniczyæ liczbê segmentów, które mog¹ byæ wysy³ane z interfejsu jednoczeœnie 
+aby ustaliæ, czy pakiet zmieni³ siê podczas transportu 

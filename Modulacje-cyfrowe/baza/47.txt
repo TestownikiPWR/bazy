@@ -1,0 +1,6 @@
+X0100
+47. Czy mo¿liwe jest bezb³êdne przes³anie informacji (z szybkoœci¹ Rs ) w kanale transmisyjnym o szerokoœci B [Hz], zak³ócanym addytywnym szumem Gaussowskim, gdy moc szumu oraz mocy sygna³u u¿ytecznego s¹ równe na wejœciu odbiornika:
+NIE
+TAK, ale tylko gdy Rs <= B
+TAK
+TAK, ale tylko gdy informacja jest odpowiednio zabezpieczona

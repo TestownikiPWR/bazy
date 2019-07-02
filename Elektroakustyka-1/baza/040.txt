@@ -1,0 +1,6 @@
+X0001
+40. Ca³e pasmo s³yszalne podzielone jest na:
+ 6 pasm krytycznych
+ 12 pasm krytycznych
+ 18 pasm krytycznych
+ 24 pasma krytyczne

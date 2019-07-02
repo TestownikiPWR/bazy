@@ -1,0 +1,6 @@
+X0100
+72. W systemowym opisie przyrzadów wielkosci zewnetrzne dzieli sie na
+a) mierzalne i niemierzalne
+b) mierzone i zaklócajace 
+c) duze i male
+d) elektryczne i nieelektryczne

@@ -1,0 +1,6 @@
+X0010
+26. W gwiaŸdzistej konfiguracji systemów pomiarowych informacja przekazywana jest:
+a) zawsze miêdzy dwoma miernikami
+b) czasami miêdzy dwoma miernikami
+c) zawsze za poœrednictwem jednostki steruj¹cej
+d) czasami za poœrednictwem jednostki steruj¹cej

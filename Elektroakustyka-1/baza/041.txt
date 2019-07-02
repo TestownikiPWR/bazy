@@ -1,0 +1,6 @@
+X0010
+41. Teoria geometryczna pola akustycznego w pomieszczeniu jest stosowana:
+ W zakresie ma³ych czêstotliwoœci akustycznych
+ W zakresie œrednich czêstotliwoœci akustycznych
+ W zakresie du¿ych czêstotliwoœci akustycznych
+ W zakresie ma³ych, œrednich i du¿ych czêstotliwoœci akustycznych

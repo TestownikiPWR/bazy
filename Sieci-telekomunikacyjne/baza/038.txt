@@ -1,0 +1,6 @@
+X0001
+Wektor w standardzie NICAM przesy³any jest:
+nie jest  przesy³any w ¿adnej postaci
+jako umieszczona w ramce sekwencja trzech dodatkowych bitów bez protekcji	
+jako umieszczona w ramce sekwencja trzech dodatkowych bitów i bitu parzystoœci
+przez modyfikacjê bitów parzystoœci grupy kodowej

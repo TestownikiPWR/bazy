@@ -1,0 +1,6 @@
+X0100
+Gdzie s¹ domyœlnie wysy³ane komunikaty wyjœciowe debugowania Cisco IOS? 
+Serwer Syslog 
+linia konsoli 
+bufory pamiêci 
+vty linie 

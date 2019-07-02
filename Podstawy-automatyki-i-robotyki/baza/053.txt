@@ -1,0 +1,5 @@
+﻿X0100
+Robot typu antropomorficzny to robot o konfiguracji odcinka regionalnego:
+OOP
+OOO
+OPO

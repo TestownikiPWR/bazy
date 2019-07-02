@@ -1,0 +1,6 @@
+X0100
+Próbkowanie idealne (i z zachowaniem warunków twierdzenia Shannona) jest procesem:
+generalnie odwracalnym
+zawsze odwracalnym
+generalnie nieodwracalnym
+zawsze nieodwracalnym

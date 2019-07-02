@@ -1,0 +1,6 @@
+X0010
+Najwiêksza dopuszczalna gêstoœæ mocy mikrofalowej w miejsach dostêpnych dla ludzi wynosi: 
+0.01 W/m^2
+0.1 W/m^2
+1 W/m^2
+10 W/m^2

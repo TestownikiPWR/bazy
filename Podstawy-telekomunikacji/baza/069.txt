@@ -1,0 +1,6 @@
+X1000
+Czy szerokoœæ pasma modulacji PM zale¿y od dewiacji fazy?
+Tak
+Nie
+Czasami
+Mo¿e

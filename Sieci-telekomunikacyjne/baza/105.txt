@@ -1,0 +1,6 @@
+X0001
+Czy sieæ HFC umo¿liwia realizacjê us³ugi „Wideo na ¿¹danie” (Vo
+ nie, z powodu braku kana³u zwrotnego
+ nie, z powodu zbyt w¹skiego pasma
+ zale¿y od liczby u¿ytkowników
+ tak

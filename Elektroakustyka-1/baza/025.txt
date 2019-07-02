@@ -1,0 +1,6 @@
+X0001
+25. Szum w¹skopasmowy o danej czêstotliwoœci œrodkowej maskuje tony o czêstotliwoœciach:
+ Tylko w wiêkszych ni¿ czêstotliwoœæ œrodkowa szumu maskuj¹cego
+ Tylko mniejszych ni¿ czêstotliwoœæ œrodkowa szumu maskuj¹cego
+ Wiêkszych lub mniejszych ni¿ czêstotliwoœæ œrodkowa szumu maskuj¹cego, w zale¿noœci od poziomu
+ Maskuje tylko tony o czêstotliwoœciach le¿¹cych w w¹skim paœmie wokó³ czêstotliwoœci œrodkowej szumu maskuj¹cego

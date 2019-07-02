@@ -1,0 +1,10 @@
+X00001000
+Oblicz wartość funkcji Eulera dla liczby(3•11)
+33
+60
+96
+100
+20
+12
+22
+36

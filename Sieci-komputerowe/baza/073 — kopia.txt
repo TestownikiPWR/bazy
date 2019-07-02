@@ -1,0 +1,8 @@
+X100101
+Które z trzech adresów s¹ poprawnymi adresami publicznymi? (Wybierz trzy.) 
+198.133.219.17 
+192.168.1.245
+10.15.250.5 
+128.107.12.117  
+192.15.301.240 
+64.104.78.227 

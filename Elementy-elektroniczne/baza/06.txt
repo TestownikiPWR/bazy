@@ -1,0 +1,6 @@
+X0010
+Ujemn¹ rezystancjê dynamiczn¹ wykazuj¹ diody: 
+a) mikrofalowe 
+b) zenera 
+c) tunelowe 
+d) pojemnoœciowe 

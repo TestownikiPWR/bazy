@@ -1,0 +1,6 @@
+X0100
+Oblicz wartość funkcji Eulera dla liczby 3:
+1
+2
+4
+6

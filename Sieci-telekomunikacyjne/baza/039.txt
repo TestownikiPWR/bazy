@@ -1,0 +1,6 @@
+X1000
+W standardzie MPEG-2 obrazy typu P to obrazy:
+prognozowane na podstawie obrazów typu I lub P.  
+prognozowane wy³¹cznie na podstawie obrazów typu I	
+prognozowane zarówno na podstawie obrazów wczeœniejszych jak i póŸniejszych
+oryginalne, dla których nie stosuje siê prognozowania

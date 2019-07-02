@@ -1,0 +1,6 @@
+X0001
+Który z parametrów przegubu jest zmienny dla translacyjnej pary kinematycznej V klasy?
+kąt skrętu członu
+długość członu
+kąt konfiguracji
+odsunięcie członu

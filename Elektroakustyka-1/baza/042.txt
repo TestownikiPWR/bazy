@@ -1,0 +1,6 @@
+X0010
+42. Dla szumu gaussowskiego krzywa Gaussa opisuje:
+ Widmo sygna³u
+ Gêstoœæ widmow¹ mocy sygna³u
+ Prawdopodobieñstwo rozk³adu amplitud
+ Gêstoœæ prawdopodobieñstwa rozk³adu amplitud

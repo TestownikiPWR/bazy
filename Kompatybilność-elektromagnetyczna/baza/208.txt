@@ -1,0 +1,5 @@
+X1000
+Które zdanie jest prawdziwe i dotyczy poligonu pomiarowego:
+Uprzedmiot nale¿y obracaæ od 0 do 360stopni
+przedmiot nale¿y obracaæ od 0 do 180 stopnidokonuje siê na nim pomiaru mocy promieniowanej
+dokonuje siê na nim pomiaru promieniowanego napiêcia

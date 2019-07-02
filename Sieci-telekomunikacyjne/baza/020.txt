@@ -1,0 +1,6 @@
+X0100
+Zasadniczym celem kodowania Ÿród³owego w DAB jest:
+polepszenie jakoœci transmisji
+ograniczenie szerokoœci pasma transmisji
+ograniczenie szumów transmisji
+ograniczenie zniekszta³ceñ transmisji

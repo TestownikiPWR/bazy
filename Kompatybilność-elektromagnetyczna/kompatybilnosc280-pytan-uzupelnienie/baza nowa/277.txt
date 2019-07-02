@@ -1,0 +1,6 @@
+X0010
+Jaka powinna byc wysokoœæ symulatora równoleg³op³ytowego aby mo¿na by³o mierzyæ odpornoœæ obiektu o wysokoœci 5m
+5m
+20m
+15m
+10m

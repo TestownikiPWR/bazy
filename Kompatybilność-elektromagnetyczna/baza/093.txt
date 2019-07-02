@@ -1,0 +1,6 @@
+X0100
+Najwiêksze zarejestrowane, w odleg³oœci kilku metrów, wartoœci natê¿enia pola atmosferycznego podczas wy³adowañ atmosferycznych wynosz¹:
+100kV/m
+400kV/m
+800kV/m
+1kV/m

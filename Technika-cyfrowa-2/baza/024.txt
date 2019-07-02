@@ -1,0 +1,6 @@
+X0100
+[img]024.jpg[/img]:
+Nie wolno laczyc wyjsc i wejsc
+/A+/B+/C
+A*B*C
+/A*/B*/C

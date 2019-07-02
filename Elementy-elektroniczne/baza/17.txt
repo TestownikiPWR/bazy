@@ -1,0 +1,6 @@
+X1000
+Barwa promieniowania emitowanego przez diodê LED zale¿y od: 
+a) szerokoœci przerwy zabronionej 
+b) szerokoœci obszaru ³adunku przestrzennego 
+c) ruchliwoœci noœników 
+d) kierunku polaryzacji 

@@ -1,0 +1,6 @@
+X0010
+87. B³¹d systematyczny pomiaru natezenia pradu sta³ego zale¿y od:
+a) Stosunku pradów zródla i amperomierza
+b) Iloczynu pradów zródla i amperomierza
+c) Stosunku rezystancji zródla i amperomierza
+d) Iloczynu rezystancji zródla i amperomierza

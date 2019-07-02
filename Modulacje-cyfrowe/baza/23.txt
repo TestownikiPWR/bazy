@@ -1,0 +1,5 @@
+X100
+23.Zaznacz w³aœciwe elementy QAM
+wiêksza efektywnoœæ energetyczna w porównaniu z 8-PSK
+mniejsza efektywnoœæ energetyczna w porównaniu z 8-PSK
+taka sama efektywnoœæ energetyczna w porównaniu z 8-PSK

@@ -1,0 +1,8 @@
+X001001
+Jakie s¹ dwie cechy wspólne dla TCP i UDP? (Wybierz dwa.) 
+domyœlny rozmiar okna 
+bezpo³¹czeniowa komunikacja 
+numerowanie portów 
+3-dro¿ny uœcisk d³oni 
+umiejêtnoœæ przenoszenia cyfrowego g³osu 
+u¿ycie sumy kontrolnej 

@@ -1,0 +1,6 @@
+X0010
+W œwiat³owodzie wykonanym ze szk³a kwarcowego szybkoœæ rozchodzenia siê fali wynosi:
+v=3*10^8 m/s
+v=1*10^8 m/s
+v=2*10^8 m/s
+v=0,5*10^8 m/s

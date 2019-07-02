@@ -1,0 +1,6 @@
+X0001
+84. Dokladnosc cyfrowego pomiaru okresu zalezy
+a) 出d czestotliwosci generatora kwarcowego
+b) 出d czestotliwosci otwierania bramki
+c) 出d czasu trwania sygnalu badanego
+d) 出d ilosci zliczonych impuls zegarowych

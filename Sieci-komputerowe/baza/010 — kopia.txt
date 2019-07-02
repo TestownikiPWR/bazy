@@ -1,0 +1,8 @@
+X101100
+Administrator sieci zauwa¿a, ¿e przepustowoœæ w sieci wydaje siê ni¿sza ni¿ oczekiwano w porównaniu do przepustowoœci sieci typu end-to-end. Które trzy czynniki mog¹ wyjaœniæ tê ró¿nicê? (Wybierz trzy.)
+iloœæ ruchu 
+typ u¿ywanej enkapsulacji danych
+rodzaj ruchu 
+liczba i typ urz¹dzeñ sieciowych, przez które przechodz¹ dane 
+przepustowoœæ po³¹czenia z us³ugodawc¹ internetowym
+niezawodnoœæ szkieletu sieci

@@ -1,0 +1,6 @@
+X0001
+Sieæ sztuczna typu V jest stosowana do pomiarów napiêcia zak³óceñ:
+pomiêdzy przewodami zasilania
+dla pr¹dów > 100A
+tylko dla napiêcia zasilaj¹cego 380V
+pomiêdzy ka¿dym z przewodów zasilania a mas¹

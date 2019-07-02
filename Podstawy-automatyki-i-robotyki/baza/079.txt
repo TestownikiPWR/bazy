@@ -1,0 +1,5 @@
+﻿X1000
+W pomiarach przemysłowych dla sygnałów ciągłych (analogowych) nie stosuje się standardu:
+(0-5) V
+(0-10) V
+(0-20) mA

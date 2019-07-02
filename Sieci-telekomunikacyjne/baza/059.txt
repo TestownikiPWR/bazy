@@ -1,0 +1,6 @@
+X0100
+Warunek propagacji œwiat³a w œwiat³owodzie, to:
+n rdzenia < n p³aszcza
+n rdzenia > n p³aszcza
+ma³a œrednica rdzenia
+specjalna warstwa odbijaj¹ca na granicy rdzenia i p³aszcza

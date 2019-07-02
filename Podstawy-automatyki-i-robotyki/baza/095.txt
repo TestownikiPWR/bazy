@@ -1,0 +1,5 @@
+X010
+Układ stabilny w sensie BIBO:
+jest ukladem typu MISO
+może być pobudzany tylko sygnałami ograniczonymi
+może być pobudzany dowolnymi sygnałami

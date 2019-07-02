@@ -1,0 +1,3 @@
+X1
+Jak¹ rolê w koncepcji NGN pe³ni "SoftSwitch"
+zapewnia sterowania elementami warstwy transportowej

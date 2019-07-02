@@ -1,0 +1,6 @@
+X1000
+Zmierzono wzrost 13 studentek i otrzymano nastêpuj¹ce wartoœci: 155 cm, 166 cm, 177 cm, 171 cm, 188 cm, 169 cm, 192 cm, 168 cm, 173 cm, 175 cm, 182 cm, 179 cm, 185.5 cm. Na ich podstawie wyznaczono empirycznie medianê rozk³adu wzrostów. Przedzia³ od zera do wartoœci mediany (w³¹cznie) zawiera³:
+7 obserwacji
+6 obserwacji
+8 obserwacji
+5 obserwacji

@@ -1,0 +1,6 @@
+X1110
+Dzia³anie kodera splotowego mo¿na opisaæ za pomoc¹:
+wykresu drzewiastego 
+grafu automatu
+kraty stanów 
+macierzy Viterbiego

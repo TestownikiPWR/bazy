@@ -1,0 +1,6 @@
+X1001
+Stosunek E/H >377 om, co z tego wynika(zaznacz 2):
+dominuje pole elektryczne,
+dominuje pole magnetyczne,
+coœ ze sprzê¿eniem indukcyjnym
+coœ ze sprzê¿eniem pojemnoœciowym

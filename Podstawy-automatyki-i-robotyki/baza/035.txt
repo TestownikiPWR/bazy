@@ -1,0 +1,4 @@
+﻿X1000
+Człon inercyjny I-go rzędu to:
+model matematyczny układów wspólny dla specyficznych układów o dowolnej naturze fizycznej
+inna nazwa czwórnika elektrycznego

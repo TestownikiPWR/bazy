@@ -1,0 +1,6 @@
+X0001
+Sterowanie mocy przy u¿yciu tyrystora polega na: 
+a) zmianie polaryzacji anoda-katoda 
+b) pracy w obszarze ujemnej rezystancji dynamicznej 
+c) regulacji punktu prze³¹czenia tyrystora 
+d) regulacji k¹ta zap³onu tyrystora 

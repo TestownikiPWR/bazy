@@ -1,0 +1,6 @@
+X0100
+Termin: „Przekszta³cenie f jest izomorficzne” oznacza, ¿e:
+przekszta³cenie f jest funkcj¹ sta³¹ niezale¿n¹ od argumentu
+przekszta³cenie f jest liniowe i wzajemnie jednoznaczne 
+przekszta³cenie f jest wzajemnie jednoznaczne, ale nie musi byæ liniowe
+przekszta³cenie f jest liniowe

@@ -1,0 +1,5 @@
+X100
+EPROM, kasowanie danych
+Kasujemy za pomoc¹ ultrafioletu.
+Kasujemy za pomoca odczytania flagi
+Kasujemy poprzez nadanie '1' na wejœciu

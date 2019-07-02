@@ -1,0 +1,6 @@
+X0010
+44. Zniekszta³ceniami liniowymi s¹:
+ Zniekszta³cenia harmoniczne
+ Zniekszta³cenia intermodulacyjne
+ Zniekszta³cenia amplitudowe
+ Zniekszta³cenia intermodulacyjne wielotonowe

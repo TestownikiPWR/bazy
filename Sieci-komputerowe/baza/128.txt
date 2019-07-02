@@ -1,0 +1,7 @@
+X10100
+Komputer g³ówny w³aœnie uruchomi³ siê i próbuje wydzier¿awiæ adres przez DHCP. Które z dwóch wiadomoœci bêd¹ zazwyczaj transmitowane przez klienta w sieci? (Wybierz dwa.)
+DHCPDISCOVER 
+DHCPOFFER
+DHCPREQUEST 
+DHCPACK
+DHCPNACK

@@ -1,0 +1,6 @@
+X0001
+Intensywnoœæ szumów atmosferycznych:
+roœnie z czêstotliwoœci¹
+jest sta³a w funkcji czêstotliwoœci
+roœnie ekspotencjalnie z czêstotliwoœci¹
+maleje z czêstotliwoœci¹

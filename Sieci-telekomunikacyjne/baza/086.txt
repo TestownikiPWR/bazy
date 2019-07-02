@@ -1,0 +1,6 @@
+X0100
+Który ze styków ³¹czy abonenta analogowego z adapterem terminalowym ?
+ styk S
+ styk R  
+ styk V
+ styk U

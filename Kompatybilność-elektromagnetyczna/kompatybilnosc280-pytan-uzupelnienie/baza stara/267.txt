@@ -1,0 +1,7 @@
+X00100
+Typowe poziomy odpornoœci urz¹dzeñ na wy³adowania stykowe ESD wymagane dla „œrodowiska przemys³owego”i ,mieszkalnego handlowego i lekko uprzemys³owionego wynosz¹:
+±8 kV,
+±11kV,
+±4 kV,
+±6 kV,
+±15 kV,

@@ -1,0 +1,6 @@
+X0010
+Kana³ typu D ma przepustowoœæ:
+8kb/s
+164kb/s
+16kb/s
+2Mb/s

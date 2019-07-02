@@ -1,0 +1,7 @@
+X10001
+Jakie cechy opisuje kabel œwiat³owodowy? (Wybierz dwa.)
+Nie ma na ni¹ wp³ywu EMI ani RFI. 
+Ka¿da para kabli jest owiniêta w metalow¹ foliê.
+£¹czy w sobie technikê anulowania, ekranowania i skrêcania w celu ochrony danych.
+Ma maksymaln¹ prêdkoœæ 100 Mb / s.
+Jest to najdro¿szy rodzaj okablowania LAN 

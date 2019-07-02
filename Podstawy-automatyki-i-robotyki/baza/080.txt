@@ -1,0 +1,5 @@
+﻿X0010
+Robot IRB 1400 potrzebuje m = 3 współrzędnych aby ustawić ramię na jednej płaszczyźnie. Ile wynosi stopień redundancji dla tego zadania? // w - liczba stopni swobody, w IRB 1400 = 6. Wzór: redundancja = w – m.
+2
+4
+3

@@ -1,0 +1,6 @@
+X0001
+37. W³¹czenie mierzonej reaktancji do obwodu rezonansowego powoduje:
+a) Zanikniêcie oscylacji sygna³u
+b) Zamianê czêstotliwoœci sygna³u pobudzaj¹cego
+c) Zanikniêcie impedancji wejœciowej woltomierza
+d) Zmianê czêstotliwoœci rezonansowej

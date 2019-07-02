@@ -1,0 +1,7 @@
+X10100
+Jakie dwa zadania s¹ funkcjami warstwy prezentacji? (Wybierz dwa.) 
+kompresja
+adresowanie 
+szyfrowanie 
+kontrola sesji 
+poœwiadczenie 

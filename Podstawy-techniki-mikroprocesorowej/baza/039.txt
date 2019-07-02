@@ -1,0 +1,6 @@
+X1000
+INT1, do czego s³u¿y?
+Przerwanie zewnêtrzne
+Przerwanie wewnêtrzne
+Trwa³e zatrzymanie programu
+Pêtla nieskoñczona

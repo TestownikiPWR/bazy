@@ -1,0 +1,6 @@
+X0001
+DTMF wykorzystuje sygna³y
+analogowe o czêstotliwoœciach spoza pasma rozmównego
+cyfrowe (z wykorzystanie kodu liniowego 2B1Q)
+pseudolosowe
+analogowe o czêstotliwoœciach z pasma rozmównego

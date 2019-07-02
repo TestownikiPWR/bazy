@@ -1,0 +1,6 @@
+X0100
+Podczas badañ kompatybilnoœci elektromagnetycznej urz¹dzenie powinno:
+byæ wy³¹czone
+pracowaæ w trybie normalnej pracy
+jego stan nie ma znaczenia
+byæ umieszczane w specjalnej, dodatkowej obudowie ekranu

@@ -1,0 +1,6 @@
+X0010
+systemowe cechy odbiornika to:
+odpornoœæ na zak³ócenia interferencyjne, zysk anteny, szerokoœæ kana³u, czêstotliwoœæ robocza
+moc na wejœciu odbiornika, t³umienie fidera, zysk anteny, wzniesienie anteny nad terenem
+czu³oœæ odbiornika, t³umienie fidera, zysk anteny, wzniesienie anteny nad terenem
+czêstotliwoœæ, moc promieniowania, czu³oœæ uzytkowa, zasiêg u¿ytkowy

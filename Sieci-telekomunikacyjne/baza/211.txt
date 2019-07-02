@@ -1,0 +1,6 @@
+X1000
+Jaki bêdzie poziom mocy, gdy na wejœciu mamy 1dBm po t³umieniu 20dB:
+-19dB
+19dB
+21dB
+-21dB

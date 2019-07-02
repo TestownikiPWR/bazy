@@ -1,0 +1,6 @@
+X1001
+Czêstotliwoœæ przepe³niania siê licznika zale¿y od…
+czêstotliwoœci taktuj¹cej
+obci¹¿enia procesora
+napiêcia zasilaj¹cego
+uruchomionego preskalera

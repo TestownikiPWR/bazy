@@ -1,0 +1,6 @@
+X0001
+Jaki jest najwy¿szy szczebel sieci telefonicznej?
+ sieæ regionalna
+ sieæ strefowa
+ sieæ miêdzymiastowa
+ sieæ miêdzynarodowa

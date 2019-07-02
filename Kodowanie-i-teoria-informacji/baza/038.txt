@@ -1,0 +1,6 @@
+X0010
+Który z ci¹gów kodowych jest wynikiem kodowania z bitem parzystoœci(tu mo¿e byæ b³¹d w odpowiedzi)
+Ten ci¹g kodowy w którym liczba zer jest parzysta
+Tylko ci¹gi kodowe o parzystej d³ugoœci, w której liczba zer oraz liczba jedynek s¹ parzyste
+Suma bitów ci¹gu kodowego modulo 2 daje w wyniku 0
+Suma bitów ci¹gu kodowego modulo 2 daje w wyniku 1

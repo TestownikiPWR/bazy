@@ -1,0 +1,6 @@
+X0010
+Przy propagacji w wolnej przestrzeni dziesiêciokrotny wzrost odleg³oœci R powodujê zmiane mocy odebranej o [dB]
+6
+10
+20
+40

@@ -1,0 +1,6 @@
+X0100
+82. Powy¿ej 40 fonów g³oœnoœæ dŸwiêku podwaja siê w przybli¿eniu:
+ Przy wzroœcie poziomu g³oœnoœci o 6 fonów
+ Przy wzroœcie poziomu g³oœnoœci o 10 fonów
+ Przy wzroœcie poziomu g³oœnoœci o 12 fonów
+ Przy wzroœcie poziomu g³oœnoœci o 15 fonów
